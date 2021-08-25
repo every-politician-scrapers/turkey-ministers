@@ -7,17 +7,17 @@ require 'pry'
 class MemberList
   class Member
     def name
-      noko.css('.name').text.tidy
+      noko.parent.css('.president-title').text.tidy
     end
 
     def position
-      noko.css('.position').text.tidy
+      noko.parent.css('.president-time-line').text.tidy
     end
   end
 
   class Members
     def member_container
-      noko.css('.member')
+      noko.css('#presidential-cabinet .president-title')
     end
   end
 end
