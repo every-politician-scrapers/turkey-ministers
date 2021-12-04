@@ -1,0 +1,127 @@
+{
+  "title": "Bekir Pakdemirli",
+  "pageID": 63544972,
+  "categories": [
+    "Living people",
+    "1973 births",
+    "People from İzmir",
+    "Bilkent University alumni",
+    "Başkent University alumni",
+    "Manisa Celal Bayar University alumni",
+    "Turkish businesspeople",
+    "Government ministers of Turkey",
+    "Ministers of Agriculture and Forestry of Turkey",
+    "Members of the 66th government of Turkey"
+  ],
+  "sections": [
+    {
+      "title": "",
+      "depth": 0,
+      "paragraphs": [
+        {
+          "sentences": [
+            {
+              "text": "Bekir Pakdemirli (born 1973) is a Turkish businessman and current Minister of Agriculture and Forestry.",
+              "formatting": {
+                "bold": [
+                  "Bekir Pakdemirli"
+                ]
+              }
+            }
+          ]
+        }
+      ],
+      "templates": [
+        {
+          "birth_year": "1973",
+          "template": "birth year and age"
+        }
+      ],
+      "infoboxes": [
+        {
+          "name": {
+            "text": "Bekir Pakdemirli"
+          },
+          "image": {
+            "text": "Bekir Pakdemirli (cropped).jpg"
+          },
+          "office1": {
+            "text": "Minister of Agriculture and Forestry",
+            "links": [
+              {
+                "text": "Minister of Agriculture and Forestry",
+                "type": "internal",
+                "page": "Ministry of Agriculture and Forestry (Turkey)"
+              }
+            ]
+          },
+          "president1": {
+            "text": "Recep Tayyip Erdoğan",
+            "links": [
+              {
+                "type": "internal",
+                "page": "Recep Tayyip Erdoğan"
+              }
+            ]
+          },
+          "term_start1": {
+            "text": "10 July 2018"
+          },
+          "predecessor1": {
+            "text": "Ahmet Eşref Fakıbaba",
+            "links": [
+              {
+                "type": "internal",
+                "page": "Ahmet Eşref Fakıbaba"
+              }
+            ]
+          },
+          "birth_date": {
+            "text": "1973 (age 48)"
+          },
+          "birth_place": {
+            "text": "İzmir, Turkey",
+            "links": [
+              {
+                "text": "İzmir",
+                "type": "internal",
+                "page": "İzmir"
+              },
+              {
+                "type": "internal",
+                "page": "Turkey"
+              }
+            ]
+          },
+          "alma_mater": {
+            "text": "Bilkent University, Başkent University, Celal Bayar University",
+            "links": [
+              {
+                "type": "internal",
+                "page": "Bilkent University"
+              },
+              {
+                "type": "internal",
+                "page": "Başkent University"
+              },
+              {
+                "type": "internal",
+                "page": "Celal Bayar University"
+              }
+            ]
+          },
+          "relations": {
+            "text": "Ekrem Pakdemirli (father)",
+            "links": [
+              {
+                "text": "Ekrem Pakdemirli",
+                "type": "internal",
+                "page": ":tr:Ekrem Pakdemirli"
+              }
+            ]
+          }
+        }
+      ]
+    }
+  ]
+}

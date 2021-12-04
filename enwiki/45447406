@@ -1,0 +1,278 @@
+{
+  "title": "Vasip Şahin",
+  "pageID": 45447406,
+  "categories": [
+    "1964 births",
+    "People from Bayburt",
+    "Istanbul University Faculty of Law alumni",
+    "Turkish civil servants",
+    "Governors of Istanbul",
+    "Living people"
+  ],
+  "sections": [
+    {
+      "title": "",
+      "depth": 0,
+      "paragraphs": [
+        {
+          "sentences": [
+            {
+              "text": "Vasip Şahin (born 1964) is a Turkish civil servant.",
+              "links": [
+                {
+                  "text": "Turkish",
+                  "type": "internal",
+                  "page": "Turkey"
+                }
+              ],
+              "formatting": {
+                "bold": [
+                  "Vasip Şahin"
+                ]
+              }
+            },
+            {
+              "text": "Currently, he serves as the Governor of Ankara Province.",
+              "links": [
+                {
+                  "text": "Governor of Ankara Province",
+                  "type": "internal",
+                  "page": "Governor of Ankara"
+                }
+              ]
+            }
+          ]
+        }
+      ],
+      "templates": [
+        {
+          "birth_year": "1964",
+          "template": "birth year and age"
+        }
+      ],
+      "infoboxes": [
+        {
+          "name": {
+            "text": "Vasip Şahin"
+          },
+          "imagesize": {
+            "text": "250",
+            "number": 250
+          },
+          "birth_date": {
+            "text": "1964 (age 57)"
+          },
+          "birth_place": {
+            "text": "Bayburt, Turkey",
+            "links": [
+              {
+                "type": "internal",
+                "page": "Bayburt"
+              }
+            ]
+          },
+          "alma_mater": {
+            "text": "Istanbul University",
+            "links": [
+              {
+                "type": "internal",
+                "page": "Istanbul University"
+              }
+            ]
+          },
+          "occupation": {
+            "text": "Civil servant"
+          },
+          "nationality": {
+            "text": "Turkish",
+            "links": [
+              {
+                "text": "Turkish",
+                "type": "internal",
+                "page": "Turkey"
+              }
+            ]
+          },
+          "office": {
+            "text": "38th Governor of Ankara",
+            "links": [
+              {
+                "text": "38th Governor of Ankara",
+                "type": "internal",
+                "page": "Governor of Ankara"
+              }
+            ]
+          },
+          "term_start": {
+            "text": "November 6, 2018"
+          },
+          "president": {
+            "text": "Recep Tayyip Erdoğan",
+            "links": [
+              {
+                "type": "internal",
+                "page": "Recep Tayyip Erdoğan"
+              }
+            ]
+          },
+          "predecessor": {
+            "text": "Ercan Topaca",
+            "links": [
+              {
+                "type": "internal",
+                "page": "Ercan Topaca"
+              }
+            ]
+          },
+          "office1": {
+            "text": "21st Governor of İstanbul",
+            "links": [
+              {
+                "text": "21st",
+                "type": "internal",
+                "page": "List of Governors of Istanbul"
+              },
+              {
+                "type": "internal",
+                "page": "Governor of İstanbul"
+              }
+            ]
+          },
+          "term_start1": {
+            "text": "September 25, 2014"
+          },
+          "term_end1": {
+            "text": "November 1, 2018"
+          },
+          "predecessor1": {
+            "text": "Hüseyin Avni Mutlu",
+            "links": [
+              {
+                "type": "internal",
+                "page": "Hüseyin Avni Mutlu"
+              }
+            ]
+          },
+          "successor1": {
+            "text": "Ali Yerlikaya",
+            "links": [
+              {
+                "type": "internal",
+                "page": "Ali Yerlikaya"
+              }
+            ]
+          },
+          "president1": {
+            "text": "Recep Tayyip Erdoğan",
+            "links": [
+              {
+                "type": "internal",
+                "page": "Recep Tayyip Erdoğan"
+              }
+            ]
+          },
+          "office2": {
+            "text": "37th Governor of Malatya",
+            "links": [
+              {
+                "text": "37th",
+                "type": "internal",
+                "page": "Governor of Malatya",
+                "anchor": "List of Governors of Malatya"
+              },
+              {
+                "type": "internal",
+                "page": "Governor of Malatya"
+              }
+            ]
+          },
+          "term_start2": {
+            "text": "August 31, 2012"
+          },
+          "term_end2": {
+            "text": "September 24, 2014"
+          },
+          "president2": {
+            "text": "Abdullah Gül Recep Tayyip Erdoğan",
+            "links": [
+              {
+                "type": "internal",
+                "page": "Abdullah Gül"
+              },
+              {
+                "type": "internal",
+                "page": "Recep Tayyip Erdoğan"
+              }
+            ]
+          },
+          "predecessor2": {
+            "text": "Ulvi Saran",
+            "links": [
+              {
+                "type": "internal",
+                "page": "Ulvi Saran"
+              }
+            ]
+          },
+          "successor2": {
+            "text": "Süleyman Kamçı",
+            "links": [
+              {
+                "type": "internal",
+                "page": "Süleyman Kamçı"
+              }
+            ]
+          },
+          "office3": {
+            "text": "6th Governor of Düzce",
+            "links": [
+              {
+                "text": "6th",
+                "type": "internal",
+                "page": "Governor of Düzce",
+                "anchor": "List of Governors of Düzce"
+              },
+              {
+                "type": "internal",
+                "page": "Governor of Düzce"
+              }
+            ]
+          },
+          "president3": {
+            "text": "Abdullah Gül",
+            "links": [
+              {
+                "type": "internal",
+                "page": "Abdullah Gül"
+              }
+            ]
+          },
+          "predecessor3": {
+            "text": "Bülent Kılınç",
+            "links": [
+              {
+                "type": "internal",
+                "page": "Bülent Kılınç"
+              }
+            ]
+          },
+          "successor3": {
+            "text": "Adnan Yılmaz",
+            "links": [
+              {
+                "type": "internal",
+                "page": "Adnan Yılmaz"
+              }
+            ]
+          },
+          "term_start3": {
+            "text": "June 7, 2010"
+          },
+          "term_end3": {
+            "text": "August 17, 2012"
+          }
+        }
+      ]
+    }
+  ]
+}

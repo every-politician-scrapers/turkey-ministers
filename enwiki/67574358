@@ -1,0 +1,153 @@
+{
+  "title": "Derya Yanık",
+  "pageID": 67574358,
+  "categories": [
+    "Living people",
+    "1972 births",
+    "Members of the 66th government of Turkey",
+    "Istanbul University Faculty of Law alumni",
+    "Turkish women in politics",
+    "Turkish lawyers"
+  ],
+  "sections": [
+    {
+      "title": "",
+      "depth": 0,
+      "paragraphs": [
+        {
+          "sentences": [
+            {
+              "text": "Derya Yanık (born 1972 in Osmaniye, Turkey) is a Turkish politician and Lawyer.",
+              "links": [
+                {
+                  "type": "internal",
+                  "page": "Osmaniye"
+                },
+                {
+                  "type": "internal",
+                  "page": "Turkey"
+                }
+              ],
+              "formatting": {
+                "bold": [
+                  "Derya Yanık"
+                ]
+              }
+            },
+            {
+              "text": "In 2021, she became the Turkish Minister of Family and Social Services",
+              "links": [
+                {
+                  "text": "Minister of Family and Social Services",
+                  "type": "internal",
+                  "page": "Ministry of Family and Social Services (Turkey)"
+                }
+              ]
+            }
+          ]
+        }
+      ],
+      "templates": [
+        {
+          "description": "Turkish Justice and Development Party politician",
+          "template": "short description"
+        }
+      ],
+      "infoboxes": [
+        {
+          "name": {
+            "text": "Derya Yanık"
+          },
+          "image": {
+            "text": "Derya Yanık, Diyarbakır 2021.jpg"
+          },
+          "office1": {
+            "text": "Minister of Family and Social Services",
+            "links": [
+              {
+                "text": "Minister of Family and Social Services",
+                "type": "internal",
+                "page": "Ministry  of Family and Social Services (Turkey)"
+              }
+            ]
+          },
+          "term_start1": {
+            "text": "21 April 2021"
+          },
+          "predecessor1": {
+            "text": "Zehra Zümrüt Selçuk",
+            "links": [
+              {
+                "type": "internal",
+                "page": "Zehra Zümrüt Selçuk"
+              }
+            ]
+          },
+          "birth_date": {
+            "text": "1972",
+            "number": 1972
+          },
+          "birth_place": {
+            "text": "Osmaniye, Turkey",
+            "links": [
+              {
+                "type": "internal",
+                "page": "Osmaniye"
+              }
+            ]
+          },
+          "nationality": {
+            "text": "Turkish"
+          },
+          "party": {
+            "text": "Justice and Development Party",
+            "links": [
+              {
+                "text": "Justice and Development Party",
+                "type": "internal",
+                "page": "Justice and Development Party (Turkey)"
+              }
+            ]
+          },
+          "alma_mater": {
+            "text": "Istanbul University",
+            "links": [
+              {
+                "type": "internal",
+                "page": "Istanbul University"
+              }
+            ]
+          },
+          "president1": {
+            "text": "Recep Tayyip Erdoğan",
+            "links": [
+              {
+                "type": "internal",
+                "page": "Recep Tayyip Erdoğan"
+              }
+            ]
+          }
+        }
+      ],
+      "references": [
+        {
+          "title": "Kabine değişikliği Resmi Gazete'de yayımlandı",
+          "url": "https://www.aa.com.tr/tr/politika/kabine-degisikligi-resmi-gazetede-yayimlandi/2215269",
+          "access-date": "2021-05-04",
+          "website": "www.aa.com.tr",
+          "template": "citation",
+          "type": "web"
+        },
+        {
+          "title": "Derya Yanık: 'İBB'ye başkanlık eden ilk kadın', yeni Aile ve Sosyal Hizmetler Bakanı",
+          "language": "tr",
+          "work": "BBC News Türkçe",
+          "url": "https://www.bbc.com/turkce/haberler-turkiye-56832982",
+          "access-date": "2021-05-04",
+          "template": "citation",
+          "type": "news"
+        }
+      ]
+    }
+  ]
+}

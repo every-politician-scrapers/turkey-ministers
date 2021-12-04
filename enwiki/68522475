@@ -1,0 +1,140 @@
+{
+  "title": "Mahmut Özer",
+  "pageID": 68522475,
+  "categories": [
+    "Ministers of National Education of Turkey",
+    "Members of the 66th government of Turkey",
+    "1970 births",
+    "Turkish engineering academics",
+    "Living people",
+    "Turkish electrical engineers"
+  ],
+  "sections": [
+    {
+      "title": "",
+      "depth": 0,
+      "paragraphs": [
+        {
+          "sentences": [
+            {
+              "text": "Mahmut Özer (born May 5, 1970) is a Turkish academic, former Bulent Ecevit University rector, former Measuring, Selection and Placement Center president and current Minister of National Education.",
+              "links": [
+                {
+                  "text": "Turkish",
+                  "type": "internal",
+                  "page": "Turkish people"
+                },
+                {
+                  "text": "Bulent Ecevit University",
+                  "type": "internal",
+                  "page": "Zonguldak Bülent Ecevit University"
+                },
+                {
+                  "text": "rector",
+                  "type": "internal",
+                  "page": "rector (academia)"
+                },
+                {
+                  "type": "internal",
+                  "page": "Measuring, Selection and Placement Center"
+                },
+                {
+                  "text": "Minister of National Education",
+                  "type": "internal",
+                  "page": "Ministry of National Education (Turkey)"
+                }
+              ],
+              "formatting": {
+                "bold": [
+                  "Mahmut Özer"
+                ]
+              }
+            }
+          ]
+        }
+      ],
+      "templates": [
+        {
+          "description": "Turkish politician",
+          "template": "short description"
+        },
+        {
+          "date": "August 2021",
+          "template": "use mdy dates"
+        },
+        {
+          "date": "August 2021",
+          "template": "use american english"
+        },
+        {
+          "date": "August 2021",
+          "template": "cleanup bare urls"
+        },
+        {
+          "year": "1970",
+          "month": "5",
+          "day": "5",
+          "template": "birth date and age"
+        }
+      ],
+      "infoboxes": [
+        {
+          "image": {
+            "text": "File:Mahmut Özer (cropped).png"
+          },
+          "office3": {
+            "text": "Minister of National Education",
+            "links": [
+              {
+                "text": "Minister of National Education",
+                "type": "internal",
+                "page": "Ministry of National Education (Turkey)"
+              }
+            ]
+          },
+          "term_start3": {
+            "text": "August 6, 2021"
+          },
+          "predecessor3": {
+            "text": "Ziya Selçuk",
+            "links": [
+              {
+                "type": "internal",
+                "page": "Ziya Selçuk"
+              }
+            ]
+          },
+          "birth_date": {
+            "text": "May 5, 1970"
+          },
+          "birth_place": {
+            "text": "Tokat Province, Turkey",
+            "links": [
+              {
+                "type": "internal",
+                "page": "Tokat Province"
+              },
+              {
+                "type": "internal",
+                "page": "Turkey"
+              }
+            ]
+          },
+          "education": {
+            "text": "Istanbul Technical University\nKaradeniz Technical University",
+            "links": [
+              {
+                "type": "internal",
+                "page": "Istanbul Technical University"
+              },
+              {
+                "type": "internal",
+                "page": "Karadeniz Technical University"
+              }
+            ]
+          }
+        }
+      ]
+    }
+  ]
+}

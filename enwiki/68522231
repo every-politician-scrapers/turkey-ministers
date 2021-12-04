@@ -1,0 +1,166 @@
+{
+  "title": "Murat Kurum",
+  "pageID": 68522231,
+  "categories": [
+    "Members of the 66th government of Turkey",
+    "Selçuk University alumni",
+    "Turkish civil engineers",
+    "Living people",
+    "1976 births"
+  ],
+  "sections": [
+    {
+      "title": "",
+      "depth": 0,
+      "paragraphs": [
+        {
+          "sentences": [
+            {
+              "text": "Murat Kurum (born 1976) is a Turkish engineer, technocrat, and incumbent of the Ministry of Environment and Urbanization.",
+              "links": [
+                {
+                  "text": "Turkish",
+                  "type": "internal",
+                  "page": "Turkish people"
+                },
+                {
+                  "text": "Ministry of Environment and Urbanization",
+                  "type": "internal",
+                  "page": "Ministry of Environment and Urbanization (Turkey)"
+                }
+              ],
+              "formatting": {
+                "bold": [
+                  "Murat Kurum"
+                ]
+              }
+            }
+          ]
+        },
+        {
+          "sentences": [
+            {
+              "text": "After completing coursework at the Ankara Mimar Kemal High School, he graduated from Selçuk University, Faculty of Engineering and Architecture, Department of Civil Engineering in 1999.",
+              "links": [
+                {
+                  "type": "internal",
+                  "page": "Selçuk University"
+                }
+              ]
+            },
+            {
+              "text": "Between 1999 and 2005, he worked as an engineer, site manager and coordinator in various private organizations operating in the field of construction."
+            }
+          ]
+        },
+        {
+          "sentences": [
+            {
+              "text": "Between 2005 and 2006, he worked as an expert at the Mass Housing Development Administration Ankara Implementation Department.",
+              "links": [
+                {
+                  "type": "internal",
+                  "page": "Mass Housing Development Administration"
+                }
+              ]
+            },
+            {
+              "text": "Between 2006 and 2009, he worked as the European Side Implementation Branch Manager of TOKİ Istanbul Implementation Department Emlak Konut GYO A.Ş., a subsidiary of TR Prime Ministry Mass Housing Administration, since 2009.",
+              "links": [
+                {
+                  "type": "internal",
+                  "page": "Emlak Konut"
+                }
+              ]
+            },
+            {
+              "text": "He served as General Manager and member of the board of directors."
+            },
+            {
+              "text": "He was appointed as the Minister of Environment and Urbanization on July 10, 2018."
+            }
+          ]
+        },
+        {
+          "sentences": [
+            {
+              "text": "Murat Kurum is married and has three children."
+            }
+          ]
+        }
+      ],
+      "templates": [
+        {
+          "date": "August 2021",
+          "template": "one source"
+        },
+        {
+          "description": "Turkish politician",
+          "template": "short description"
+        },
+        {
+          "date": "August 2021",
+          "template": "use mdy dates"
+        },
+        {
+          "date": "August 2021",
+          "template": "use american english"
+        },
+        {
+          "birth_year": "1976",
+          "template": "birth year and age"
+        }
+      ],
+      "infoboxes": [
+        {
+          "image": {
+            "text": "File:Murat Kurum, 2021 (cropped).jpg"
+          },
+          "office3": {
+            "text": "Ministry of Environment and Urbanization",
+            "links": [
+              {
+                "text": "Ministry of Environment and Urbanization",
+                "type": "internal",
+                "page": "Ministry of Environment and Urbanization (Turkey)"
+              }
+            ]
+          },
+          "term_start3": {
+            "text": "July 10, 2018"
+          },
+          "predecessor3": {
+            "text": "Mehmet Özhaseki",
+            "links": [
+              {
+                "type": "internal",
+                "page": "Mehmet Özhaseki"
+              }
+            ]
+          },
+          "birth_date": {
+            "text": "1976 (age 45)"
+          },
+          "education": {
+            "text": "Selçuk University",
+            "links": [
+              {
+                "type": "internal",
+                "page": "Selçuk University"
+              }
+            ]
+          }
+        }
+      ],
+      "references": [
+        {
+          "url": "https://csb.gov.tr/bakan",
+          "title": "Murat KURUM - T.C. Çevre ve Şehircilik Bakanlığı",
+          "website": "csb.gov.tr",
+          "template": "citation",
+          "type": "web"
+        }
+      ]
+    }
+  ]
+}

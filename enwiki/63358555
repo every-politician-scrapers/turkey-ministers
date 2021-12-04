@@ -1,0 +1,204 @@
+{
+  "title": "Fahrettin Koca",
+  "pageID": 63358555,
+  "categories": [
+    "1965 births",
+    "Turkish pediatricians",
+    "Health ministers of Turkey",
+    "Living people",
+    "People from Konya",
+    "Istanbul University Faculty of Medicine alumni",
+    "Istanbul University Cerrahpaşa Faculty of Medicine alumni",
+    "Members of the 66th government of Turkey"
+  ],
+  "sections": [
+    {
+      "title": "",
+      "depth": 0,
+      "paragraphs": [
+        {
+          "sentences": [
+            {
+              "text": "Fahrettin Koca (born 2 January 1965) is a Turkish physician and politician.",
+              "formatting": {
+                "bold": [
+                  "Fahrettin Koca"
+                ]
+              }
+            },
+            {
+              "text": "He is the Minister of Health of the 66th government of Turkey.",
+              "links": [
+                {
+                  "text": "Minister of Health",
+                  "type": "internal",
+                  "page": "List of Ministers of Health of Turkey"
+                },
+                {
+                  "text": "66th government of Turkey",
+                  "type": "internal",
+                  "page": "Cabinet Erdoğan IV"
+                }
+              ]
+            },
+            {
+              "text": "He is from Konya, Kulu, Tavşancalı village (originally known as Ömeranlı)."
+            }
+          ]
+        }
+      ],
+      "templates": [
+        {
+          "description": "Turkish physician and politician",
+          "template": "short description"
+        },
+        {
+          "year": "1965",
+          "month": "1",
+          "day": "2",
+          "df": "y",
+          "template": "birth date and age"
+        }
+      ],
+      "infoboxes": [
+        {
+          "name": {
+            "text": "Fahrettin Koca"
+          },
+          "image": {
+            "text": "Fahrettin Koca 20200311 2.jpg"
+          },
+          "caption": {
+            "text": "Koca in 2020"
+          },
+          "birth_date": {
+            "text": "January 2, 1965"
+          },
+          "birth_place": {
+            "text": "Konya, Turkey",
+            "links": [
+              {
+                "type": "internal",
+                "page": "Konya"
+              },
+              {
+                "type": "internal",
+                "page": "Turkey"
+              }
+            ]
+          },
+          "alma_mater": {
+            "text": "Istanbul University",
+            "links": [
+              {
+                "type": "internal",
+                "page": "Istanbul University"
+              }
+            ]
+          },
+          "education": {
+            "text": "Medicine"
+          },
+          "office1": {
+            "text": "Minister of Health",
+            "links": [
+              {
+                "text": "Minister of Health",
+                "type": "internal",
+                "page": "Ministry of Health (Turkey)"
+              }
+            ]
+          },
+          "term_start1": {
+            "text": "10 July 2018"
+          },
+          "president1": {
+            "text": "Recep Tayyip Erdoğan",
+            "links": [
+              {
+                "type": "internal",
+                "page": "Recep Tayyip Erdoğan"
+              }
+            ]
+          },
+          "predecessor1": {
+            "text": "Ahmet Demircan",
+            "links": [
+              {
+                "type": "internal",
+                "page": "Ahmet Demircan"
+              }
+            ]
+          },
+          "party": {
+            "text": "Independent",
+            "links": [
+              {
+                "text": "Independent",
+                "type": "internal",
+                "page": "Independent politician"
+              }
+            ]
+          },
+          "spouse": {
+            "text": "Hale Koca"
+          },
+          "children": {
+            "text": "4",
+            "number": 4
+          },
+          "signature": {
+            "text": "F.Koca-signature.png"
+          }
+        }
+      ],
+      "references": [
+        {
+          "url": "https://www.tccb.gov.tr/en/cabinet/minister-of-health",
+          "title": "Presidency Of The Republic Of Turkey : Fahrettin KOCA",
+          "website": "www.tccb.gov.tr",
+          "access-date": "2020-03-13",
+          "template": "citation",
+          "type": "web"
+        },
+        {
+          "last": "McKernan",
+          "first": "Bethan",
+          "url": "https://www.theguardian.com/world/2020/mar/11/turkey-announces-its-first-case-of-coronavirus",
+          "title": "Turkey announces its first case of coronavirus",
+          "date": "2020-03-11",
+          "work": "The Guardian",
+          "access-date": "2020-03-13",
+          "language": "en-GB",
+          "issn": "0261-3077",
+          "template": "citation",
+          "type": "news"
+        },
+        {
+          "title": "Nişanyan Yeradları",
+          "url": "https://nisanyanmap.com/?y=Tav%C5%9Fancal%C4%B1&t=Kulu",
+          "website": "nisanyanmap.com",
+          "language": "en",
+          "access-date": "2020-05-16",
+          "template": "citation",
+          "type": "web"
+        },
+        {
+          "title": "Tavşancalı düğün videosu",
+          "url": "https://m.youtube.com/watch?v=1kvAzssbsk0",
+          "template": "citation",
+          "type": "web"
+        },
+        {
+          "url": "https://ahvalnews.com/turkey-coronavirus/turkish-man-tested-positive-coronavirus-first-case-country-health-minister",
+          "title": "Turkish man tested positive for coronavirus in first case for country – health minister",
+          "website": "Ahval",
+          "language": "en",
+          "access-date": "2020-03-13",
+          "template": "citation",
+          "type": "web"
+        }
+      ]
+    }
+  ]
+}

@@ -1,0 +1,114 @@
+{
+  "title": "Fatih Dönmez",
+  "pageID": 66281332,
+  "categories": [
+    "Turkish politicians",
+    "Turkish engineers",
+    "People from Bilecik",
+    "1965 births",
+    "Living people",
+    "Yıldız Technical University alumni",
+    "Ministers of Energy and Natural Resources of Turkey"
+  ],
+  "sections": [
+    {
+      "title": "",
+      "depth": 0,
+      "paragraphs": [
+        {
+          "sentences": [
+            {
+              "text": "Fatih Dönmez (born 1965, Bilecik) is a Turkish engineer, politician and the current Turkish Minister of Energy and Natural Resources.",
+              "links": [
+                {
+                  "type": "internal",
+                  "page": "Bilecik"
+                },
+                {
+                  "text": "Turkish",
+                  "type": "internal",
+                  "page": "Turkey"
+                },
+                {
+                  "text": "Minister of Energy and Natural Resources",
+                  "type": "internal",
+                  "page": "Ministry of Energy and Natural Resources (Turkey)"
+                }
+              ],
+              "formatting": {
+                "bold": [
+                  "Fatih Dönmez"
+                ]
+              }
+            }
+          ]
+        }
+      ],
+      "templates": [
+        {
+          "description": "Turkish engineer and politician",
+          "template": "short description"
+        }
+      ],
+      "infoboxes": [
+        {
+          "name": {
+            "text": "Fatih Dönmez"
+          },
+          "office": {
+            "text": "Minister of Energy and Natural Resources"
+          },
+          "termstart": {
+            "text": "10 July 2018"
+          },
+          "image": {
+            "text": "Fatih Dönmez (cropped).jpg"
+          },
+          "alma_mater": {
+            "text": "Yıldız Technical University",
+            "links": [
+              {
+                "type": "internal",
+                "page": "Yıldız Technical University"
+              }
+            ]
+          },
+          "birth_place": {
+            "text": "Bilecik",
+            "links": [
+              {
+                "type": "internal",
+                "page": "Bilecik"
+              }
+            ]
+          },
+          "birth_date": {
+            "text": "1965",
+            "number": 1965
+          },
+          "occupation": {
+            "text": "Engineer and politician"
+          },
+          "succeeding": {
+            "text": "Berat Albayrak",
+            "links": [
+              {
+                "type": "internal",
+                "page": "Berat Albayrak"
+              }
+            ]
+          },
+          "president": {
+            "text": "Recep Tayyip Erdoğan",
+            "links": [
+              {
+                "type": "internal",
+                "page": "Recep Tayyip Erdoğan"
+              }
+            ]
+          }
+        }
+      ]
+    }
+  ]
+}
