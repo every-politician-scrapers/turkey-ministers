@@ -114,9 +114,11 @@
             "text": "Ekrem Pakdemirli (father)",
             "links": [
               {
-                "text": "Ekrem Pakdemirli",
-                "type": "internal",
-                "page": ":tr:Ekrem Pakdemirli"
+                "type": "interwiki",
+                "wiki": {
+                  "wiki": "",
+                  "lang": "tr"
+                }
               }
             ]
           }
