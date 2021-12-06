@@ -27,10 +27,10 @@
               }
             },
             {
-              "text": "He is the Minister of Health of the 66th government of Turkey.",
+              "text": "He is the minister of health of the 66th government of Turkey.",
               "links": [
                 {
-                  "text": "Minister of Health",
+                  "text": "minister of health",
                   "type": "internal",
                   "page": "List of Ministers of Health of Turkey"
                 },
@@ -40,17 +40,18 @@
                   "page": "Cabinet Erdoğan IV"
                 }
               ]
-            },
-            {
-              "text": "He is from Konya, Kulu, Tavşancalı village (originally known as Ömeranlı)."
             }
           ]
         }
       ],
       "templates": [
         {
-          "description": "Turkish physician and politician",
+          "description": "Turkish physician and politician (born 1965)",
           "template": "short description"
+        },
+        {
+          "date": "December 2021",
+          "template": "use dmy dates"
         },
         {
           "year": "1965",
@@ -62,9 +63,6 @@
       ],
       "infoboxes": [
         {
-          "name": {
-            "text": "Fahrettin Koca"
-          },
           "image": {
             "text": "Fahrettin Koca 20200311 2.jpg"
           },
@@ -99,7 +97,7 @@
           "education": {
             "text": "Medicine"
           },
-          "office1": {
+          "office": {
             "text": "Minister of Health",
             "links": [
               {
@@ -109,10 +107,10 @@
               }
             ]
           },
-          "term_start1": {
+          "term_start": {
             "text": "10 July 2018"
           },
-          "president1": {
+          "president": {
             "text": "Recep Tayyip Erdoğan",
             "links": [
               {
@@ -121,7 +119,7 @@
               }
             ]
           },
-          "predecessor1": {
+          "predecessor": {
             "text": "Ahmet Demircan",
             "links": [
               {
@@ -157,35 +155,7 @@
           "url": "https://www.tccb.gov.tr/en/cabinet/minister-of-health",
           "title": "Presidency Of The Republic Of Turkey : Fahrettin KOCA",
           "website": "www.tccb.gov.tr",
-          "access-date": "2020-03-13",
-          "template": "citation",
-          "type": "web"
-        },
-        {
-          "last": "McKernan",
-          "first": "Bethan",
-          "url": "https://www.theguardian.com/world/2020/mar/11/turkey-announces-its-first-case-of-coronavirus",
-          "title": "Turkey announces its first case of coronavirus",
-          "date": "2020-03-11",
-          "work": "The Guardian",
-          "access-date": "2020-03-13",
-          "language": "en-GB",
-          "issn": "0261-3077",
-          "template": "citation",
-          "type": "news"
-        },
-        {
-          "title": "Nişanyan Yeradları",
-          "url": "https://nisanyanmap.com/?y=Tav%C5%9Fancal%C4%B1&t=Kulu",
-          "website": "nisanyanmap.com",
-          "language": "en",
-          "access-date": "2020-05-16",
-          "template": "citation",
-          "type": "web"
-        },
-        {
-          "title": "Tavşancalı düğün videosu",
-          "url": "https://m.youtube.com/watch?v=1kvAzssbsk0",
+          "access-date": "13 March 2020",
           "template": "citation",
           "type": "web"
         },
@@ -194,9 +164,22 @@
           "title": "Turkish man tested positive for coronavirus in first case for country – health minister",
           "website": "Ahval",
           "language": "en",
-          "access-date": "2020-03-13",
+          "access-date": "13 March 2020",
           "template": "citation",
           "type": "web"
+        },
+        {
+          "last": "McKernan",
+          "first": "Bethan",
+          "url": "https://www.theguardian.com/world/2020/mar/11/turkey-announces-its-first-case-of-coronavirus",
+          "title": "Turkey announces its first case of coronavirus",
+          "date": "11 March 2020",
+          "work": "The Guardian",
+          "access-date": "13 March 2020",
+          "language": "en-GB",
+          "issn": "0261-3077",
+          "template": "citation",
+          "type": "news"
         }
       ]
     }
