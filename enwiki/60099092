@@ -255,10 +255,10 @@
             }
           },
           "office2": {
-            "text": "Mayor of Beylikdüzü",
+            "text": "Mayor of Beylikdüzü district, Istanbul",
             "links": [
               {
-                "text": "Mayor of Beylikdüzü",
+                "text": "Mayor of Beylikdüzü district, Istanbul",
                 "type": "internal",
                 "page": "Beylikdüzü"
               }
