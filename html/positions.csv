@@ -1,0 +1,24 @@
+id,position,country,jurisdiction,deputy,list,start,end,before,after,enwiki
+Q1922067,President of Turkey,Q43,Q43,Q52137988,Q216984,1923-10-29,,,,President of Turkey
+Q5261074,Deputy Prime Minister of Turkey,Q43,Q43,,,1920-05-03,2018-07-09,,,Deputy Prime Minister of Turkey
+Q106533896,Minister of Agriculture and Forestry,Q43,,,,,,,,
+Q23196601,minister of Culture and Tourism,Q43,Q43,,,,,,,
+Q108272582,Minister of Development,Q43,Q43,,,,,,,
+Q20470741,Minister of Economy,Q43,,,,,,,,
+Q106533226,Minister of Energy and Natural Resources,Q43,,,,,,,,
+Q106561527,Minister of European Union Affairs,Q43,Q43,,,2011-07-06,2018-07-09,,,
+Q106963568,,Q43,,,,2021-05-17,,,,
+Q20988486,"Minister of Foreign Affairs, Turkey",Q43,Q43,,Q1829539,1920-05-03,,,,Minister of Foreign Affairs (Turkey)
+Q29645718,Minister of Health of Turkey,Q43,Q43,,,,,,,
+Q106533996,Minister of National Education,Q43,Q43,,,,,,,
+Q106532539,"Minister of the Environment, Urbanisation, and Climate Change",Q43,Q43,,,2011-07-06,,,,
+Q106541814,Minister of Trade,Q43,Q43,,,,,,,
+Q87662887,minister of Transport and Infrastructure,Q43,Q43,,,,,,,
+Q106532278,Minister of Treasury and Finance,Q43,Q43,,,,,,,
+Q106533834,Minister of Youth and Sports,Q43,,,,,,,,
+Q20473788,Speaker of the Grand National Assembly,Q43,Q274918,,,,,,,
+Q670262,Chief of the Turkish General Staff,Q43,,,,1920-05-03,,,,Chief of the Turkish General Staff
+Q98086768,Governor of the Central Bank of Turkey,Q43,,,Q6572237,,,,,
+Q20988365,Governor of Ankara,,,,,,,,,Governor of Ankara
+Q6572133,Governor of İstanbul,,Q406,,,,,,,Governor of Istanbul
+Q62925885,mayor of Istanbul,Q43,Q406,,Q3404657,,,,,
