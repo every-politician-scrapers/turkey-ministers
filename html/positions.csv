@@ -1,5 +1,7 @@
 id,position,country,jurisdiction,deputy,list,start,end,before,after,enwiki
 Q1922067,President of Turkey,Q43,Q43,Q52137988,Q216984,1923-10-29,,,,President of Turkey
+Q52137988,Vice President of Turkey,Q43,Q43,,,2018,,Q2430415,,Vice President of Turkey
+Q2430415,Prime Minister of Turkey,Q43,Q43,,Q474514,1920-05-03,2018-07-09,Q1142289,Q52137988,Prime Minister of Turkey
 Q5261074,Deputy Prime Minister of Turkey,Q43,Q43,,,1920-05-03,2018-07-09,,,Deputy Prime Minister of Turkey
 Q106533896,Minister of Agriculture and Forestry,Q43,,,,,,,,
 Q23196601,minister of Culture and Tourism,Q43,Q43,,,,,,,
@@ -7,11 +9,20 @@ Q108272582,Minister of Development,Q43,Q43,,,,,,,
 Q20470741,Minister of Economy,Q43,,,,,,,,
 Q106533226,Minister of Energy and Natural Resources,Q43,,,,,,,,
 Q106561527,Minister of European Union Affairs,Q43,Q43,,,2011-07-06,2018-07-09,,,
+Q106587058,Minister of Family and Social Services,Q43,Q43,,,,,Q106532581,,
+Q106561136,Minister of Family and Social Policies,Q43,Q43,,,2011,2018,Q106603593,Q106532581,
+Q106532581,"Minister of Family, Labor and Social Services",Q43,,,,2018,2021-04-21,Q106561136,Q106587058,
 Q106963568,,Q43,,,,2021-05-17,,,,
 Q20988486,"Minister of Foreign Affairs, Turkey",Q43,Q43,,Q1829539,1920-05-03,,,,Minister of Foreign Affairs (Turkey)
 Q29645718,Minister of Health of Turkey,Q43,Q43,,,,,,,
+Q106541631,Minister of Industry and Technology,Q43,,,,,,Q106561597,,
+Q106508952,Interior Minister of Turkey,Q43,Q43,,,,,Q106618466,,
+Q61895843,Minister of Justice,Q43,Q43,,Q1841074,,,Q106612721,,
+Q106587107,Minister of Labour and Social Security,Q43,Q43,,,2021-04-21,,Q106532581,,
+Q106532199,Minister of National Defence,Q43,Q43,,,,,,,
 Q106533996,Minister of National Education,Q43,Q43,,,,,,,
 Q106532539,"Minister of the Environment, Urbanisation, and Climate Change",Q43,Q43,,,2011-07-06,,,,
+Q106561597,"Minister of Science, Industry and Technology",Q43,Q43,,,,,,Q106541631,
 Q106541814,Minister of Trade,Q43,Q43,,,,,,,
 Q87662887,minister of Transport and Infrastructure,Q43,Q43,,,,,,,
 Q106532278,Minister of Treasury and Finance,Q43,Q43,,,,,,,
