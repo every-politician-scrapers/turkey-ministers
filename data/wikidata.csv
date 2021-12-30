@@ -1,20 +1,20 @@
-wdid,name,wdLabel,gender,dob,dobPrecision,source,sourceDate,pid,position,psid
-Q106577630,Derya YANIK,Derya Yanık,female,1972-01-01,9,https://www.tccb.gov.tr/en/cabinet/,2021-08-25,Q106587058,Minister of Family and Social Services,Q106577630-7b6cdb57-4cd1-dd21-f7f1-bef9d4de601f
-Q109627433,Dr. Nureddin NEBATİ,Nureddin Nebati,male,1964-01-01,11,https://www.tccb.gov.tr/en/cabinet/,2021-12-03,Q106532278,Minister Of Treasury And Finance,Q109627433-606D9D3F-B392-4B65-86F2-C3B9922B34FE
-Q17045790,Hulusi AKAR,Hulusi Akar,male,1952-03-12,11,https://www.tccb.gov.tr/en/cabinet/,2021-08-25,Q106532199,Minister of National Defense,Q17045790-7A554213-36A4-4A1F-83FE-0E2290C324F2
-Q19611864,Mahmut ÖZER,Mahmut Özer,male,1970-05-05,11,https://www.tccb.gov.tr/en/cabinet/,2021-08-25,Q106533996,Minister of National Education,Q19611864-8613C45B-28A6-448D-AC85-4BBEDFC66EBF
-Q19612675,Adil KARAİSMAİLOĞLU,Adil Karaismailoğlu,male,1969-05-19,11,https://www.tccb.gov.tr/en/cabinet/,2021-08-25,Q87662887,Minister of Transport and Infrastructure,Q19612675-9e43554b-47a4-aedf-cd80-bbd363c42a66
-Q21328910,Abdulhamit GÜL,Abdulhamit Gül,male,1977-03-12,11,https://www.tccb.gov.tr/en/cabinet/,2021-08-25,Q61895843,Minister of Justice,Q21328910-2212773d-42c5-1bef-5d2f-c2da60c1e98a
-Q249206,Mevlüt ÇAVUŞOĞLU,Mevlüt Çavuşoğlu,male,1968-02-05,11,https://www.tccb.gov.tr/en/cabinet/,2021-08-25,Q20988486,Minister of Foreign Affairs,Q249206-45FAFECE-C232-482E-B1D2-DDA0D8378631
-Q25477012,Mehmet MUŞ,Mehmet Muş,male,1982-05-01,11,https://www.tccb.gov.tr/en/cabinet/,2021-08-25,Q106541814,Minister of Trade,Q25477012-807ed5fd-4550-36a3-4344-05ab98e2eb6c
-Q39259,Recep Tayyip Erdoğan,Recep Tayyip Erdoğan,male,1954-02-26,11,,,Q1922067,President of Turkey,Q39259-43fe35d2-4a37-1c47-8b07-d89fa5d99c90
-Q55437281,Fuat OKTAY,Fuat Oktay,male,1964-01-01,9,https://www.tccb.gov.tr/en/cabinet/,2021-08-25,Q52137988,Vice President,Q55437281-e96a0aca-4a5f-c3dc-884c-e8ac8955bd41
-Q55439659,Fahrettin KOCA,Fahrettin Koca,male,1965-01-02,11,https://www.tccb.gov.tr/en/cabinet/,2021-08-25,Q29645718,Minister of Health,Q55439659-0e463048-4d0c-a8a4-5a29-62f073ec94bb
-Q55439729,Bekir PAKDEMİRLİ,Bekir Pakdemirli,male,1973-11-10,11,https://www.tccb.gov.tr/en/cabinet/,2021-08-25,Q106533896,Minister of Agriculture and Forestry,Q55439729-ae17606b-42d4-a393-4c83-9758fd52439a
-Q55455996,Mustafa VARANK,Mustafa Varank,male,1976-01-01,11,https://www.tccb.gov.tr/en/cabinet/,2021-08-25,Q106541631,Minister of Industry and Technology,Q55455996-3948290b-4dbc-9651-05b3-e4b10e8910d8
-Q55456118,Fatih DÖNMEZ,Fatih Dönmez,male,1965-01-01,11,https://www.tccb.gov.tr/en/cabinet/,2021-08-25,Q106533226,Minister of Energy and Natural Resources,Q55456118-7D61A94C-D697-4C72-900B-2B607273EFCE
-Q55526162,Mehmet Nuri ERSOY,Mehmet Nuri Ersoy,male,1968-01-01,9,https://www.tccb.gov.tr/en/cabinet/,2021-08-25,Q23196601,Minister of Culture and Tourism,Q55526162-F9B728CC-9168-4A42-B157-E141DC3525BA
-Q56125668,Murat KURUM,Murat Kurum,male,1976-01-01,11,https://www.tccb.gov.tr/en/cabinet/,2021-11-08,Q106532539,"Minister Of Environment,Urbanization And Climate Change",Q56125668-25698f34-49be-ecb2-0e47-69a07434f060
-Q56127416,Mehmet M. KASAPOĞLU,Mehmet Kasapoğlu,male,1976-12-22,11,https://www.tccb.gov.tr/en/cabinet/,2021-08-25,Q106533834,Minister of Youth and Sports,Q56127416-3bdbd7b8-4c60-02ad-9444-97102222c38e
-Q6098459,Süleyman SOYLU,Süleyman Soylu,male,1969-11-21,11,https://www.tccb.gov.tr/en/cabinet/,2021-08-25,Q106508952,Minister of Interior,Q6098459-11E0A91B-06C3-4AD6-915D-097CF7EEC28F
-Q6102989,Vedat BİLGİN,Vedat Bilgin,male,1954-01-01,9,https://www.tccb.gov.tr/en/cabinet/,2021-08-25,Q106587107,Minister of Labor and Social Security,Q6102989-85972705-4db8-87b1-4872-4a07d0f9447a
+wdid,name,wdLabel,gender,dob,dobPrecision,source,sourceDate,pid,position,start,psid
+Q106577630,Derya YANIK,Derya Yanık,female,1972-01-01,9,https://www.tccb.gov.tr/en/cabinet/,2021-08-25,Q106587058,Minister of Family and Social Services,2021-04-21,Q106577630-7b6cdb57-4cd1-dd21-f7f1-bef9d4de601f
+Q109627433,Dr. Nureddin NEBATİ,Nureddin Nebati,male,1964-01-01,11,https://www.tccb.gov.tr/en/cabinet/,2021-12-03,Q106532278,Minister Of Treasury And Finance,2021-12-02,Q109627433-606D9D3F-B392-4B65-86F2-C3B9922B34FE
+Q17045790,Hulusi AKAR,Hulusi Akar,male,1952-03-12,11,https://www.tccb.gov.tr/en/cabinet/,2021-08-25,Q106532199,Minister of National Defense,2018-07-10,Q17045790-7A554213-36A4-4A1F-83FE-0E2290C324F2
+Q19611864,Mahmut ÖZER,Mahmut Özer,male,1970-05-05,11,https://www.tccb.gov.tr/en/cabinet/,2021-08-25,Q106533996,Minister of National Education,2021-08-06,Q19611864-8613C45B-28A6-448D-AC85-4BBEDFC66EBF
+Q19612675,Adil KARAİSMAİLOĞLU,Adil Karaismailoğlu,male,1969-05-19,11,https://www.tccb.gov.tr/en/cabinet/,2021-08-25,Q87662887,Minister of Transport and Infrastructure,2020-03-28,Q19612675-9e43554b-47a4-aedf-cd80-bbd363c42a66
+Q21328910,Abdulhamit GÜL,Abdulhamit Gül,male,1977-03-12,11,https://www.tccb.gov.tr/en/cabinet/,2021-08-25,Q61895843,Minister of Justice,2018-07-10,Q21328910-2212773d-42c5-1bef-5d2f-c2da60c1e98a
+Q249206,Mevlüt ÇAVUŞOĞLU,Mevlüt Çavuşoğlu,male,1968-02-05,11,https://www.tccb.gov.tr/en/cabinet/,2021-08-25,Q20988486,Minister of Foreign Affairs,2018-07-10,Q249206-45FAFECE-C232-482E-B1D2-DDA0D8378631
+Q25477012,Mehmet MUŞ,Mehmet Muş,male,1982-05-01,11,https://www.tccb.gov.tr/en/cabinet/,2021-08-25,Q106541814,Minister of Trade,2021-04-21,Q25477012-807ed5fd-4550-36a3-4344-05ab98e2eb6c
+Q39259,Recep Tayyip Erdoğan,Recep Tayyip Erdoğan,male,1954-02-26,11,,,Q1922067,President of Turkey,2014-08-28,Q39259-43fe35d2-4a37-1c47-8b07-d89fa5d99c90
+Q55437281,Fuat OKTAY,Fuat Oktay,male,1964-01-01,9,https://www.tccb.gov.tr/en/cabinet/,2021-08-25,Q52137988,Vice President,2018-07-10,Q55437281-e96a0aca-4a5f-c3dc-884c-e8ac8955bd41
+Q55439659,Fahrettin KOCA,Fahrettin Koca,male,1965-01-02,11,https://www.tccb.gov.tr/en/cabinet/,2021-08-25,Q29645718,Minister of Health,2018-07-10,Q55439659-0e463048-4d0c-a8a4-5a29-62f073ec94bb
+Q55439729,Bekir PAKDEMİRLİ,Bekir Pakdemirli,male,1973-11-10,11,https://www.tccb.gov.tr/en/cabinet/,2021-08-25,Q106533896,Minister of Agriculture and Forestry,2018-07-10,Q55439729-ae17606b-42d4-a393-4c83-9758fd52439a
+Q55455996,Mustafa VARANK,Mustafa Varank,male,1976-01-01,11,https://www.tccb.gov.tr/en/cabinet/,2021-08-25,Q106541631,Minister of Industry and Technology,2018-07-10,Q55455996-3948290b-4dbc-9651-05b3-e4b10e8910d8
+Q55456118,Fatih DÖNMEZ,Fatih Dönmez,male,1965-01-01,11,https://www.tccb.gov.tr/en/cabinet/,2021-08-25,Q106533226,Minister of Energy and Natural Resources,2018-07-10,Q55456118-7D61A94C-D697-4C72-900B-2B607273EFCE
+Q55526162,Mehmet Nuri ERSOY,Mehmet Nuri Ersoy,male,1968-01-01,9,https://www.tccb.gov.tr/en/cabinet/,2021-08-25,Q23196601,Minister of Culture and Tourism,2018-07-10,Q55526162-F9B728CC-9168-4A42-B157-E141DC3525BA
+Q56125668,Murat KURUM,Murat Kurum,male,1976-01-01,11,https://www.tccb.gov.tr/en/cabinet/,2021-11-08,Q106532539,"Minister Of Environment,Urbanization And Climate Change",2018-07-10,Q56125668-25698f34-49be-ecb2-0e47-69a07434f060
+Q56127416,Mehmet M. KASAPOĞLU,Mehmet Kasapoğlu,male,1976-12-22,11,https://www.tccb.gov.tr/en/cabinet/,2021-08-25,Q106533834,Minister of Youth and Sports,2018-07-10,Q56127416-3bdbd7b8-4c60-02ad-9444-97102222c38e
+Q6098459,Süleyman SOYLU,Süleyman Soylu,male,1969-11-21,11,https://www.tccb.gov.tr/en/cabinet/,2021-08-25,Q106508952,Minister of Interior,2018-07-10,Q6098459-11E0A91B-06C3-4AD6-915D-097CF7EEC28F
+Q6102989,Vedat BİLGİN,Vedat Bilgin,male,1954-01-01,9,https://www.tccb.gov.tr/en/cabinet/,2021-08-25,Q106587107,Minister of Labor and Social Security,2021-04-21,Q6102989-85972705-4db8-87b1-4872-4a07d0f9447a
