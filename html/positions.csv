@@ -12,7 +12,7 @@ Q106561527,Minister of European Union Affairs,Q43,Q43,,,2011-07-06,2018-07-09,,,
 Q106587058,Minister of Family and Social Services,Q43,Q43,,,,,Q106532581,,
 Q106561136,Minister of Family and Social Policies,Q43,Q43,,,2011,2018,Q106603593,Q106532581,
 Q106532581,"Minister of Family, Labor and Social Services",Q43,,,,2018,2021-04-21,Q106561136,Q106587058,
-Q106963568,,Q43,,,,2021-05-17,,,,
+Q106532278,Minister of Treasury and Finance,Q43,Q43,,,,,,,
 Q20988486,"Minister of Foreign Affairs, Turkey",Q43,Q43,,Q1829539,1920-05-03,,,,Minister of Foreign Affairs (Turkey)
 Q29645718,Minister of Health of Turkey,Q43,Q43,,,,,,,
 Q106541631,Minister of Industry and Technology,Q43,,,,,,Q106561597,,
@@ -25,11 +25,10 @@ Q106532539,"Minister of the Environment, Urbanisation, and Climate Change",Q43,Q
 Q106561597,"Minister of Science, Industry and Technology",Q43,Q43,,,,,,Q106541631,
 Q106541814,Minister of Trade,Q43,Q43,,,,,,,
 Q87662887,minister of Transport and Infrastructure,Q43,Q43,,,,,,,
-Q106532278,Minister of Treasury and Finance,Q43,Q43,,,,,,,
 Q106533834,Minister of Youth and Sports,Q43,,,,,,,,
 Q20473788,Speaker of the Grand National Assembly,Q43,Q274918,,,,,,,
 Q670262,Chief of the Turkish General Staff,Q43,,,,1920-05-03,,,,Chief of the Turkish General Staff
 Q98086768,Governor of the Central Bank of Turkey,Q43,,,Q6572237,,,,,
-Q20988365,Governor of Ankara,,,,,,,,,Governor of Ankara
+Q20988365,Governor of Ankara,,,,Q19610524,,,,,Governor of Ankara
 Q6572133,Governor of İstanbul,,Q406,,,,,,,Governor of Istanbul
 Q62925885,mayor of Istanbul,Q43,Q406,,Q3404657,,,,,
