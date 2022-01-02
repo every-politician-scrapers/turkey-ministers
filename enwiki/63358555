@@ -149,38 +149,6 @@
             "text": "F.Koca-signature.png"
           }
         }
-      ],
-      "references": [
-        {
-          "url": "https://www.tccb.gov.tr/en/cabinet/minister-of-health",
-          "title": "Presidency Of The Republic Of Turkey : Fahrettin KOCA",
-          "website": "www.tccb.gov.tr",
-          "access-date": "13 March 2020",
-          "template": "citation",
-          "type": "web"
-        },
-        {
-          "url": "https://ahvalnews.com/turkey-coronavirus/turkish-man-tested-positive-coronavirus-first-case-country-health-minister",
-          "title": "Turkish man tested positive for coronavirus in first case for country – health minister",
-          "website": "Ahval",
-          "language": "en",
-          "access-date": "13 March 2020",
-          "template": "citation",
-          "type": "web"
-        },
-        {
-          "last": "McKernan",
-          "first": "Bethan",
-          "url": "https://www.theguardian.com/world/2020/mar/11/turkey-announces-its-first-case-of-coronavirus",
-          "title": "Turkey announces its first case of coronavirus",
-          "date": "11 March 2020",
-          "work": "The Guardian",
-          "access-date": "13 March 2020",
-          "language": "en-GB",
-          "issn": "0261-3077",
-          "template": "citation",
-          "type": "news"
-        }
       ]
     }
   ]

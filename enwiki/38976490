@@ -427,68 +427,6 @@
             "text": "https://suleymansoylu.com"
           }
         }
-      ],
-      "references": [
-        {
-          "template": "citation",
-          "type": "inline",
-          "data": {},
-          "inline": {}
-        },
-        {
-          "url": "http://www.hurriyetdailynews.com/chp-spokesperson-slams-minister-over-terror-accusations-110255",
-          "title": "CHP spokesperson slams minister over terror accusations - Turkey News",
-          "website": "Hürriyet Daily News",
-          "template": "citation",
-          "type": "web"
-        },
-        {
-          "url": "http://www.cumhuriyet.com.tr/haber/suleyman-soyludan-ekrem-imamogluna-hakaret-1700072",
-          "title": "Süleyman Soylu'dan Ekrem İmamoğlu'na hakaret",
-          "website": "www.cumhuriyet.com.tr",
-          "template": "citation",
-          "type": "web"
-        },
-        {
-          "url": "https://www.sozcu.com.tr/2018/gundem/suleyman-soylu-yemin-ederken-chpliler-arkasini-dondu-2508542/",
-          "title": "Süleyman Soylu yemin ederken CHP'liler arkasını döndü",
-          "template": "citation",
-          "type": "web"
-        },
-        {
-          "date": "20 March 2021",
-          "title": "Turkish Kurds disappointed and appalled by potential HDP ban",
-          "url": "https://www.dw.com/en/turkish-kurds-disappointed-and-appalled-by-potential-hdp-ban/a-56940278",
-          "url-status": "live",
-          "access-date": "2021-04-06",
-          "website": "Deutsche Welle",
-          "language": "en-GB",
-          "template": "citation",
-          "type": "web"
-        },
-        {
-          "last": "Jones",
-          "first": "Dorian",
-          "date": "August 19, 2019",
-          "title": "Key Kurdish Mayors Expelled as Turkey's Erdogan Increases Pressure on Pro-Kurdish Movement",
-          "url": "https://www.voanews.com/middle-east/key-kurdish-mayors-expelled-turkeys-erdogan-increases-pressure-pro-kurdish-movement",
-          "url-status": "live",
-          "access-date": "2021-04-06",
-          "website": "www.voanews.com",
-          "language": "en",
-          "template": "citation",
-          "type": "web"
-        },
-        {
-          "date": "2020-02-07",
-          "title": "Turkey: Kurdish Mayors' Removal Violates Voters' Rights",
-          "url": "https://www.hrw.org/news/2020/02/07/turkey-kurdish-mayors-removal-violates-voters-rights",
-          "access-date": "2021-04-06",
-          "website": "Human Rights Watch",
-          "language": "en",
-          "template": "citation",
-          "type": "web"
-        }
       ]
     }
   ]
