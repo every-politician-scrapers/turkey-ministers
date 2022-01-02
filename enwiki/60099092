@@ -346,56 +346,6 @@
             ]
           }
         }
-      ],
-      "references": [
-        {
-          "template": "citation",
-          "type": "inline",
-          "data": {},
-          "inline": {}
-        },
-        {
-          "url": "https://www.cnn.com/2019/05/06/middleeast/turkey-istanbul-mayor-recount-intl/index.html",
-          "title": "Turkey orders revote for Istanbul mayor",
-          "author1": "Murat Baykara",
-          "author2": "Tara John",
-          "website": "CNN",
-          "date": "6 May 2019",
-          "access-date": "6 May 2019",
-          "template": "citation",
-          "type": "web"
-        },
-        {
-          "first": "Mert",
-          "last": "İnan",
-          "title": "ANAP'lı ailenin CHP'li çocuğur",
-          "url": "http://www.milliyet.com.tr/anap-li-ailenin-chp-li-cocugu-siyaset-2798083/",
-          "newspaper": "Milliyet",
-          "date": "20 December 2018",
-          "access-date": "7 April 2019",
-          "language": "tr",
-          "template": "citation",
-          "type": "news"
-        },
-        {
-          "url": "https://www.ekremimamoglu.com/ekrem-imamoglu-kimdir/",
-          "title": "Ekrem İmamoğlu Kimdir",
-          "access-date": "28 February 2019",
-          "archive-url": "https://archive.today/20190228161610/https://www.ekremimamoglu.com/ekrem-imamoglu-kimdir/",
-          "archive-date": "28 February 2019",
-          "publisher": "ekremimamoglu.com",
-          "language": "tr",
-          "template": "citation",
-          "type": "news"
-        },
-        {
-          "url": "https://www.aa.com.tr/en/politics/turkeys-election-body-rules-for-istanbul-election-re-run/1471941",
-          "title": "Turkey's election body rules for Istanbul election re-run",
-          "website": "www.aa.com.tr",
-          "access-date": "6 May 2019",
-          "template": "citation",
-          "type": "web"
-        }
       ]
     }
   ]

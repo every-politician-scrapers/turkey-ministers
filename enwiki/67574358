@@ -128,25 +128,6 @@
             ]
           }
         }
-      ],
-      "references": [
-        {
-          "title": "Kabine değişikliği Resmi Gazete'de yayımlandı",
-          "url": "https://www.aa.com.tr/tr/politika/kabine-degisikligi-resmi-gazetede-yayimlandi/2215269",
-          "access-date": "2021-05-04",
-          "website": "www.aa.com.tr",
-          "template": "citation",
-          "type": "web"
-        },
-        {
-          "title": "Derya Yanık: 'İBB'ye başkanlık eden ilk kadın', yeni Aile ve Sosyal Hizmetler Bakanı",
-          "language": "tr",
-          "work": "BBC News Türkçe",
-          "url": "https://www.bbc.com/turkce/haberler-turkiye-56832982",
-          "access-date": "2021-05-04",
-          "template": "citation",
-          "type": "news"
-        }
       ]
     }
   ]
