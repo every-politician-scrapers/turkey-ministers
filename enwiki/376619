@@ -629,13 +629,6 @@
           "template": "marriage"
         },
         {
-          "list": [
-            "Ahmet Erdoğan",
-            "Tenzile Mutlu"
-          ],
-          "template": "ubl"
-        },
-        {
           "template": "recep tayyip erdogan sidebar"
         },
         {
@@ -688,10 +681,7 @@
             "text": "Recep Tayyip Erdoğan"
           },
           "image": {
-            "text": "Recep Tayyip Erdoğan 2021.jpg"
-          },
-          "caption": {
-            "text": "Erdoğan in June 2021"
+            "text": "Recep Tayyip Erdoğan 2018 (cropped).jpg"
           },
           "signature": {
             "text": "Recep Tayyip Erdoğan signature.png"
@@ -947,9 +937,6 @@
           },
           "children": {
             "text": "Ahmet · Bilal · Esra · Sümeyye"
-          },
-          "parents": {
-            "text": "Ahmet Erdoğan\n\nTenzile Mutlu"
           },
           "relatives": {
             "text": "Berat Albayrak · Selçuk Bayraktar (sons-in-law)"
