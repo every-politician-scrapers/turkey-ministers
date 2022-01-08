@@ -1,3 +1,7 @@
+const fs = require('fs');
+let rawmeta = fs.readFileSync('meta.json');
+let meta = JSON.parse(rawmeta);
+
 module.exports = (id, startdate, enddate) => {
   qualifier = { }
   if(startdate) qualifier['P580'] = startdate
@@ -7,9 +11,9 @@ module.exports = (id, startdate, enddate) => {
     id,
     claims: {
       P39: {
-        value: 'Q106532278',
+        value: meta.position,
         qualifiers: qualifier,
-        references: { P4656: 'https://tr.wikipedia.org/wiki/T%C3%BCrkiye_hazine_ve_maliye_bakanlar%C4%B1_listesi' }
+        references: { P4656: meta.source }
       }
     }
   }
