@@ -40,11 +40,17 @@
         {
           "sentences": [
             {
-              "text": "Recep Tayyip Erdoğan (born 26 February 1954) is a Turkish politician serving as the current President of Turkey since 2014.",
+              "text": "Recep Tayyip Erdoğan (born 26 February 1954) is a Turkish politician serving as the 12th and current president of Turkey since 2014.",
               "links": [
                 {
+                  "text": "12th",
                   "type": "internal",
-                  "page": "President of Turkey"
+                  "page": "List of presidents of Turkey"
+                },
+                {
+                  "text": "president of Turkey",
+                  "type": "internal",
+                  "page": "president of Turkey"
                 }
               ],
               "formatting": {
@@ -54,21 +60,22 @@
               }
             },
             {
-              "text": "He previously served as Prime Minister of Turkey from 2003 to 2014 and as Mayor of Istanbul from 1994 to 1998.",
+              "text": "He previously served as prime minister of Turkey from 2003 to 2014 and as mayor of Istanbul from 1994 to 1998.",
               "links": [
                 {
+                  "text": "prime minister of Turkey",
                   "type": "internal",
-                  "page": "Prime Minister of Turkey"
+                  "page": "prime minister of Turkey"
                 },
                 {
-                  "text": "Mayor of Istanbul",
+                  "text": "mayor of Istanbul",
                   "type": "internal",
                   "page": "List of mayors of Istanbul"
                 }
               ]
             },
             {
-              "text": "He founded the Justice and Development Party (AKP) in 2001, leading it to election victories in 2002, 2007, and 2011 before being required to stand down upon his election as President in 2014.",
+              "text": "He founded the Justice and Development Party (AKP) in 2001, leading it to election victories in 2002, 2007, and 2011 general elections before being required to stand down upon his election as President in 2014.",
               "links": [
                 {
                   "text": "Justice and Development Party",
@@ -86,7 +93,7 @@
                   "page": "2007 Turkish general election"
                 },
                 {
-                  "text": "2011",
+                  "text": "2011 general elections",
                   "type": "internal",
                   "page": "2011 Turkish general election"
                 },
@@ -137,7 +144,7 @@
         {
           "sentences": [
             {
-              "text": "In the 1994 election as the candidate of the Islamist Welfare Party, he was elected Mayor of Istanbul.",
+              "text": "In the 1994 election as the candidate of the Islamist Welfare Party, he was elected mayor of Istanbul.",
               "links": [
                 {
                   "text": "1994 election",
@@ -174,7 +181,7 @@
               ]
             },
             {
-              "text": "With Erdoğan still technically prohibited from holding office, the AKP's co-founder, Abdullah Gül, instead became Prime Minister, and later annulled Erdoğan's political ban.",
+              "text": "With Erdoğan still technically prohibited from holding office, the AKP's co-founder, Abdullah Gül, instead became prime minister, and later annulled Erdoğan's political ban.",
               "links": [
                 {
                   "type": "internal",
@@ -183,7 +190,7 @@
               ]
             },
             {
-              "text": "After winning a by-election in Siirt in 2003, Erdoğan replaced Gül as Prime Minister, with Gül instead becoming the AKP's candidate for the presidency.",
+              "text": "After winning a by-election in Siirt in 2003, Erdoğan replaced Gül as prime minister, with Gül instead becoming the AKP's candidate for the presidency.",
               "links": [
                 {
                   "text": "by-election",
@@ -198,7 +205,7 @@
               ]
             },
             {
-              "text": "Erdoğan led the AKP to two more election victories in 2007 and 2011, before being elected President in 2014, and re-elected in 2018.",
+              "text": "Erdoğan led the AKP to two more election victories in 2007 and 2011, before being elected as president in 2014, and re-elected in 2018.",
               "links": [
                 {
                   "text": "2007",
@@ -211,7 +218,7 @@
                   "page": "2011 Turkish general election"
                 },
                 {
-                  "text": "elected President",
+                  "text": "elected as president",
                   "type": "internal",
                   "page": "2014 Turkish presidential election"
                 },
@@ -583,37 +590,6 @@
           "template": "use dmy dates"
         },
         {
-          "title": "Cabinet I (2003–2007)",
-          "list": [
-            "Abdullah Gül",
-            "Mehmet Ali Şahin",
-            "Abdüllatif Şener"
-          ],
-          "template": "list collapsed"
-        },
-        {
-          "title": "Cabinet II (2007–2011)",
-          "list": [
-            "Cemil Çiçek",
-            "Hayati Yazıcı (2007–2009)",
-            "Nazım Ekren (2007–2009)",
-            "Bülent Arınç (2009–2011)",
-            "Ali Babacan (2009–2011)"
-          ],
-          "template": "list collapsed"
-        },
-        {
-          "title": "Cabinet III (2011–2014)",
-          "list": [
-            "Bülent Arınç",
-            "Ali Babacan",
-            "Beşir Atalay",
-            "Bekir Bozdağ (2011–2013)",
-            "Emrullah İşler (2013–2014)"
-          ],
-          "template": "list collapsed"
-        },
-        {
           "template": "gnat mp"
         },
         {
@@ -749,7 +725,7 @@
             ]
           },
           "vicepresident1": {
-            "text": "Fuat Oktay (2018–present)",
+            "text": "Fuat Oktay",
             "links": [
               {
                 "type": "internal",
@@ -758,17 +734,7 @@
             ]
           },
           "primeminister1": {
-            "text": "Ahmet Davutoğlu (2014–2016)\nBinali Yıldırım (2016–2018)",
-            "links": [
-              {
-                "type": "internal",
-                "page": "Ahmet Davutoğlu"
-              },
-              {
-                "type": "internal",
-                "page": "Binali Yıldırım"
-              }
-            ]
+            "text": "Vacant"
           },
           "term_start1": {
             "text": "28 August 2014"
@@ -813,7 +779,7 @@
             "text": "27 August 2014"
           },
           "office2": {
-            "text": "Prime Minister of Turkey",
+            "text": "25th Prime Minister of Turkey",
             "links": [
               {
                 "type": "internal",
