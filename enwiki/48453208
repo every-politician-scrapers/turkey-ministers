@@ -21,13 +21,6 @@
           "sentences": [
             {
               "text": "Abdulhamit Gül (Abdülhamit Gül; born 12 March 1977) is a Turkish politician.",
-              "links": [
-                {
-                  "text": "Turkish",
-                  "type": "internal",
-                  "page": "Turkey"
-                }
-              ],
               "formatting": {
                 "bold": [
                   "Abdulhamit Gül"
@@ -115,14 +108,14 @@
       ],
       "templates": [
         {
+          "description": "Turkish politician",
+          "template": "short description"
+        },
+        {
           "list": [
             "Abdullah Gül"
           ],
           "template": "distinguish"
-        },
-        {
-          "description": "Turkish politician",
-          "template": "short description"
         },
         {
           "list": [
