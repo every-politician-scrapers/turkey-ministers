@@ -18,13 +18,6 @@
           "sentences": [
             {
               "text": "Vasip Şahin (born 1964) is a Turkish civil servant.",
-              "links": [
-                {
-                  "text": "Turkish",
-                  "type": "internal",
-                  "page": "Turkey"
-                }
-              ],
               "formatting": {
                 "bold": [
                   "Vasip Şahin"
