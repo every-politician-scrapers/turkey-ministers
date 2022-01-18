@@ -145,20 +145,20 @@
         {
           "sentences": [
             {
-              "text": "In the 1994 election as the candidate of the Islamist Welfare Party, he was elected mayor of Istanbul.",
+              "text": "Following the 1994 local elections, Erdoğan was elected mayor of Istanbul as the candidate of the Islamist Welfare Party.",
               "links": [
                 {
-                  "text": "1994 election",
+                  "text": "1994 local elections",
                   "type": "internal",
                   "page": "1994 Istanbul mayoral election"
                 },
                 {
                   "type": "internal",
-                  "page": "Welfare Party"
+                  "page": "Istanbul"
                 },
                 {
                   "type": "internal",
-                  "page": "Istanbul"
+                  "page": "Welfare Party"
                 }
               ]
             },
@@ -206,7 +206,7 @@
               ]
             },
             {
-              "text": "Erdoğan led the AKP to two more election victories in 2007 and 2011, before being elected as president in 2014, and re-elected in 2018.",
+              "text": "Erdoğan led the AKP to two more election victories in 2007 and 2011.",
               "links": [
                 {
                   "text": "2007",
@@ -217,16 +217,6 @@
                   "text": "2011",
                   "type": "internal",
                   "page": "2011 Turkish general election"
-                },
-                {
-                  "text": "elected as president",
-                  "type": "internal",
-                  "page": "2014 Turkish presidential election"
-                },
-                {
-                  "text": "re-elected",
-                  "type": "internal",
-                  "page": "2018 Turkish presidential election"
                 }
               ]
             }
@@ -235,7 +225,7 @@
         {
           "sentences": [
             {
-              "text": "The early years of Erdoğan's tenure as prime minister saw advances in negotiations for Turkey's membership of the European Union, an economic recovery following a financial crash in 2001 and investments in infrastructure including roads, airports, and a high-speed train network.",
+              "text": "The early years of Erdoğan's tenure as prime minister saw advances in negotiations for Turkey's membership of the European Union, an economic recovery following a economic crisis in 2001 and investments in infrastructure including roads, airports, and a high-speed train network.",
               "links": [
                 {
                   "text": "negotiations for Turkey's membership",
@@ -247,7 +237,7 @@
                   "page": "European Union"
                 },
                 {
-                  "text": "financial crash in 2001",
+                  "text": "economic crisis in 2001",
                   "type": "internal",
                   "page": "2001 Turkish economic crisis"
                 },
@@ -392,7 +382,7 @@
               ]
             },
             {
-              "text": "Starting with the anti-government protests in 2013, his government imposed growing censorship on the press and social media, restricting access to sites such as YouTube, Twitter and Wikipedia.",
+              "text": "Starting with the anti-government protests in 2013, his government imposed growing censorship on the press and social media, temporarily restricting access to sites such as YouTube, Twitter and Wikipedia.",
               "links": [
                 {
                   "text": "anti-government protests",
@@ -427,10 +417,38 @@
               ]
             },
             {
-              "text": "Following a souring in relations with Gülen, Erdoğan proceeded to purge his supporters from judicial, bureaucratic and military positions."
+              "text": "After 11 years as head of government (Prime Minister), Erdoğan decided to run for President in 2014.",
+              "links": [
+                {
+                  "text": "head of government",
+                  "type": "internal",
+                  "page": "head of government"
+                }
+              ]
             },
             {
-              "text": "A failed military coup d'état attempt in July 2016 resulted in further purges and a state of emergency.",
+              "text": "At the time, the presidency was a somewhat ceremonial function."
+            },
+            {
+              "text": "Following the 2014 elections, Erdoğan became the first popularly elected president of Turkey.",
+              "links": [
+                {
+                  "text": "2014 elections",
+                  "type": "internal",
+                  "page": "2014 Turkish presidential election"
+                },
+                {
+                  "text": "popularly elected",
+                  "type": "internal",
+                  "page": "direct election"
+                }
+              ]
+            },
+            {
+              "text": "The souring in relations with Gülen continued, as the government proceeded to purge his supporters from judicial, bureaucratic and military positions."
+            },
+            {
+              "text": "A failed military coup d'état attempt in July 2016 resulted in further purges and a temporary state of emergency.",
               "links": [
                 {
                   "text": "failed military coup d'état attempt in July 2016",
@@ -482,31 +500,37 @@
         {
           "sentences": [
             {
-              "text": "As a long-standing proponent of changing Turkey's parliamentary system of government into an executive presidency, Erdoğan formed an alliance with the far-right Nationalist Movement Party (MHP) to establish an executive presidency in 2017, where the changes were accepted in a constitutional referendum.",
+              "text": "Erdoğan supported the 2017 referendum which changed Turkey's parliamentary system into a presidential system, thus setting for the first time in Turkish history a term limit for the head of government (two full five-year terms).",
               "links": [
+                {
+                  "text": "2017 referendum",
+                  "type": "internal",
+                  "page": "2017 Turkish constitutional referendum"
+                },
                 {
                   "text": "parliamentary system",
                   "type": "internal",
                   "page": "parliamentary system"
                 },
                 {
-                  "text": "executive presidency",
+                  "text": "presidential system",
                   "type": "internal",
-                  "page": "executive presidency"
+                  "page": "presidential system"
                 },
                 {
+                  "text": "term limit",
                   "type": "internal",
-                  "page": "Nationalist Movement Party"
+                  "page": "term limit"
                 },
                 {
-                  "text": "constitutional referendum",
+                  "text": "head of government",
                   "type": "internal",
-                  "page": "2017 Turkish constitutional referendum"
+                  "page": "head of government"
                 }
               ]
             },
             {
-              "text": "The new system of government formally came into place after the 2018 general election, where Erdoğan and the new AKP-MHP People's Alliance was re-elected.",
+              "text": "This new system of government formally came into place after the 2018 general election, where Erdoğan became an executive president.",
               "links": [
                 {
                   "text": "2018 general election",
@@ -514,14 +538,29 @@
                   "page": "2018 Turkish general election"
                 },
                 {
-                  "text": "People's Alliance",
+                  "text": "executive president",
                   "type": "internal",
-                  "page": "People's Alliance (Turkey)"
+                  "page": "executive president"
                 }
               ]
             },
             {
-              "text": "He has since been tackling, but also accused of contributing to, the Turkish currency and debt crisis of 2018, which has caused a significant decline in his popularity and is widely believed to have contributed to the results of the 2019 local elections, in which the ruling party lost control of Ankara and Istanbul for the first time in 15 years.",
+              "text": "His party however lost the majority in the parliament and is currently in a coalition (People's Alliance) with the Turkish nationalist MHP.",
+              "links": [
+                {
+                  "text": "People's Alliance",
+                  "type": "internal",
+                  "page": "People's Alliance (Turkey)"
+                },
+                {
+                  "text": "MHP",
+                  "type": "internal",
+                  "page": "Nationalist Movement Party"
+                }
+              ]
+            },
+            {
+              "text": "Erdoğan has since been tackling, but also accused of contributing to, the Turkish currency and debt crisis of 2018, which has caused a significant decline in his popularity and is widely believed to have contributed to the results of the 2019 local elections, in which his party lost power in big cities like Ankara and Istanbul to opposition parties for the first time in 15 years.",
               "links": [
                 {
                   "text": "Turkish currency and debt crisis of 2018",
@@ -542,19 +581,6 @@
                   "page": "Istanbul"
                 }
               ]
-            },
-            {
-              "text": "After the loss, the Turkish government ordered a re-election in Istanbul, in which the ruling party lost the elections again with an even greater margin.",
-              "links": [
-                {
-                  "text": "re-election in Istanbul",
-                  "type": "internal",
-                  "page": "June 2019 Istanbul mayoral election"
-                }
-              ]
-            },
-            {
-              "text": "The two successive losses were considered to be significant defeats for Erdoğan, who had once said that if his party \"lost Istanbul, we would lose Turkey\"."
             }
           ]
         }
