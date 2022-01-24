@@ -680,6 +680,15 @@
       ],
       "infoboxes": [
         {
+          "honorific-prefix": {
+            "text": "His Excellency",
+            "links": [
+              {
+                "type": "internal",
+                "page": "His Excellency"
+              }
+            ]
+          },
           "name": {
             "text": "Recep Tayyip Erdoğan"
           },
