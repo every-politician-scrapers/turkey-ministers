@@ -20,22 +20,19 @@
         {
           "sentences": [
             {
-              "text": "Abdulhamit Gül (Abdülhamit Gül; born 12 March 1977) is a Turkish politician.",
-              "formatting": {
-                "bold": [
-                  "Abdulhamit Gül"
-                ]
-              }
-            },
-            {
-              "text": "Currently, he is the Minister of Justice.",
+              "text": "Abdulhamit Gül (Abdülhamit Gül; born 12 March 1977) is a Turkish politician and former Minister of Justice.",
               "links": [
                 {
                   "text": "Minister of Justice",
                   "type": "internal",
                   "page": "Ministry of Justice (Turkey)"
                 }
-              ]
+              ],
+              "formatting": {
+                "bold": [
+                  "Abdulhamit Gül"
+                ]
+              }
             },
             {
               "text": "He is a member of the Grand National Assembly of Turkey from Gaziantep.",
@@ -156,6 +153,9 @@
           "term_start1": {
             "text": "19 July 2017"
           },
+          "term_end1": {
+            "text": "29 January 2022"
+          },
           "president1": {
             "text": "Recep Tayyip Erdoğan",
             "links": [
@@ -175,6 +175,15 @@
             ]
           },
           "predecessor1": {
+            "text": "Bekir Bozdağ",
+            "links": [
+              {
+                "type": "internal",
+                "page": "Bekir Bozdağ"
+              }
+            ]
+          },
+          "successor1": {
             "text": "Bekir Bozdağ",
             "links": [
               {
