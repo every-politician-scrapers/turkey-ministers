@@ -20,10 +20,10 @@
         {
           "sentences": [
             {
-              "text": "Mehmet Ersoy (born 1968) is a Turkish businessman and current Minister of Culture and Tourism.",
+              "text": "Mehmet Nuri Ersoy (born 1968) is a Turkish businessman and current Minister of Culture and Tourism.",
               "formatting": {
                 "bold": [
-                  "Mehmet Ersoy"
+                  "Mehmet Nuri Ersoy"
                 ]
               }
             }
@@ -32,7 +32,7 @@
         {
           "sentences": [
             {
-              "text": "Mehmet Ersoy was born in Istanbul, Turkey in 1968.",
+              "text": "Mehmet Nuri Ersoy was born in Istanbul, Turkey in 1968.",
               "links": [
                 {
                   "type": "internal",
@@ -87,7 +87,7 @@
               ]
             },
             {
-              "text": "Mehmet Ersoy was appointed Minister of Culture and Tourism.<ref name=\"a1\"/",
+              "text": "Mehmet Nuri Ersoy was appointed Minister of Culture and Tourism.<ref name=\"a1\"/",
               "links": [
                 {
                   "text": "Minister of Culture and Tourism",
@@ -118,7 +118,7 @@
       "infoboxes": [
         {
           "name": {
-            "text": "Mehmet Ersoy"
+            "text": "Mehmet Nuri Ersoy"
           },
           "image": {
             "text": "File:Mehmetersoy.jpg"
