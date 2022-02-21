@@ -1,22 +1,7 @@
 @@,itemlabel,item,startdate,enddate
-+++,Selahattin Çam,Q17468322,1931-06-09,1938-03-21
-+++,Kemal Zaim Sunel,Q6044128,1938-03-21,1949-03-09
-+++,Mehmet Sadi Bekter,Q17431000,1949-03-31,1950-10-04
 +++,Osman Nuri Göver,,1951-04-13,1953-05-28
 +++,Mustafa Nail Gidel,,1953-07-20,1960-07-16
-+++,Memduh Aytür,Q25475364,1960-07-21,1960-11-07
 +++,İbrahim Münir Mostar,,1960-11-23,1962-08-28
-+++,Ziya Kayla,Q6043838,1963-06-28,1966-01-13
-+++,Mehmet Naim Talu,Q174709,1967-07-14,1971-12-11
-+++,Memduh Güpgüpoğlu,Q61075696,1972-07-25,1975-01-09
-+++,Cafer Tayyar Sadıklar,Q6096378,1976-06-26,1978-09-18
-+++,İsmail Hakkı Aydınoğlu,Q55825860,1978-10-21,1981-01-10
-+++,Osman Şıklar,Q6036927,1981-01-12,1984-01-04
-+++,Yavuz Canevi,Q6056273,1984-01-15,1986-11-11
-+++,Rüşdü Saraçoğlu,Q6048588,1987-07-23,1993-08-02
-+++,Nihat Bülent Gültekin,Q6045064,1993-09-02,1994-01-31
-+++,Yaman Törüner,Q6057269,1994-02-14,1995-11-01
-+++,Süleyman Gazi Erçel,Q6044483,1996-04-10,2001-03-01
-+++,Durmuş Yılmaz,Q5316696,2006-04-18,2011-04-13
-+++,Erdem Başçı,Q5385265,2011-04-14,2016-04-19
-+++,Murat Çetinkaya,Q23817662,2016-04-19,2019-07-06
+->,Naim Talu->Mehmet Naim Talu,Q174709,1967-07-14,1971-12-11
+->,Rüşdü Saracoğlu->Rüşdü Saraçoğlu,Q6048588,1987-07-23,1993-08-02
+->,Gazi Erçel->Süleyman Gazi Erçel,Q6044483,1996-04-10,2001-03-01
