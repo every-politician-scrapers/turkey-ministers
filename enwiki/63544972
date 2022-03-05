@@ -21,7 +21,14 @@
         {
           "sentences": [
             {
-              "text": "Bekir Pakdemirli (born 1973) is a Turkish businessman and current Minister of Agriculture and Forestry.",
+              "text": "Bekir Pakdemirli (born 1973) is a Turkish businessman and former Minister of Agriculture and Forestry.",
+              "links": [
+                {
+                  "text": "businessman",
+                  "type": "internal",
+                  "page": "businessman"
+                }
+              ],
               "formatting": {
                 "bold": [
                   "Bekir Pakdemirli"
@@ -33,8 +40,10 @@
       ],
       "templates": [
         {
-          "birth_year": "1973",
-          "template": "birth year and age"
+          "year": "1973",
+          "month": "11",
+          "day": "10",
+          "template": "birth date and age"
         }
       ],
       "infoboxes": [
@@ -67,6 +76,9 @@
           "term_start1": {
             "text": "10 July 2018"
           },
+          "term_end1": {
+            "text": "4 March 2022"
+          },
           "predecessor1": {
             "text": "Ahmet Eşref Fakıbaba",
             "links": [
@@ -76,8 +88,11 @@
               }
             ]
           },
+          "successor1": {
+            "text": "Vahit Kirişci"
+          },
           "birth_date": {
-            "text": "1973 (age 49)"
+            "text": "November 10, 1973"
           },
           "birth_place": {
             "text": "İzmir, Turkey",

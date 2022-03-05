@@ -5,7 +5,7 @@
     "Living people",
     "1965 births",
     "People from Akdağmadeni",
-    "Uludağ University alumni",
+    "Bursa Uludağ University alumni",
     "Selçuk University alumni",
     "Turkish theologians",
     "Turkish lawyers",
@@ -30,17 +30,17 @@
         {
           "sentences": [
             {
-              "text": "Bekir Bozdağ (born 1 April 1965) is a Turkish lawyer, politician of Kurdish origin, and current Minister of Justice.",
+              "text": "Bekir Bozdağ (born 1 April 1965) is a Turkish lawyer, politician of Turkish origin, and current Minister of Justice.",
               "links": [
+                {
+                  "text": "",
+                  "type": "external",
+                  "site": "https://mobile.twitter.com/RudawTurkce/status/729750653694808064?ref_src=twsrc%5Etfw%7Ctwcamp%5Etweetembed%7Ctwterm%5E729750653694808064%7Ctwgr%5E%7Ctwcon%5Es1_&ref_url=https%3A%2F%2Fwww.rudaw.net%2Fturkish%2Fmiddleeast%2Fturkey%2F300120224"
+                },
                 {
                   "text": "Turkish",
                   "type": "internal",
                   "page": "Turkish people"
-                },
-                {
-                  "text": "Kurdish",
-                  "type": "internal",
-                  "page": "Kurdish people"
                 },
                 {
                   "text": "Minister of Justice",
