@@ -1,155 +1,16 @@
 {
-  "title": "Fahrettin Koca",
-  "pageID": 63358555,
-  "categories": [
-    "1965 births",
-    "Turkish pediatricians",
-    "Health ministers of Turkey",
-    "Living people",
-    "People from Konya",
-    "Istanbul University Faculty of Medicine alumni",
-    "Istanbul University Cerrahpaşa Faculty of Medicine alumni",
-    "Members of the 66th government of Turkey"
-  ],
-  "sections": [
-    {
-      "title": "",
-      "depth": 0,
-      "paragraphs": [
-        {
-          "sentences": [
-            {
-              "text": "Fahrettin Koca (born 2 January 1965) is a Turkish physician and politician.",
-              "formatting": {
-                "bold": [
-                  "Fahrettin Koca"
-                ]
-              }
-            },
-            {
-              "text": "He is the minister of health of the 66th government of Turkey.",
-              "links": [
-                {
-                  "text": "minister of health",
-                  "type": "internal",
-                  "page": "List of Ministers of Health of Turkey"
-                },
-                {
-                  "text": "66th government of Turkey",
-                  "type": "internal",
-                  "page": "Cabinet Erdoğan IV"
-                }
-              ]
-            }
-          ]
-        }
-      ],
-      "templates": [
-        {
-          "description": "Turkish physician and politician (born 1965)",
-          "template": "short description"
-        },
-        {
-          "date": "December 2021",
-          "template": "use dmy dates"
-        },
-        {
-          "year": "1965",
-          "month": "1",
-          "day": "2",
-          "df": "y",
-          "template": "birth date and age"
-        }
-      ],
-      "infoboxes": [
-        {
-          "image": {
-            "text": "Fahrettin Koca 20200311 2.jpg"
-          },
-          "caption": {
-            "text": "Koca in 2020"
-          },
-          "birth_date": {
-            "text": "January 2, 1965"
-          },
-          "birth_place": {
-            "text": "Konya, Turkey",
-            "links": [
-              {
-                "type": "internal",
-                "page": "Konya"
-              },
-              {
-                "type": "internal",
-                "page": "Turkey"
-              }
-            ]
-          },
-          "alma_mater": {
-            "text": "Istanbul University",
-            "links": [
-              {
-                "type": "internal",
-                "page": "Istanbul University"
-              }
-            ]
-          },
-          "education": {
-            "text": "Medicine"
-          },
-          "office": {
-            "text": "Minister of Health",
-            "links": [
-              {
-                "text": "Minister of Health",
-                "type": "internal",
-                "page": "Ministry of Health (Turkey)"
-              }
-            ]
-          },
-          "term_start": {
-            "text": "10 July 2018"
-          },
-          "president": {
-            "text": "Recep Tayyip Erdoğan",
-            "links": [
-              {
-                "type": "internal",
-                "page": "Recep Tayyip Erdoğan"
-              }
-            ]
-          },
-          "predecessor": {
-            "text": "Ahmet Demircan",
-            "links": [
-              {
-                "type": "internal",
-                "page": "Ahmet Demircan"
-              }
-            ]
-          },
-          "party": {
-            "text": "Independent",
-            "links": [
-              {
-                "text": "Independent",
-                "type": "internal",
-                "page": "Independent politician"
-              }
-            ]
-          },
-          "spouse": {
-            "text": "Hale Koca"
-          },
-          "children": {
-            "text": "4",
-            "number": 4
-          },
-          "signature": {
-            "text": "F.Koca-signature.png"
-          }
-        }
-      ]
-    }
-  ]
+  "image": "Fahrettin Koca 20200311 2.jpg",
+  "caption": "Koca in 2020",
+  "birth_date": "January 2, 1965",
+  "birth_place": "Konya, Turkey",
+  "alma_mater": "Istanbul University",
+  "education": "Medicine",
+  "office": "Minister of Health",
+  "term_start": "10 July 2018",
+  "president": "Recep Tayyip Erdoğan",
+  "predecessor": "Ahmet Demircan",
+  "party": "Independent",
+  "spouse": "Hale Koca",
+  "children": "4",
+  "signature": "F.Koca-signature.png"
 }
