@@ -1,284 +1,38 @@
 {
-  "title": "Ali Yerlikaya",
-  "pageID": 61116194,
-  "categories": [
-    "Mayors of Istanbul",
-    "Living people",
-    "Istanbul University alumni",
-    "Governors of Istanbul",
-    "Governors of Şırnak",
-    "Governors of Ağrı",
-    "People from Konya",
-    "1968 births"
-  ],
-  "sections": [
-    {
-      "title": "",
-      "depth": 0,
-      "paragraphs": [
-        {
-          "sentences": [
-            {
-              "text": "Ali Yerlikaya (born 11 October 1968) is a Turkish bureaucrat who has served as the Governor of Istanbul since 26 October 2018.",
-              "links": [
-                {
-                  "text": "Turkish",
-                  "type": "internal",
-                  "page": "Turkish people"
-                },
-                {
-                  "type": "internal",
-                  "page": "Governor of Istanbul"
-                }
-              ],
-              "formatting": {
-                "bold": [
-                  "Ali Yerlikaya"
-                ]
-              }
-            },
-            {
-              "text": "Following the annulment of the March 2019 Istanbul mayoral election, Yerlikaya briefly served as the acting Mayor of Istanbul until a new successor was elected in a re-run in June 2019.",
-              "links": [
-                {
-                  "type": "internal",
-                  "page": "March 2019 Istanbul mayoral election"
-                },
-                {
-                  "type": "internal",
-                  "page": "Mayor of Istanbul"
-                },
-                {
-                  "text": "re-run in June 2019",
-                  "type": "internal",
-                  "page": "June 2019 Istanbul mayoral election"
-                }
-              ]
-            }
-          ]
-        },
-        {
-          "sentences": [
-            {
-              "text": "Prior to becoming Governor of Istanbul, Yerlikaya previously served as the Governor of Şırnak from 2007 to 2010, as the Governor of Ağrı from 2010 to 2012, as the Governor of Tekirdağ from 2012 to 2015, and as the Governor of Gaziantep from 2015 to 2018.",
-              "links": [
-                {
-                  "type": "internal",
-                  "page": "Governor of Şırnak"
-                },
-                {
-                  "type": "internal",
-                  "page": "Governor of Ağrı"
-                },
-                {
-                  "type": "internal",
-                  "page": "Governor of Tekirdağ"
-                },
-                {
-                  "type": "internal",
-                  "page": "Governor of Gaziantep"
-                }
-              ]
-            }
-          ]
-        }
-      ],
-      "templates": [
-        {
-          "date": "June 2019",
-          "template": "use dmy dates"
-        },
-        {
-          "description": "Turkish politician",
-          "template": "short description"
-        },
-        {
-          "year": "1968",
-          "month": "October",
-          "day": "11",
-          "df": "yes",
-          "template": "birth date and age"
-        }
-      ],
-      "infoboxes": [
-        {
-          "name": {
-            "text": "Ali Yerlikaya"
-          },
-          "image": {
-            "text": "Ali Yerlikaya.png"
-          },
-          "office1": {
-            "text": "Acting Mayor of Istanbul",
-            "links": [
-              {
-                "type": "internal",
-                "page": "Mayor of Istanbul"
-              }
-            ]
-          },
-          "term_start1": {
-            "text": "6 May 2019"
-          },
-          "term_end1": {
-            "text": "27 June 2019"
-          },
-          "predecessor1": {
-            "text": "Ekrem İmamoğlu",
-            "links": [
-              {
-                "type": "internal",
-                "page": "Ekrem İmamoğlu"
-              }
-            ]
-          },
-          "successor1": {
-            "text": "Ekrem İmamoğlu",
-            "links": [
-              {
-                "type": "internal",
-                "page": "Ekrem İmamoğlu"
-              }
-            ]
-          },
-          "office": {
-            "text": "Governor of Istanbul",
-            "links": [
-              {
-                "type": "internal",
-                "page": "Governor of Istanbul"
-              }
-            ]
-          },
-          "term_start": {
-            "text": "26 October 2018"
-          },
-          "predecessor": {
-            "text": "Vasip Şahin",
-            "links": [
-              {
-                "type": "internal",
-                "page": "Vasip Şahin"
-              }
-            ]
-          },
-          "office2": {
-            "text": "Governor of Gaziantep",
-            "links": [
-              {
-                "type": "internal",
-                "page": "Governor of Gaziantep"
-              }
-            ]
-          },
-          "term_start2": {
-            "text": "19 February 2015"
-          },
-          "term_end2": {
-            "text": "26 October 2018"
-          },
-          "predecessor2": {
-            "text": "Erdal Ata"
-          },
-          "successor2": {
-            "text": "Davut Gül"
-          },
-          "office3": {
-            "text": "Governor of Tekirdağ",
-            "links": [
-              {
-                "type": "internal",
-                "page": "Governor of Tekirdağ"
-              }
-            ]
-          },
-          "term_start3": {
-            "text": "3 August 2012"
-          },
-          "term_end3": {
-            "text": "19 February 2015"
-          },
-          "predecessor3": {
-            "text": "Zübeyir Kemelek"
-          },
-          "successor3": {
-            "text": "Enver Salihoğlu"
-          },
-          "office4": {
-            "text": "Governor of Ağrı",
-            "links": [
-              {
-                "type": "internal",
-                "page": "Governor of Ağrı"
-              }
-            ]
-          },
-          "term_start4": {
-            "text": "13 May 2010"
-          },
-          "term_end4": {
-            "text": "3 August 2012"
-          },
-          "predecessor4": {
-            "text": "Mehmet Çetin"
-          },
-          "successor4": {
-            "text": "Mehmet Tekinarslan"
-          },
-          "office5": {
-            "text": "Governor of Şırnak",
-            "links": [
-              {
-                "type": "internal",
-                "page": "Governor of Şırnak"
-              }
-            ]
-          },
-          "term_start5": {
-            "text": "30 November 2007"
-          },
-          "term_end5": {
-            "text": "13 May 2010"
-          },
-          "predecessor5": {
-            "text": "Osman Güneş"
-          },
-          "successor5": {
-            "text": "Vahdettin Özkan"
-          },
-          "birth_date": {
-            "text": "1968",
-            "number": 1968
-          },
-          "birth_place": {
-            "text": "Konya, Turkey",
-            "links": [
-              {
-                "type": "internal",
-                "page": "Konya"
-              }
-            ]
-          },
-          "children": {
-            "text": "Emir Yusuf Tomruk Yerlikaya"
-          },
-          "nationality": {
-            "text": "Turkish"
-          },
-          "alma_mater": {
-            "text": "Istanbul University",
-            "links": [
-              {
-                "type": "internal",
-                "page": "Istanbul University"
-              }
-            ]
-          },
-          "country": {
-            "text": "Turkey"
-          }
-        }
-      ]
-    }
-  ]
+  "name": "Ali Yerlikaya",
+  "image": "Ali Yerlikaya.png",
+  "office1": "Acting Mayor of Istanbul",
+  "term_start1": "6 May 2019",
+  "term_end1": "27 June 2019",
+  "predecessor1": "Ekrem İmamoğlu",
+  "successor1": "Ekrem İmamoğlu",
+  "office": "Governor of Istanbul",
+  "term_start": "26 October 2018",
+  "predecessor": "Vasip Şahin",
+  "office2": "Governor of Gaziantep",
+  "term_start2": "19 February 2015",
+  "term_end2": "26 October 2018",
+  "predecessor2": "Erdal Ata",
+  "successor2": "Davut Gül",
+  "office3": "Governor of Tekirdağ",
+  "term_start3": "3 August 2012",
+  "term_end3": "19 February 2015",
+  "predecessor3": "Zübeyir Kemelek",
+  "successor3": "Enver Salihoğlu",
+  "office4": "Governor of Ağrı",
+  "term_start4": "13 May 2010",
+  "term_end4": "3 August 2012",
+  "predecessor4": "Mehmet Çetin",
+  "successor4": "Mehmet Tekinarslan",
+  "office5": "Governor of Şırnak",
+  "term_start5": "30 November 2007",
+  "term_end5": "13 May 2010",
+  "predecessor5": "Osman Güneş",
+  "successor5": "Vahdettin Özkan",
+  "birth_date": "1968",
+  "birth_place": "Konya, Turkey",
+  "children": "Emir Yusuf Tomruk Yerlikaya",
+  "nationality": "Turkish",
+  "alma_mater": "Istanbul University",
+  "country": "Turkey"
 }
