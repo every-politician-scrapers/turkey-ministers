@@ -1,54 +1,54 @@
 id,name,relationship,relative,relativename
-Q106292012,Ahmet Mücahit Arınç,father,Q1020672,Bülent Arınç
-Q1395724,Selahattin Demirtaş,child,Q104768752,Delal Demirtaş
-Q1395724,Selahattin Demirtaş,child,Q104768845,Dılda Demirtaş
-Q1395724,Selahattin Demirtaş,sibling,Q3675426,Nurettin Demirtaş
-Q1395724,Selahattin Demirtaş,spouse,Q62057770,Başak Demirtaş
-Q151729,Süleyman Demirel,spouse,Q6012872,Nazmiye Demirel
-Q165487,Ahmet Necdet Sezer,spouse,Q7449826,Semra Sezer
-Q192634,Bülent Ecevit,father,Q6019658,Ahmet Fahri Ecevit
-Q192634,Bülent Ecevit,mother,Q6029932,Nazlı Ecevit
-Q192634,Bülent Ecevit,spouse,Q7283651,Rahşan Ecevit
-Q20640548,Dilek Öcalan,relative,Q191530,Abdullah Öcalan
-Q21044822,Selin Sayek Böke,father,Q6086918,İskender Sayek
-Q21044822,Selin Sayek Böke,mother,Q6066031,Füsun Sayek
-Q21540262,Ravza Kavakcı Kan,sibling,Q4165998,Merve Kavakcı
-Q21541529,Sema Ramazanoğlu,spouse,Q6502362,Yıldırım Mehmet Ramazanoğlu
-Q2602515,Tuğrul Türkeş,father,Q735688,Alparslan Türkeş
-Q31188381,Mahmut Celadet Gaydalı,father,Q17430342,Abidin İnan Gaydalı
-Q31188381,Mahmut Celadet Gaydalı,relative,Q3678351,Kâmran İnan
-Q31188381,Mahmut Celadet Gaydalı,sibling,Q6042095,Edip Safter Gaydalı
-Q31188524,Zeynep Altıok,father,Q241172,Metin Altıok
-Q344153,İsmail Cem İpekçi,father,Q6060362,İhsan İpekçi
-Q344153,İsmail Cem İpekçi,relative,Q308154,Abdi İpekçi
-Q388852,Şenol Bal,sibling,Q6058688,İsmail Hakkı Sunat
-Q39259,Recep Tayyip Erdoğan,child,Q17330106,Necmettin Bilal Erdoğan
-Q39259,Recep Tayyip Erdoğan,child,Q20471228,Sümeyye Erdoğan
-Q39259,Recep Tayyip Erdoğan,child,Q4358398,Ahmet Burak Erdoğan
-Q39259,Recep Tayyip Erdoğan,child,Q61073623,Esra Erdoğan
-Q39259,Recep Tayyip Erdoğan,relative,Q6052158,Berat Albayrak
-Q39259,Recep Tayyip Erdoğan,relative,Q83544153,Selçuk Bayraktar
-Q39259,Recep Tayyip Erdoğan,spouse,Q2977143,Emine Erdoğan
-Q42852,Abdullah Gül,spouse,Q2657523,Hayrünnisa Gül
-Q458740,Pervin Buldan,spouse,Q7427968,Savaş Buldan
-Q464689,Leyla Zana,spouse,Q1423181,Mehdi Zana
-Q4696192,Ahmet Piriştina,child,Q21526515,Levent Piriştina
-Q55439729,Bekir Pakdemirli,father,Q6072402,Ekrem Pakdemirli
-Q58198,Ahmet Davutoğlu,spouse,Q23920473,Sare Davutoğlu
-Q59313241,Ekrem İmamoğlu,spouse,Q67157842,Dilek İmamoğlu
-Q6029691,Şahin Mengü,child,Q12811130,Nevşin Mengü
-Q6052158,Berat Albayrak,father,Q16105834,Sadık Albayrak
-Q6052158,Berat Albayrak,relative,Q39259,Recep Tayyip Erdoğan
-Q6052158,Berat Albayrak,relative,Q65220006,Serhat Albayrak
-Q6052158,Berat Albayrak,sibling,Q65220006,Serhat Albayrak
-Q6052158,Berat Albayrak,spouse,Q61073623,Esra Erdoğan
-Q6061291,Ayşe Gülsün Bilgehan,father,Q3277055,Metin Toker
-Q6077556,Fikri Sağlar,relative,Q17468336,Süleyman Fikri Mutlu
-Q6077556,Fikri Sağlar,relative,Q21526105,Gerçek Sağlar
-Q6098459,Süleyman Soylu,father,Q106977159,Hasan Soylu
-Q6098459,Süleyman Soylu,mother,Q106977199,Servet Soylu
-Q64738140,Ömer Öcalan,relative,Q191530,Abdullah Öcalan
-Q85976789,Tolga Ağar,father,Q735547,Mehmet Ağar
-Q863496,Binali Yıldırım,child,Q42756066,Erkam Yildirim
-Q863496,Binali Yıldırım,child,Q42756092,Bulent Yildirim
-Q982389,Sırrı Süreyya Önder,father,Q106377292,Ziya Önder
+Q106292012,Ahmet Mücahit Arınç,father,Q1020672,
+Q1395724,Selahattin Demirtaş,child,Q104768752,
+Q1395724,Selahattin Demirtaş,child,Q104768845,
+Q1395724,Selahattin Demirtaş,sibling,Q3675426,
+Q1395724,Selahattin Demirtaş,spouse,Q62057770,
+Q151729,Süleyman Demirel,spouse,Q6012872,
+Q165487,Ahmet Necdet Sezer,spouse,Q7449826,
+Q192634,Bülent Ecevit,father,Q6019658,
+Q192634,Bülent Ecevit,mother,Q6029932,
+Q192634,Bülent Ecevit,spouse,Q7283651,
+Q20640548,Dilek Öcalan,relative,Q191530,
+Q21044822,Selin Sayek Böke,father,Q6086918,
+Q21044822,Selin Sayek Böke,mother,Q6066031,
+Q21540262,Ravza Kavakcı Kan,sibling,Q4165998,
+Q21541529,Sema Ramazanoğlu,spouse,Q6502362,
+Q2602515,Tuğrul Türkeş,father,Q735688,
+Q31188381,Mahmut Celadet Gaydalı,father,Q17430342,
+Q31188381,Mahmut Celadet Gaydalı,relative,Q3678351,
+Q31188381,Mahmut Celadet Gaydalı,sibling,Q6042095,
+Q31188524,Zeynep Altıok,father,Q241172,
+Q344153,İsmail Cem İpekçi,father,Q6060362,
+Q344153,İsmail Cem İpekçi,relative,Q308154,
+Q388852,Şenol Bal,sibling,Q6058688,
+Q39259,Recep Tayyip Erdoğan,child,Q17330106,
+Q39259,Recep Tayyip Erdoğan,child,Q20471228,
+Q39259,Recep Tayyip Erdoğan,child,Q4358398,
+Q39259,Recep Tayyip Erdoğan,child,Q61073623,
+Q39259,Recep Tayyip Erdoğan,relative,Q6052158,
+Q39259,Recep Tayyip Erdoğan,relative,Q83544153,
+Q39259,Recep Tayyip Erdoğan,spouse,Q2977143,
+Q42852,Abdullah Gül,spouse,Q2657523,
+Q458740,Pervin Buldan,spouse,Q7427968,
+Q464689,Leyla Zana,spouse,Q1423181,
+Q4696192,Ahmet Piriştina,child,Q21526515,
+Q55439729,Bekir Pakdemirli,father,Q6072402,
+Q58198,Ahmet Davutoğlu,spouse,Q23920473,
+Q59313241,Ekrem İmamoğlu,spouse,Q67157842,
+Q6029691,Şahin Mengü,child,Q12811130,
+Q6052158,Berat Albayrak,father,Q16105834,
+Q6052158,Berat Albayrak,relative,Q39259,
+Q6052158,Berat Albayrak,relative,Q65220006,
+Q6052158,Berat Albayrak,sibling,Q65220006,
+Q6052158,Berat Albayrak,spouse,Q61073623,
+Q6061291,Ayşe Gülsün Bilgehan,father,Q3277055,
+Q6077556,Fikri Sağlar,relative,Q17468336,
+Q6077556,Fikri Sağlar,relative,Q21526105,
+Q6098459,Süleyman Soylu,father,Q106977159,
+Q6098459,Süleyman Soylu,mother,Q106977199,
+Q64738140,Ömer Öcalan,relative,Q191530,
+Q85976789,Tolga Ağar,father,Q735547,
+Q863496,Binali Yıldırım,child,Q42756066,
+Q863496,Binali Yıldırım,child,Q42756092,
+Q982389,Sırrı Süreyya Önder,father,Q106377292,
