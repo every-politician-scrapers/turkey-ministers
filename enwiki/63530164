@@ -1,12 +1,14 @@
 {
-  "name": "Mehmet Muharrem Kasapoğlu",
-  "image": "Mehmet Muharrem Kasapoğlu.png",
-  "office1": "Minister of Youth and Sports",
+  "name": "Mehmet Kasapoğlu",
+  "image": "Mehmet Kasapoğlu in Ukraine, 2022.jpg",
+  "caption": "Kasapoğlu in 2022",
+  "office": "Minister of Youth and Sports",
   "honorific-prefix": "Dr.",
-  "president1.": "Recep Tayyip Erdoğan",
-  "term_start1": "10 July 2018",
-  "predecessor1": "Osman Aşkın Bak",
+  "president": "Recep Tayyip Erdoğan",
+  "term_start": "10 July 2018",
+  "predecessor": "Osman Aşkın Bak",
   "birth_date": "December 22, 1976",
   "birth_place": "Istanbul, Turkey",
+  "party": "Independent",
   "alma_mater": "Marmara University, Florida State University, Palm Beach Atlantic University, Istanbul University"
 }
