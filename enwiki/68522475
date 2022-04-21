@@ -1,9 +1,17 @@
 {
   "image": "File:Mahmut Özer (cropped).png",
-  "office3": "Minister of National Education",
-  "term_start3": "August 6, 2021",
-  "predecessor3": "Ziya Selçuk",
+  "office": "Minister of National Education",
+  "term_start": "6 August 2021",
+  "president": "Recep Tayyip Erdoğan",
+  "predecessor": "Ziya Selçuk",
+  "office2": "President of Measuring, Selection and Placement Center",
+  "term_start2": "4 October 2017",
+  "term_end2": "8 August 2018",
+  "successor2": "Halis Aygün",
+  "office3": "Rector of Zonguldak Bülent Ecevit University",
+  "term_start3": "28 November 2010",
+  "term_end3": "4 October 2017",
   "birth_date": "May 5, 1970",
-  "birth_place": "Tokat Province, Turkey",
+  "birth_place": "Tokat, Turkey",
   "education": "Istanbul Technical University\nKaradeniz Technical University"
 }
