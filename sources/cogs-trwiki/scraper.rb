@@ -21,11 +21,7 @@ class OfficeholderList < OfficeholderListBase
     end
 
     def empty?
-      tds[0].text.tidy.empty?
-    end
-
-    def tds
-      noko.css('td,th')
+      super || noko.text.include?('Örnek')
     end
   end
 end
