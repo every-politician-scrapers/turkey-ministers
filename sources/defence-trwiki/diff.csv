@@ -1,14 +1,2 @@
-@@,itemlabel,item,startdate,enddate
-+++,Fevzi Çakmak,Q328331,1920-05-03,1921-08-05
-+++,Refet Bele,Q1422996,1921-08-05,1922-01-10
-+++,Kâzım Özalp,Q925035,1922-01-10,1924-11-21
-+++,Kâzım Özalp,Q925035,1922-01-10,1923-10-30
-->,Ali Fethi Okyar->Fethi Okyar,Q366292,1924-11-22,1925-03-03
-->,Mustafa Münir Birsel->Münir Birsel,Q6046344,1947-09-05,1948-06-05
-->,Etem Menderes->Ethem Menderes,Q1371176,1954-05-17,1955-09-15
-->,Fuat Köprülü->Mehmet Fuad Köprülü,Q604285,1955-09-15,1955-12-09
-->,Etem Menderes->Ethem Menderes,Q1371176,1958-01-19,1960-05-27
-->,Nevzat Cihat Bilgehan->Cihat Bilgehan,Q6088252,1977-10-14,1977-10-28
-->,Mehmet Ercan Vuralhan->Ercan Vuralhan,Q6089060,1987-12-21,1989-03-30
-->,Safa Giray,Q4138855->Q85974320,1989-03-30,1990-10-19
-->,İsmet Yılmaz,Q8080224,2011-07-06,2013-01-24->2015-07-01
+@@,item,itemlabel,startdate,enddate
+->,Q8080224,İsmet Yılmaz,2011-07-06,2013-01-24->2015-07-01

@@ -17,10 +17,6 @@ class OfficeholderList < OfficeholderListBase
     def columns
       %w[no name start end].freeze
     end
-
-    def empty?
-      tds[2].text == tds[3].text
-    end
   end
 end
 
