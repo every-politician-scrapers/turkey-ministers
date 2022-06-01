@@ -4,8 +4,6 @@
 require 'every_politician_scraper/scraper_data'
 require 'pry'
 
-require 'open-uri/cached'
-
 class OfficeholderList < OfficeholderListBase
   decorator RemoveReferences
   decorator UnspanAllTables
@@ -21,7 +19,7 @@ class OfficeholderList < OfficeholderListBase
     end
 
     def empty?
-      super || noko.text.include?('Örnek')
+      noko.text.include?('Örnek') || super
     end
   end
 end
