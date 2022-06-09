@@ -1,6 +1,6 @@
 id,position,country,jurisdiction,deputy,list,start,end,before,after,enwiki
 Q1922067,President of Turkey,Q43,Q43,Q52137988,Q216984,1923-10-29,,,,President of Turkey
-Q52137988,Vice President of Turkey,Q43,Q43,,,2018,,Q2430415,,Vice President of Türkiye
+Q52137988,Vice President of Turkey,Q43,Q43,,,2018,,Q2430415,,Vice President of Turkey
 Q2430415,Prime Minister of Turkey,Q43,Q43,,Q474514,1920-05-03,2018-07-09,Q1142289,Q52137988,Prime Minister of Turkey
 Q5261074,Deputy Prime Minister of Turkey,Q43,Q43,,,1920-05-03,2018-07-09,,,Deputy Prime Minister of Turkey
 Q106533896,Minister of Agriculture and Forestry,Q43,,,,,,,,
