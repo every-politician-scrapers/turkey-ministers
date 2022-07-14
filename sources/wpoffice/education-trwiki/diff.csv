@@ -1,15 +1,2 @@
-@@,itemlabel,item,startdate,enddate
-+++,Rıza Nur,Q1747863,1920-05-04,1920-12-13
-+++,Hamdullah Suphi Tanrıöver,Q6673145,1920-12-14,1921-11-20
-+++,Mehmet Vehbi Bolak,Q6073893,1921-11-20,1922-11-05
-+++,İsmail Safa Özler,Q6060508,1922-11-05,1923-10-27
-+++,İsmail Safa Özler,Q6060508,1923-10-30,1924-03-06
-->,Şükrü Saracoğlu->Şükrü Saraçoğlu,Q390725,1924-11-22,1925-03-03
-->,Ahmet Tevfik İleri,Q6095635,1950-08-11,1951-03-09->1953-04-05
-->,Celal Yardımcı->Hüseyin Celal Yardımcı,Q6081672,1954-05-17,1955-12-09
-->,Celal Yardımcı->Hüseyin Celal Yardımcı,Q6081672,1957-11-26,1959-05-22
-->,Cihat Bilgehan->Nevzat Cihat Bilgehan,Q6088252,1965-02-20,1965-10-27
-->,Orhan Oğuz (siyasetçi)->Orhan Oğuz,Q6060056,1969-11-03,1971-03-26
-+++,İsmail Hakkı Arar,Q6081117,1971-12-13,1972-05-22
-->,Köksal Toptan,Q725762,1991-06-23->1991-11-20,1993-06-25
-->,Nimet Baş->Nimet Çubukçu,Q466180,2009-05-01,2011-07-06
+@@,item,itemlabel,startdate,enddate
+->,Q466180,Nimet Baş->Nimet Çubukçu,2009-05-01,2011-07-06
