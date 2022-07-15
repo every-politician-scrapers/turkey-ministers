@@ -1,0 +1,20 @@
+{
+    "jurisdiction": {
+      "name": "Turkey",
+      "id": "Q43"
+    },
+    "cabinet": {
+      "id": "Q55435983",
+      "start": "2018-07-10",
+      "parent": "Q12812333"
+    },
+    "source": {
+        "url":   "https://www.tccb.gov.tr/en/cabinet/",
+        "title": "Presidency Of The Republic Of Turkey : Presidential Cabinet",
+        "lang":  {
+            "code": "en",
+            "wikidata": "Q1860"
+        }
+    },
+    "agent": "every-politican-scrapers/turkey-ministers"
+}
