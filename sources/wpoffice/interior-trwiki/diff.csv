@@ -1,20 +1,3 @@
-@@,itemlabel,item,startdate,enddate
-+++,Cami Baykut,Q6089813,1920-05-03,1920-07-13
-+++,Hakkı Behiç Bayiç,Q6073529,1920-07-17,1920-09-04
-+++,Nazım Resmor,Q6050304,1920-09-04,1920-09-06
-+++,Refet Bele,Q1422996,1920-09-06,1921-03-18
-+++,Ata Atalay,Q6048621,1921-04-21,1921-06-30
-+++,Refet Bele,Q1422996,1921-06-30,1921-10-10
-+++,Fethi Okyar,Q366292,1921-10-10,1922-07-09
-+++,İsmail Safa Özler,Q6060508,1922-07-12,1922-11-05
-+++,Fethi Okyar,Q366292,1922-11-05,1923-10-27
-->,Şükrü Sökmensüer->Şükrü Sökmen Süer,Q6441295,1946-08-07,1947-09-05
-+++,Halil İbrahim Özyörük,Q6085210,1951-03-09,1951-10-20
-->,Etem Menderes->İbrahim Ethem Menderes,Q1371176,1952-08-01,1954-05-17
-->,Etem Menderes->İbrahim Ethem Menderes,Q1371176,1955-09-30,1956-10-12
-->,Sabahattin Özbek->Ahmet Sabahattin Özbek,Q6090114,1977-04-11,1977-06-21
-->,Yıldırım Akbulut,Q558287,1984-10-26,1987-09-26->1987-09-16
-->,Mehmet Gazioğlu->Beytullah Mehmet Gazioğlu,Q6072839,1993-06-25,1993-10-24
-->,Ülkü Güney->Ülkü Gökalp Güney,Q6053755,1996-03-06,1996-06-28
-->,Selami Altınok,Q6021021,2015-08-28,2015-11-17->2015-11-24
-->,Süleyman Soylu,Q6098459,2018-07-10->2016-08-31,
+@@,item,itemlabel,startdate,enddate
+->,Q6021021,Selami Altınok,2015-08-28,2015-11-17->2015-11-24
+->,Q6098459,Süleyman Soylu,2018-07-10->2016-08-31,
