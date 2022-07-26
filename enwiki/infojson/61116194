@@ -1,0 +1,127 @@
+[
+  {
+    "office": {
+      "links": [
+        "Governor of Şırnak"
+      ],
+      "stated_as": "Governor of Şırnak"
+    },
+    "P580": "2007-11-30",
+    "P1365": {
+      "links": [
+
+      ],
+      "stated_as": "Osman Güneş"
+    },
+    "P582": "2010-05-13",
+    "P1366": {
+      "links": [
+
+      ],
+      "stated_as": "Vahdettin Özkan"
+    }
+  },
+  {
+    "office": {
+      "links": [
+        "Governor of Ağrı"
+      ],
+      "stated_as": "Governor of Ağrı"
+    },
+    "P580": "2010-05-13",
+    "P1365": {
+      "links": [
+
+      ],
+      "stated_as": "Mehmet Çetin"
+    },
+    "P582": "2012-08-03",
+    "P1366": {
+      "links": [
+
+      ],
+      "stated_as": "Mehmet Tekinarslan"
+    }
+  },
+  {
+    "office": {
+      "links": [
+        "Governor of Tekirdağ"
+      ],
+      "stated_as": "Governor of Tekirdağ"
+    },
+    "P580": "2012-08-03",
+    "P1365": {
+      "links": [
+
+      ],
+      "stated_as": "Zübeyir Kemelek"
+    },
+    "P582": "2015-02-19",
+    "P1366": {
+      "links": [
+
+      ],
+      "stated_as": "Enver Salihoğlu"
+    }
+  },
+  {
+    "office": {
+      "links": [
+        "Governor of Gaziantep"
+      ],
+      "stated_as": "Governor of Gaziantep"
+    },
+    "P580": "2015-02-19",
+    "P1365": {
+      "links": [
+
+      ],
+      "stated_as": "Erdal Ata"
+    },
+    "P582": "2018-10-26",
+    "P1366": {
+      "links": [
+
+      ],
+      "stated_as": "Davut Gül"
+    }
+  },
+  {
+    "office": {
+      "links": [
+        "Governor of Istanbul"
+      ],
+      "stated_as": "Governor of Istanbul"
+    },
+    "P580": "2018-10-26",
+    "P1365": {
+      "links": [
+        "Vasip Şahin"
+      ],
+      "stated_as": "Vasip Şahin"
+    }
+  },
+  {
+    "office": {
+      "links": [
+        "Mayor of Istanbul"
+      ],
+      "stated_as": "Acting Mayor of Istanbul"
+    },
+    "P580": "2019-05-06",
+    "P1365": {
+      "links": [
+        "Ekrem İmamoğlu"
+      ],
+      "stated_as": "Ekrem İmamoğlu"
+    },
+    "P582": "2019-06-27",
+    "P1366": {
+      "links": [
+        "Ekrem İmamoğlu"
+      ],
+      "stated_as": "Ekrem İmamoğlu"
+    }
+  }
+]

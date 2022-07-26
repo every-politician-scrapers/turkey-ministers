@@ -1,0 +1,123 @@
+[
+  {
+    "office": {
+      "links": [
+        "Mayor of Istanbul"
+      ],
+      "stated_as": "Mayor of Istanbul"
+    },
+    "P580": "1994-03-27",
+    "P1365": {
+      "links": [
+        "Nurettin Sözen"
+      ],
+      "stated_as": "Nurettin Sözen"
+    },
+    "P582": "1998-11-06",
+    "P1366": {
+      "links": [
+        "Ali Müfit Gürtuna"
+      ],
+      "stated_as": "Ali Müfit Gürtuna"
+    }
+  },
+  {
+    "office": {
+      "links": [
+        "Leader of the Justice and Development Party"
+      ],
+      "stated_as": "Leader of the Justice and Development Party"
+    },
+    "P580": "2001-08-14",
+    "P1365": {
+      "links": [
+
+      ],
+      "stated_as": "Position established"
+    },
+    "P582": "2014-08-27",
+    "P1366": {
+      "links": [
+        "Ahmet Davutoğlu"
+      ],
+      "stated_as": "Ahmet Davutoğlu"
+    }
+  },
+  {
+    "office": {
+      "links": [
+        "Mayor of Istanbul"
+      ],
+      "stated_as": "Mayor of Istanbul"
+    },
+    "P580": "2003-03-09",
+    "P582": "2014-08-28"
+  },
+  {
+    "office": {
+      "links": [
+        "Prime Minister of Turkey"
+      ],
+      "stated_as": "25th Prime Minister of Turkey"
+    },
+    "P580": "2003-03-14",
+    "P1365": {
+      "links": [
+        "Abdullah Gül"
+      ],
+      "stated_as": "Abdullah Gül"
+    },
+    "P582": "2014-08-28",
+    "P1366": {
+      "links": [
+        "Ahmet Davutoğlu"
+      ],
+      "stated_as": "Ahmet Davutoğlu"
+    }
+  },
+  {
+    "office": {
+      "links": [
+        "President of Turkey"
+      ],
+      "stated_as": "12th President of Turkey"
+    },
+    "P580": "2014-08-28",
+    "P1365": {
+      "links": [
+        "Abdullah Gül"
+      ],
+      "stated_as": "Abdullah Gül"
+    }
+  },
+  {
+    "office": {
+      "links": [
+        "Leader of the Justice and Development Party"
+      ],
+      "stated_as": "Leader of the Justice and Development Party"
+    },
+    "P580": "2017-05-21",
+    "P1365": {
+      "links": [
+        "Binali Yıldırım"
+      ],
+      "stated_as": "Binali Yıldırım"
+    }
+  },
+  {
+    "office": {
+      "links": [
+        "Organization of Turkic States"
+      ],
+      "stated_as": "Chairman of the Organization of Turkic States"
+    },
+    "P580": "2021-11-12",
+    "P1365": {
+      "links": [
+        "Ilham Aliyev"
+      ],
+      "stated_as": "Ilham Aliyev"
+    }
+  }
+]

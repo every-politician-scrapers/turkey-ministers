@@ -1,0 +1,86 @@
+[
+  {
+    "office": {
+      "links": [
+        "Governor of Düzce",
+        "Governor of Düzce"
+      ],
+      "stated_as": "6th Governor of Düzce"
+    },
+    "P580": "2010-06-07",
+    "P1365": {
+      "links": [
+        "Bülent Kılınç"
+      ],
+      "stated_as": "Bülent Kılınç"
+    },
+    "P582": "2012-08-17",
+    "P1366": {
+      "links": [
+        "Adnan Yılmaz"
+      ],
+      "stated_as": "Adnan Yılmaz"
+    }
+  },
+  {
+    "office": {
+      "links": [
+        "Governor of Malatya",
+        "Governor of Malatya"
+      ],
+      "stated_as": "37th Governor of Malatya"
+    },
+    "P580": "2012-08-31",
+    "P1365": {
+      "links": [
+        "Ulvi Saran"
+      ],
+      "stated_as": "Ulvi Saran"
+    },
+    "P582": "2014-09-24",
+    "P1366": {
+      "links": [
+        "Süleyman Kamçı"
+      ],
+      "stated_as": "Süleyman Kamçı"
+    }
+  },
+  {
+    "office": {
+      "links": [
+        "List of Governors of Istanbul",
+        "Governor of İstanbul"
+      ],
+      "stated_as": "21st Governor of İstanbul"
+    },
+    "P580": "2014-09-25",
+    "P1365": {
+      "links": [
+        "Hüseyin Avni Mutlu"
+      ],
+      "stated_as": "Hüseyin Avni Mutlu"
+    },
+    "P582": "2018-11-01",
+    "P1366": {
+      "links": [
+        "Ali Yerlikaya"
+      ],
+      "stated_as": "Ali Yerlikaya"
+    }
+  },
+  {
+    "office": {
+      "links": [
+        "Governor of Ankara"
+      ],
+      "stated_as": "38th Governor of Ankara"
+    },
+    "P580": "2018-11-06",
+    "P1365": {
+      "links": [
+        "Ercan Topaca"
+      ],
+      "stated_as": "Ercan Topaca"
+    }
+  }
+]

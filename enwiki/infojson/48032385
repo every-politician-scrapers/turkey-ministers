@@ -1,0 +1,71 @@
+[
+  {
+    "office": {
+      "links": [
+        "Grand National Assembly of Turkey"
+      ],
+      "stated_as": "Member of the Grand National Assembly of Turkey"
+    },
+    "P580": "2011-06-12"
+  },
+  {
+    "office": {
+      "links": [
+        "Justice and Development Party (Turkey)"
+      ],
+      "stated_as": "Deputy leader of the Justice and Development Party\nresponsible for election campaigns"
+    },
+    "P580": "2012-09-30",
+    "P1365": {
+      "links": [
+        "Zelkif Kazdal"
+      ],
+      "stated_as": "Zelkif Kazdal"
+    },
+    "P582": "2015-09-12",
+    "P1366": {
+      "links": [
+        "Bekir Bozdağ"
+      ],
+      "stated_as": "Bekir Bozdağ"
+    }
+  },
+  {
+    "office": {
+      "links": [
+        "Deputy Speaker of the Grand National Assembly"
+      ],
+      "stated_as": "Deputy Speaker of the Grand National Assembly of Turkey"
+    },
+    "P580": "2018-07-12",
+    "P1365": {
+      "links": [
+        "Ahmet Aydın"
+      ],
+      "stated_as": "Ahmet Aydın"
+    },
+    "P582": "2019-02-24",
+    "P1366": {
+      "links": [
+        "Süreyya Sadi Bilgiç"
+      ],
+      "stated_as": "Süreyya Sadi Bilgiç"
+    }
+  },
+  {
+    "office": {
+      "links": [
+        "Speaker of the Grand National Assembly",
+        "Speaker of the Grand National Assembly of Turkey"
+      ],
+      "stated_as": "29th Speaker of the Grand National Assembly of Turkey"
+    },
+    "P580": "2019-02-24",
+    "P1365": {
+      "links": [
+        "Binali Yıldırım"
+      ],
+      "stated_as": "Binali Yıldırım"
+    }
+  }
+]
