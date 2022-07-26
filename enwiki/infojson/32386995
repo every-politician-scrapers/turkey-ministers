@@ -1,0 +1,161 @@
+[
+  {
+    "office": {
+      "links": [
+        "Supreme Board of Judges and Prosecutors"
+      ],
+      "stated_as": "President of the Supreme Board of Judges and Prosecutors"
+    },
+    "P580": "2002-11-03",
+    "P582": "2015-06-07"
+  },
+  {
+    "office": {
+      "links": [
+        "Deputy Prime Minister of Turkey"
+      ],
+      "stated_as": "Deputy Prime Minister of Turkey"
+    },
+    "P580": "2011-07-06",
+    "P1365": {
+      "links": [
+        "Hayati Yazıcı"
+      ],
+      "stated_as": "Hayati Yazıcı"
+    },
+    "P582": "2013-12-25",
+    "P1366": {
+      "links": [
+        "Emrullah İşler"
+      ],
+      "stated_as": "Emrullah İşler"
+    }
+  },
+  {
+    "office": {
+      "links": [
+        "Minister of Justice (Turkey)"
+      ],
+      "stated_as": "Minister of Justice"
+    },
+    "P580": "2013-12-26",
+    "P1365": {
+      "links": [
+        "Sadullah Ergin"
+      ],
+      "stated_as": "Sadullah Ergin"
+    },
+    "P582": "2015-03-07",
+    "P1366": {
+      "links": [
+        "Kenan İpek"
+      ],
+      "stated_as": "Kenan İpek"
+    }
+  },
+  {
+    "office": {
+      "links": [
+        "Supreme Board of Judges and Prosecutors"
+      ],
+      "stated_as": "President of the Supreme Board of Judges and Prosecutors"
+    },
+    "P580": "2013-12-26",
+    "P1365": {
+      "links": [
+        "Sadullah Ergin"
+      ],
+      "stated_as": "Sadullah Ergin"
+    },
+    "P582": "2015-03-07",
+    "P1366": {
+      "links": [
+        "Kenan İpek"
+      ],
+      "stated_as": "Kenan İpek"
+    }
+  },
+  {
+    "office": {
+      "links": [
+        "Supreme Board of Judges and Prosecutors"
+      ],
+      "stated_as": "President of the Supreme Board of Judges and Prosecutors"
+    },
+    "P580": "2015-11-01"
+  },
+  {
+    "office": {
+      "links": [
+        "Minister of Justice (Turkey)"
+      ],
+      "stated_as": "Minister of Justice"
+    },
+    "P580": "2015-11-24",
+    "P1365": {
+      "links": [
+        "Kenan İpek"
+      ],
+      "stated_as": "Kenan İpek"
+    },
+    "P582": "2017-07-19",
+    "P1366": {
+      "links": [
+        "Abdulhamit Gül"
+      ],
+      "stated_as": "Abdulhamit Gül"
+    }
+  },
+  {
+    "office": {
+      "links": [
+        "Supreme Board of Judges and Prosecutors"
+      ],
+      "stated_as": "President of the Supreme Board of Judges and Prosecutors"
+    },
+    "P580": "2015-11-24",
+    "P1365": {
+      "links": [
+        "Kenan İpek"
+      ],
+      "stated_as": "Kenan İpek"
+    }
+  },
+  {
+    "office": {
+      "links": [
+        "Deputy Prime Minister of Turkey"
+      ],
+      "stated_as": "Deputy Prime Minister of Turkey"
+    },
+    "P580": "2017-07-19",
+    "P1365": {
+      "links": [
+        "Numan Kurtulmuş"
+      ],
+      "stated_as": "Numan Kurtulmuş"
+    },
+    "P582": "2018-07-09",
+    "P1366": {
+      "links": [
+
+      ],
+      "stated_as": "office abolished"
+    }
+  },
+  {
+    "office": {
+      "links": [
+        "Minister of Justice (Turkey)"
+      ],
+      "stated_as": "Minister of Justice"
+    },
+    "P580": "2022-01-29",
+    "P1365": {
+      "links": [
+        "Abdulhamit Gül"
+      ],
+      "stated_as": "Abdulhamit Gül"
+    }
+  }
+]

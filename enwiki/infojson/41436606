@@ -1,0 +1,61 @@
+[
+  {
+    "office": {
+      "links": [
+        "Beypazarı"
+      ],
+      "stated_as": "Member of the Beypazarı Municipal Council"
+    },
+    "P580": "1989-03-26",
+    "P1365": {
+      "links": [
+
+      ],
+      "stated_as": "Multi-member district"
+    },
+    "P582": "1999-04-18",
+    "P1366": {
+      "links": [
+
+      ],
+      "stated_as": "Multi-member district"
+    }
+  },
+  {
+    "office": {
+      "links": [
+        "Beypazarı"
+      ],
+      "stated_as": "Mayor of Beypazarı"
+    },
+    "P580": "1999-04-18",
+    "P1365": {
+      "links": [
+
+      ],
+      "stated_as": "İbrahim Demir"
+    },
+    "P582": "2009-03-29",
+    "P1366": {
+      "links": [
+
+      ],
+      "stated_as": "Mehmet Cengiz Özalp"
+    }
+  },
+  {
+    "office": {
+      "links": [
+        "List of mayors of Ankara"
+      ],
+      "stated_as": "29th Mayor of Ankara"
+    },
+    "P580": "2019-04-08",
+    "P1365": {
+      "links": [
+        "Mustafa Tuna"
+      ],
+      "stated_as": "Mustafa Tuna"
+    }
+  }
+]

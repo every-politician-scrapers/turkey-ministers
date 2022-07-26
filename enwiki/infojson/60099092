@@ -1,0 +1,61 @@
+[
+  {
+    "office": {
+      "links": [
+        "Beylikdüzü"
+      ],
+      "stated_as": "Mayor of Beylikdüzü district, Istanbul"
+    },
+    "P580": "2014-04-01",
+    "P1365": {
+      "links": [
+
+      ],
+      "stated_as": "Yusuf Uzun"
+    },
+    "P582": "2019-04-07",
+    "P1366": {
+      "links": [
+
+      ],
+      "stated_as": "Mehmet Murat Çalık"
+    }
+  },
+  {
+    "office": {
+      "links": [
+        "List of mayors of Istanbul"
+      ],
+      "stated_as": "Mayor of Istanbul"
+    },
+    "P580": "2019-04-17",
+    "P1365": {
+      "links": [
+        "Mevlüt Uysal"
+      ],
+      "stated_as": "Mevlüt Uysal"
+    },
+    "P582": "2019-05-06",
+    "P1366": {
+      "links": [
+        "Ali Yerlikaya"
+      ],
+      "stated_as": "Ali Yerlikaya (acting)"
+    }
+  },
+  {
+    "office": {
+      "links": [
+        "List of mayors of Istanbul"
+      ],
+      "stated_as": "Mayor of Istanbul"
+    },
+    "P580": "2019-06-27",
+    "P1365": {
+      "links": [
+        "Ali Yerlikaya"
+      ],
+      "stated_as": "Ali Yerlikaya (acting)"
+    }
+  }
+]

@@ -1,0 +1,62 @@
+[
+  {
+    "office": {
+      "links": [
+        "Disaster and Emergency Management Presidency"
+      ],
+      "stated_as": "Director of the Disaster and Emergency Management Presidency"
+    },
+    "P580": "2012-01-02",
+    "P1365": {
+      "links": [
+
+      ],
+      "stated_as": "İbrahim Ejder Kaya (acting)"
+    },
+    "P582": "2016-06-18",
+    "P1366": {
+      "links": [
+
+      ],
+      "stated_as": "Mehmet Halis Bilden"
+    }
+  },
+  {
+    "office": {
+      "links": [
+        "Undersecretary",
+        "Prime Minister of Turkey"
+      ],
+      "stated_as": "Undersecretary to the Prime Minister of Turkey"
+    },
+    "P580": "2016-06-18",
+    "P1365": {
+      "links": [
+
+      ],
+      "stated_as": "Kemal Madenoğlu"
+    },
+    "P582": "2018-07-09",
+    "P1366": {
+      "links": [
+
+      ],
+      "stated_as": "Office abolished"
+    }
+  },
+  {
+    "office": {
+      "links": [
+        "Vice President of Turkey"
+      ],
+      "stated_as": "1st Vice President of Turkey"
+    },
+    "P580": "2018-07-10",
+    "P1365": {
+      "links": [
+
+      ],
+      "stated_as": "Office established"
+    }
+  }
+]
