@@ -89,6 +89,15 @@
       ],
       "infoboxes": [
         {
+          "honorific_prefix": {
+            "text": "The Right Honourable",
+            "links": [
+              {
+                "type": "internal",
+                "page": "The Right Honourable"
+              }
+            ]
+          },
           "name": {
             "text": "Mustafa Şentop"
           },
