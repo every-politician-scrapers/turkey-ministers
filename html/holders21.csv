@@ -1,263 +1,263 @@
-position,person,personID,start,end,gender,DOB,DOD,image,enwiki
-President,Süleyman Demirel,Q151729,1993-05-16,2000-05-16,male,1924-11-01,2015-06-17,Suleyman Demirel 1998.jpg,Süleyman Demirel
-President,Ahmet Necdet Sezer,Q165487,2000-05-16,2007-08-28,male,1941-09-13,,Ahmet Necdet Sezer.jpg,Ahmet Necdet Sezer
-President,Abdullah Gül,Q42852,2007-08-28,2014-08-28,male,1950-10-29,,Abdullah Gül (cropped version).jpg,Abdullah Gül
-President,Recep Tayyip Erdoğan,Q39259,2014-08-28,,male,1954-02-26,,Meeting between the President of the Republic of Turkey and President of Ukraine in 2022 (7) (cropped).jpg,Recep Tayyip Erdoğan
-Vice President,Fuat Oktay,Q55437281,2018-07-10,,male,1964,,Fuat Oktay.png,Fuat Oktay
-Prime Minister,Bülent Ecevit,Q192634,1999-05-28,2002-11-18,male,1925-05-28,2006-11-05,Bülent Ecevit-Davos 2000 cropped.jpg,Bülent Ecevit
-Prime Minister,Abdullah Gül,Q42852,2002-11-18,2003-03-14,male,1950-10-29,,Abdullah Gül (cropped version).jpg,Abdullah Gül
-Prime Minister,Recep Tayyip Erdoğan,Q39259,2003-03-14,2007-08-29,male,1954-02-26,,Meeting between the President of the Republic of Turkey and President of Ukraine in 2022 (7) (cropped).jpg,Recep Tayyip Erdoğan
-Prime Minister,Recep Tayyip Erdoğan,Q39259,2007-08-29,2011-07-06,male,1954-02-26,,Meeting between the President of the Republic of Turkey and President of Ukraine in 2022 (7) (cropped).jpg,Recep Tayyip Erdoğan
-Prime Minister,Recep Tayyip Erdoğan,Q39259,2011-07-06,2014-08-29,male,1954-02-26,,Meeting between the President of the Republic of Turkey and President of Ukraine in 2022 (7) (cropped).jpg,Recep Tayyip Erdoğan
-Prime Minister,Ahmet Davutoğlu,Q58198,2014-08-29,2015-08-28,male,1959-02-26,,Secretary Kerry Meets With Turkish Foreign Minister Davutoglu (2) (cropped).jpg,Ahmet Davutoğlu
-Prime Minister,Ahmet Davutoğlu,Q58198,2015-08-28,2015-11-24,male,1959-02-26,,Secretary Kerry Meets With Turkish Foreign Minister Davutoglu (2) (cropped).jpg,Ahmet Davutoğlu
-Prime Minister,Ahmet Davutoğlu,Q58198,2015-11-24,2016-05-24,male,1959-02-26,,Secretary Kerry Meets With Turkish Foreign Minister Davutoglu (2) (cropped).jpg,Ahmet Davutoğlu
-Prime Minister,Binali Yıldırım,Q863496,2016-05-24,2018-07-09,male,1955-12-20,,Portrait of Binali Yıldırım (cropped).jpg,Binali Yıldırım
-Deputy Prime Minister,Mesut Yılmaz,Q366692,1999-05-28,2002-11-18,male,1947-11-06,2020-10-30,,Mesut Yılmaz
-Deputy Prime Minister,Mehmet Ali Şahin,Q1396517,2002-11-18,2003-03-28,male,1950-09-16,,Mehmet Ali Sahin.jpg,Mehmet Ali Şahin
-Deputy Prime Minister,Abdüllatif Şener,Q317853,2002-11-18,2007-08-29,male,1954-04-26,,Abdullatif Sener-edited.jpg,Abdüllatif Şener
-Deputy Prime Minister,Abdullah Gül,Q42852,2003-03-28,2007-08-28,male,1950-10-29,,Abdullah Gül (cropped version).jpg,Abdullah Gül
-Deputy Prime Minister,Cemil Çiçek,Q202971,2007-08-28,2011-06-28,male,1946-11-04,,Cemil Cicek.jpg,Cemil Çiçek
-Deputy Prime Minister,Lütfi Elvan,Q6031129,2015-11-24,2016-05-24,male,1962-03-12,,Lütfi Elvan (cropped).png,Lütfi Elvan
-Deputy Prime Minister,Fikri Işık,Q15431339,2016-05-24,2018-07-09,male,1965-09-13,,Fikri Işık.jpg,Fikri Işık
-Deputy Prime Minister,Fikri Işık,Q15431339,2016-05-24,2018-07-10,male,1965-09-13,,Fikri Işık.jpg,Fikri Işık
-Deputy Prime Minister,Hakan Çavuşoğlu,Q21526183,2016-05-24,2018-07-09,male,1972-02-26,,Hakan Çavuşoğlu (cropped).jpg,
-Deputy Prime Minister,Hakan Çavuşoğlu,Q21526183,2016-05-24,2018-07-10,male,1972-02-26,,Hakan Çavuşoğlu (cropped).jpg,
-Deputy Prime Minister,Bekir Bozdağ,Q4881622,2016-05-24,2018-07-09,male,1965-04-01,,Bekir Bozdağ (cropped).jpg,Bekir Bozdağ
-Deputy Prime Minister,Bekir Bozdağ,Q4881622,2016-05-24,2018-07-10,male,1965-04-01,,Bekir Bozdağ (cropped).jpg,Bekir Bozdağ
-Deputy Prime Minister,Veysi Kaynak,Q6040561,2016-05-24,2018-07-09,male,1962-01-01,,VeysiKaynak.png,Veysi Kaynak
-Deputy Prime Minister,Veysi Kaynak,Q6040561,2016-05-24,2018-07-10,male,1962-01-01,,VeysiKaynak.png,Veysi Kaynak
-Deputy Prime Minister,Nurettin Canikli,Q6046409,2016-05-24,2018-07-09,male,1960-05-15,,"Deputy Prime Minister Nurettin Canikli, July 22, 2016 (cropped).jpg",Nurettin Canikli
-Deputy Prime Minister,Nurettin Canikli,Q6046409,2016-05-24,2018-07-10,male,1960-05-15,,"Deputy Prime Minister Nurettin Canikli, July 22, 2016 (cropped).jpg",Nurettin Canikli
-Deputy Prime Minister,Yıldırım Tuğrul Türkeş,Q65498832,2016-05-24,2018-07-09,,1954-12-01,,,
-Deputy Prime Minister,Yıldırım Tuğrul Türkeş,Q65498832,2016-05-24,2018-07-10,,1954-12-01,,,
-Deputy Prime Minister,Recep Akdağ,Q713551,2016-05-24,2018-07-09,male,1960-05-08,,RecepAkdağ2011.png,Recep Akdağ
-Deputy Prime Minister,Recep Akdağ,Q713551,2016-05-24,2018-07-10,male,1960-05-08,,RecepAkdağ2011.png,Recep Akdağ
-Deputy Prime Minister,Numan Kurtulmuş,Q982397,2016-05-24,2018-07-09,male,1959-03-23,,"Numan Kurtulmuş at Diyarbakır, 2021 (cropped).jpg",Numan Kurtulmuş
-Deputy Prime Minister,Numan Kurtulmuş,Q982397,2016-05-24,2018-07-10,male,1959-03-23,,"Numan Kurtulmuş at Diyarbakır, 2021 (cropped).jpg",Numan Kurtulmuş
-Minister of Agriculture and Forestry,Bekir Pakdemirli,Q55439729,2018-07-10,2022-03-04,male,1973-11-10,,Bekir Pakdemirli (cropped).jpg,Bekir Pakdemirli
-Minister of Agriculture and Forestry,Vahit Kirişçi,Q6042101,2022-03-04,,male,1960,,,Vahit Kirişci
-Minister of Culture and Tourism,Ertuğrul Günay,Q690376,2011-07-06,2013-01-24,male,1948-03-01,,Ertuğrul Günay.jpg,Ertuğrul Günay
-Minister of Culture and Tourism,Ömer Çelik,Q297516,2013-01-24,2014-08-29,male,1968-06-15,,Informal meeting of ministers for foreign affairs (Gymnich). Arrivals Ömer Çelik (36928367812) (cropped).jpg,Ömer Çelik
-Minister of Culture and Tourism,Ömer Çelik,Q297516,2014-08-29,2015-08-28,male,1968-06-15,,Informal meeting of ministers for foreign affairs (Gymnich). Arrivals Ömer Çelik (36928367812) (cropped).jpg,Ömer Çelik
-Minister of Culture and Tourism,Nabi Avcı,Q12811068,2016-05-24,2017-07-19,male,1953-10-08,,NabiAvcı2013.png,Nabi Avcı
-Minister of Culture and Tourism,Numan Kurtulmuş,Q982397,2016-05-24,2018-07-09,male,1959-03-23,,"Numan Kurtulmuş at Diyarbakır, 2021 (cropped).jpg",Numan Kurtulmuş
-Minister of Culture and Tourism,Numan Kurtulmuş,Q982397,2016-05-24,2018-07-10,male,1959-03-23,,"Numan Kurtulmuş at Diyarbakır, 2021 (cropped).jpg",Numan Kurtulmuş
-Minister of Culture and Tourism,Mehmet Nuri Ersoy,Q55526162,2018-07-10,,male,1968,,Mehmetersoy.jpg,Mehmet Ersoy
-Minister of Development,Lütfi Elvan,Q6031129,2016-05-24,2018-07-10,male,1962-03-12,,Lütfi Elvan (cropped).png,Lütfi Elvan
-Minister of Energy and Natural Resources,Cumhur Ersümer,Q6065381,1999-05-29,2001-05-09,male,1952,,,Cumhur Ersümer
-Minister of Energy and Natural Resources,Zeki Çakan,Q6064101,2001-05-09,2002-11-18,male,1950,,,
-Minister of Energy and Natural Resources,Hilmi Güler,Q1917341,2002-11-18,2009-05-01,male,1949-07-15,,Hilmi Guler cropped version.JPG,Hilmi Güler
-Minister of Energy and Natural Resources,Taner Yıldız,Q7682560,2011-07-06,2013-12-25,male,1962-04-03,,"Taner Yildiz - World Economic Forum on the Middle East, North Africa and Eurasia 2012 crop.jpg",Taner Yıldız
-Minister of Energy and Natural Resources,Ali Rıza Alaboyun,Q6035094,2015-08-28,2015-11-24,male,1957-03-08,,,Ali Rıza Alaboyun
-Minister of Energy and Natural Resources,Berat Albayrak,Q6052158,2015-11-24,2018-07-10,male,1978-01-01,,Berat Albayrak at the EU-Turkey High Level Economic Dialogue.jpg,Berat Albayrak
-Minister of Energy and Natural Resources,Berat Albayrak,Q6052158,2016-05-24,2018-07-09,male,1978-01-01,,Berat Albayrak at the EU-Turkey High Level Economic Dialogue.jpg,Berat Albayrak
-Minister of Energy and Natural Resources,Berat Albayrak,Q6052158,2016-05-24,2018-07-10,male,1978-01-01,,Berat Albayrak at the EU-Turkey High Level Economic Dialogue.jpg,Berat Albayrak
-Minister of Energy and Natural Resources,Fatih Dönmez,Q55456118,2018-07-10,,male,1965-01-01,,Fatih Dönmez (cropped).jpg,Fatih Dönmez
-Minister of European Union Affairs,Egemen Bağış,Q956051,2011-07-06,2013-12-25,male,1970-04-23,,Egemen Bagis 2006.jpg,Egemen Bağış
-Minister of European Union Affairs,Mevlüt Çavuşoğlu,Q249206,2013-12-25,2014-08-29,male,1968-02-05,,Συνάντηση ΥΠΕΞ Ν. Δένδια με Τούρκο ομόλογό του M. Çavuşoğlu 01 (cropped).jpg,Mevlüt Çavuşoğlu
-Minister of European Union Affairs,Volkan Bozkır,Q7940222,2014-08-29,2015-08-28,male,1950-11-22,,Volkan Bozkır April 2016 (26358127551) (cropped).jpg,Volkan Bozkır
-Minister of European Union Affairs,Ali Haydar Konca,Q20476246,2015-08-28,2015-09-22,male,1950-02-01,,,Ali Haydar Konca
-Minister of European Union Affairs,Beril Dedeoğlu,Q6054320,2015-09-22,2015-11-24,female,1961-12-09,2019-03-13,Beril Hatice Dedeoğlu.jpg,Beril Dedeoğlu
-Minister of European Union Affairs,Volkan Bozkır,Q7940222,2015-11-24,2016-05-24,male,1950-11-22,,Volkan Bozkır April 2016 (26358127551) (cropped).jpg,Volkan Bozkır
-Minister of European Union Affairs,Ömer Çelik,Q297516,2016-05-24,2018-07-09,male,1968-06-15,,Informal meeting of ministers for foreign affairs (Gymnich). Arrivals Ömer Çelik (36928367812) (cropped).jpg,Ömer Çelik
-Minister of Family and Social Services,Derya Yanık,Q106577630,2021-04-21,,female,1972,,Derya Yanik (cropped).jpg,Derya Yanık
-Minister of the Family and Social Policies,Fatma Şahin,Q524109,2011-07-06,2013-12-25,female,1966-06-20,,"Fatma Sahin - World Economic Forum on the Middle East, North Africa and Eurasia 2012.jpg",Fatma Şahin
-Minister of the Family and Social Policies,Ayşenur İslam,Q15416691,2013-12-25,2014-08-29,female,1958-01-16,,Ayşenurislam.png,Ayşenur İslam
-Minister of the Family and Social Policies,Ayşenur İslam,Q15416691,2014-08-29,2015-08-28,female,1958-01-16,,Ayşenurislam.png,Ayşenur İslam
-Minister of the Family and Social Policies,Ayşen Gürcan,Q20890362,2015-08-28,2015-11-24,female,1963,,,Ayşen Gürcan
-Minister of the Family and Social Policies,Sema Ramazanoğlu,Q21541529,2015-11-24,2016-05-24,female,1959-08-25,,847C2697(1).JPG cropped (Sema Ramazanoglu).png,Sema Ramazanoğlu
-Minister of the Family and Social Policies,Fatma Betül Sayan Kaya,Q24230049,2016-05-24,2018-07-10,female,1981-01-31,,,Fatma Betül Sayan Kaya
-"Minister of Family, Labour, and Social Services",Zehra Zümrüt Selçuk,Q55456168,2018-07-10,2021-04-21,female,1979-01-01,,Zehra-Zumrut-Selcuk.jpg,Zehra Zümrüt Selçuk
-Minister of Finance,Sümer Oral,Q6085014,1999-05-28,2002-11-19,male,1938-02-27,,,
-Minister of Finance,Kemal Unakıtan,Q381712,2002-11-19,2009-05-01,male,1946-02-14,2016-10-12,,Kemal Unakıtan
-Minister of Finance,Mehmet Şimşek,Q945364,2009-05-01,2015-11-24,male,1967-01-01,,Turkey's Minister of Finance Mehmet Simsek (15943285911) (cropped).jpg,Mehmet Şimşek
-Minister of Finance,Naci Ağbal,Q6032746,2015-11-24,2018-07-10,male,1968-01-01,,,Naci Ağbal
-Minister of Finance,Berat Albayrak,Q6052158,2018-07-10,2020-11-09,male,1978-01-01,,Berat Albayrak at the EU-Turkey High Level Economic Dialogue.jpg,Berat Albayrak
-Minister of Finance,Lütfi Elvan,Q6031129,2020-11-10,2021-12-02,male,1962-03-12,,Lütfi Elvan (cropped).png,Lütfi Elvan
-Minister of Finance,Nureddin Nebati,Q109627433,2021-12-02,,male,1964-01-01,,Nureddin Nebati (cropped).jpg,Nureddin Nebati
-Minister of Foreign Affairs,İsmail Cem İpekçi,Q344153,1999-04-18,2002-07-11,male,1940-02-15,2007-01-24,İsmail Cem (cropped).jpg,İsmail Cem
-Minister of Foreign Affairs,Şükrü Sina Gürel,Q390723,2002-07-12,2002-11-19,male,1950-01-01,,"Şükrü Sina Gürel detail, 020918-D-9880W-065.jpg",Şükrü Sina Gürel
-Minister of Foreign Affairs,Yaşar Yakış,Q75063,2002-11-19,2003-03-14,male,1938-08,,Yasar Yakis.jpg,Yaşar Yakış
-Minister of Foreign Affairs,Abdullah Gül,Q42852,2003-03-14,2007-08-28,male,1950-10-29,,Abdullah Gül (cropped version).jpg,Abdullah Gül
-Minister of Foreign Affairs,Ali Babacan,Q714518,2007-08-29,2009-05-02,male,1967-04-04,,"Ali Babacan, May 21, 2022.jpg",Ali Babacan
-Minister of Foreign Affairs,Ahmet Davutoğlu,Q58198,2009-05-02,2011-07-06,male,1959-02-26,,Secretary Kerry Meets With Turkish Foreign Minister Davutoglu (2) (cropped).jpg,Ahmet Davutoğlu
-Minister of Foreign Affairs,Ahmet Davutoğlu,Q58198,2011-07-06,2014-08-29,male,1959-02-26,,Secretary Kerry Meets With Turkish Foreign Minister Davutoglu (2) (cropped).jpg,Ahmet Davutoğlu
-Minister of Foreign Affairs,Mevlüt Çavuşoğlu,Q249206,2014-08-29,2015-08-30,male,1968-02-05,,Συνάντηση ΥΠΕΞ Ν. Δένδια με Τούρκο ομόλογό του M. Çavuşoğlu 01 (cropped).jpg,Mevlüt Çavuşoğlu
-Minister of Foreign Affairs,Feridun Sinirlioğlu,Q6082854,2015-08-30,2015-11-24,male,1956-01-30,,Feridun Sinirlioğlu.jpg,Feridun Sinirlioğlu
-Minister of Foreign Affairs,Mevlüt Çavuşoğlu,Q249206,2015-11-24,,male,1968-02-05,,Συνάντηση ΥΠΕΞ Ν. Δένδια με Τούρκο ομόλογό του M. Çavuşoğlu 01 (cropped).jpg,Mevlüt Çavuşoğlu
-Minister of Health,Osman Durmuş,Q6582094,1999-05-28,2002-11-19,male,1947-08-05,2020-10-26,,Osman Durmuş
-Minister of Health,Recep Akdağ,Q713551,2011-07-06,2013-01-24,male,1960-05-08,,RecepAkdağ2011.png,Recep Akdağ
-Minister of Health,Mehmet Müezzinoğlu,Q3739370,2013-01-24,2016-05-24,male,1955-01-09,,Mehmet Müezzinoğlu.png,Mehmet Müezzinoğlu
-Minister of Health,Recep Akdağ,Q713551,2016-05-24,2017-07-19,male,1960-05-08,,RecepAkdağ2011.png,Recep Akdağ
-Minister of Health,Ahmet Demircan,Q6029399,2017-07-19,2018-07-10,male,1954,,,Ahmet Demircan
-Minister of Health,Fahrettin Koca,Q55439659,2018-07-10,,male,1965-01-02,,Fahrettin Koca 20200305.jpg,Fahrettin Koca
-Minister of Industry and Technology,Mustafa Varank,Q55455996,2018-07-10,,male,1976-01-01,,"Mustafa VARANK, Ministro de Industria y Tecnología de Turquía - Reunión ministerial de Economía Digital (42435425930).jpg",Mustafa Varank
-Minister of the Interior,Sadettin Tantan,Q6085330,1999-05-28,2001-06-05,male,1941-01-01,,,Sadettin Tantan
-Minister of the Interior,Rüştü Kazım Yücelen,Q6075296,2001-06-05,2002-08-05,male,1948,2014-02-02,,
-Minister of the Interior,Muzaffer Ecemiş,Q6049544,2002-08-05,2002-11-18,male,1939,,,
-Minister of the Interior,Abdülkadir Aksu,Q318055,2002-11-18,2007-05-08,male,1944-10-12,,,Abdülkadir Aksu
-Minister of the Interior,Osman Güneş,Q7107079,2007-05-08,2007-08-29,male,1952,,,Osman Güneş
-Minister of the Interior,Beşir Atalay,Q854641,2007-08-29,2011-03-08,male,1947-04-01,,Beşir Atalay (cropped).jpg,Beşir Atalay
-Minister of the Interior,Osman Güneş,Q7107079,2011-03-08,2011-07-06,male,1952,,,Osman Güneş
-Minister of the Interior,İdris Naim Şahin,Q1941436,2011-07-06,2013-01-24,male,1956-06-01,,Idrisnaimşahin(cropped).jpg,İdris Naim Şahin
-Minister of the Interior,Muammer Güler,Q6930701,2013-01-24,2013-12-25,male,1949-03-21,,Muammer Güler (cropped).jpg,Muammer Güler
-Minister of the Interior,Efkan Ala,Q6034078,2013-12-25,2015-03-07,male,1965-02-21,,EfkanAla.png,Efkan Ala
-Minister of the Interior,Sebahattin Öztürk,Q6036614,2015-03-07,2015-08-28,male,1962-07-01,,SebahattinOzturk.jpg,Sebahattin Öztürk
-Minister of the Interior,Selami Altınok,Q6021021,2015-08-28,2015-11-17,male,1966-01-20,,,Selami Altınok
-Minister of the Interior,Efkan Ala,Q6034078,2015-11-24,2016-08-31,male,1965-02-21,,EfkanAla.png,Efkan Ala
-Minister of the Interior,Süleyman Soylu,Q6098459,2016-05-24,2018-07-09,male,1969-11-21,,Süleyman Soylu in Tehran 01.jpg,Süleyman Soylu
-Minister of the Interior,Süleyman Soylu,Q6098459,2016-05-24,2018-07-10,male,1969-11-21,,Süleyman Soylu in Tehran 01.jpg,Süleyman Soylu
-Minister of the Interior,Süleyman Soylu,Q6098459,2018-07-10,,male,1969-11-21,,Süleyman Soylu in Tehran 01.jpg,Süleyman Soylu
-Minister of Justice,Hikmet Sami Türk,Q1618055,1999-05-28,2002-08-05,male,1935,,,Hikmet Sami Türk
-Minister of Justice,Aysel Çelikel,Q6080047,2002-08-05,2002-11-18,female,1933,,Aysel Çelikel.jpg,Aysel Çelikel
-Minister of Justice,Cemil Çiçek,Q202971,2002-11-20,2007-05-08,male,1946-11-04,,Cemil Cicek.jpg,Cemil Çiçek
-Minister of Justice,Fahri Kasırga,Q5429626,2007-05-08,2007-08-29,male,1953-03-01,,,Fahri Kasırga
-Minister of Justice,Mehmet Ali Şahin,Q1396517,2007-08-29,2009-05-01,male,1950-09-16,,Mehmet Ali Sahin.jpg,Mehmet Ali Şahin
-Minister of Justice,Sadullah Ergin,Q447762,2009-05-01,2011-03-08,male,1964-07-06,,,Sadullah Ergin
-Minister of Justice,Ahmet Kahraman,Q6037973,2011-03-08,2011-07-06,male,1955,2013-12-29,,
-Minister of Justice,Sadullah Ergin,Q447762,2011-07-06,2013-12-25,male,1964-07-06,,,Sadullah Ergin
-Minister of Justice,Bekir Bozdağ,Q4881622,2013-12-25,2014-08-29,male,1965-04-01,,Bekir Bozdağ (cropped).jpg,Bekir Bozdağ
-Minister of Justice,Bekir Bozdağ,Q4881622,2014-08-29,2015-03-07,male,1965-04-01,,Bekir Bozdağ (cropped).jpg,Bekir Bozdağ
-Minister of Justice,Kenan İpek,Q17430893,2015-03-07,2015-11-24,male,1959-10-05,,,Kenan İpek
-Minister of Justice,Bekir Bozdağ,Q4881622,2015-11-25,2017-07-19,male,1965-04-01,,Bekir Bozdağ (cropped).jpg,Bekir Bozdağ
-Minister of Justice,Abdulhamit Gül,Q21328910,2017-07-19,2022-01-29,male,1977-03-12,,Abdulhamit Gül.png,Abdulhamit Gül
-Minister of Justice,Bekir Bozdağ,Q4881622,2022-01-29,,male,1965-04-01,,Bekir Bozdağ (cropped).jpg,Bekir Bozdağ
-Minister of Labour and Social Security,Ömer Dinçer,Q8078952,2009-05-01,2011-07-06,male,1956-09-10,,Ömer Dinçer.jpg,Ömer Dinçer
-Minister of Labour and Social Security,Mehmet Müezzinoğlu,Q3739370,2016-08-31,2017-07-19,male,1955-01-09,,Mehmet Müezzinoğlu.png,Mehmet Müezzinoğlu
-Minister of Labour and Social Security,Vedat Bilgin,Q6102989,2021-04-21,,male,1954,,VB fotografı.png,Vedat Bilgin
-Minister of National Defence,Sabahattin Çakmakoğlu,Q6096540,1999-05-28,2002-11-18,male,1930-11-25,,Sabahattin Çakmakoğlu (cropped).jpg,Sabahattin Çakmakoğlu
-Minister of National Defence,Vecdi Gönül,Q1917377,2002-11-18,2011-07-06,male,1939-11-29,,Vecdi Gönül.jpg,Vecdi Gönül
-Minister of National Defence,İsmet Yılmaz,Q8080224,2011-07-06,2013-01-24,male,1961-12-10,,İsmet Yılmaz.jpg,İsmet Yılmaz
-Minister of National Defence,Vecdi Gönül,Q1917377,2015-07-03,2015-11-24,male,1939-11-29,,Vecdi Gönül.jpg,Vecdi Gönül
-Minister of National Defence,İsmet Yılmaz,Q8080224,2015-11-24,2016-05-24,male,1961-12-10,,İsmet Yılmaz.jpg,İsmet Yılmaz
-Minister of National Defence,Fikri Işık,Q15431339,2016-05-24,2017-07-19,male,1965-09-13,,Fikri Işık.jpg,Fikri Işık
-Minister of National Defence,Fikri Işık,Q15431339,2016-05-24,2018-07-09,male,1965-09-13,,Fikri Işık.jpg,Fikri Işık
-Minister of National Defence,Fikri Işık,Q15431339,2016-05-24,2018-07-10,male,1965-09-13,,Fikri Işık.jpg,Fikri Işık
-Minister of National Defence,Nurettin Canikli,Q6046409,2016-05-24,2018-07-09,male,1960-05-15,,"Deputy Prime Minister Nurettin Canikli, July 22, 2016 (cropped).jpg",Nurettin Canikli
-Minister of National Defence,Nurettin Canikli,Q6046409,2016-05-24,2018-07-10,male,1960-05-15,,"Deputy Prime Minister Nurettin Canikli, July 22, 2016 (cropped).jpg",Nurettin Canikli
-Minister of National Defence,Nurettin Canikli,Q6046409,2017-07-19,2018-07-10,male,1960-05-15,,"Deputy Prime Minister Nurettin Canikli, July 22, 2016 (cropped).jpg",Nurettin Canikli
-Minister of National Defence,Hulusi Akar,Q17045790,2018-07-10,,male,1952-03-12,,Hulusi Akar MSC 2019 (cropped 2).jpg,Hulusi Akar
-Minister of National Education,Metin Bostancıoğlu,Q6042930,1999-01-11,2002-07-10,male,1942,,,Metin Bostancıoğlu
-Minister of National Education,Necdet Tekin,Q6044404,2002-07-10,2002-11-18,male,1947,,,
-Minister of National Education,Erkan Mumcu,Q581386,2002-11-18,2003-03-14,male,1963-05-01,,,Erkan Mumcu
-Minister of National Education,Hüseyin Çelik,Q1534762,2003-03-14,2009-05-01,male,1959-03-05,,Hüseyin Çelik 2008.jpg,Hüseyin Çelik
-Minister of National Education,Nimet Baş,Q466180,2009-05-01,2011-07-06,female,1965-03-02,,Nimet cropped.JPG,Nimet Baş
-Minister of National Education,Ömer Dinçer,Q8078952,2011-07-06,2013-01-24,male,1956-09-10,,Ömer Dinçer.jpg,Ömer Dinçer
-Minister of National Education,Nabi Avcı,Q12811068,2013-01-24,2016-05-24,male,1953-10-08,,NabiAvcı2013.png,Nabi Avcı
-Minister of National Education,İsmet Yılmaz,Q8080224,2016-05-24,2018-07-10,male,1961-12-10,,İsmet Yılmaz.jpg,İsmet Yılmaz
-Minister of National Education,Ziya Selçuk,Q55456220,2018-07-10,2021-08-05,male,1961,,Ziya Selçuk (cropped).png,Ziya Selçuk
-Minister of National Education,Mahmut Özer,Q19611864,2021-08-06,,male,1970-05-05,,Mahmut Özer (cropped).png,Mahmut Özer
-Minister of the Environment and Urbanisation,Erdoğan Bayraktar,Q5385308,2011-07-06,2013-12-25,male,1948-10-10,,Erdoğanbayraktar.png,Erdoğan Bayraktar
-Minister of the Environment and Urbanisation,İdris Güllüce,Q6059473,2013-12-25,2015-11-17,male,1950-02-11,,,İdris Güllüce
-Minister of the Environment and Urbanisation,Mehmet Özhaseki,Q1917380,2016-05-24,2018-07-09,male,1957-05-25,,Informal meeting of environment ministers. Field trip Mehmet Özhaseki (35090072483) (cropped).jpg,Mehmet Özhaseki
-Minister of the Environment and Urbanisation,Mehmet Özhaseki,Q1917380,2016-05-24,2018-07-10,male,1957-05-25,,Informal meeting of environment ministers. Field trip Mehmet Özhaseki (35090072483) (cropped).jpg,Mehmet Özhaseki
-Minister of the Environment and Urbanisation,Murat Kurum,Q56125668,2018-07-10,,male,1976-01-01,,Visit of Murat Kurum to the European Commission (cropped).jpg,Murat Kurum
-"Minister of Science, Industry and Technology",Nihat Ergün,Q3404635,2011-07-06,2013-12-25,male,1962-09-14,,Nihat Ergün.jpg,Nihat Ergün
-"Minister of Science, Industry and Technology",Fikri Işık,Q15431339,2013-12-25,2014-08-29,male,1965-09-13,,Fikri Işık.jpg,Fikri Işık
-Minister of Trade,Ruhsar Pekcan,Q55456148,2018-07-10,2021-04-21,female,1958,,Handshake between Ruhsar Pekcan and Phil Hogan (cropped).jpg,Ruhsar Pekcan
-Minister of Trade,Mehmet Muş,Q25477012,2021-04-21,,male,1982-05-01,,"Visit of Mehmet Muş, Turkish Miniser for Trade, to the European Commission.jpg",Mehmet Muş
-Minister of Transport and Infrastructure,Enis Öksüz,Q6039247,1999-05-28,2001-07-17,male,1946,,,
-Minister of Transport and Infrastructure,Oktay Vural,Q6582991,2001-07-30,2002-08-05,male,1956-02-09,,Oktay Vural.jpg,Oktay Vural
-Minister of Transport and Infrastructure,Naci Kınacıoğlu,Q6070178,2002-08-05,2002-11-18,male,1929,2009-06-20,,Naci Kınacıoğlu
-Minister of Transport and Infrastructure,Binali Yıldırım,Q863496,2002-11-18,2007-05-08,male,1955-12-20,,Portrait of Binali Yıldırım (cropped).jpg,Binali Yıldırım
-Minister of Transport and Infrastructure,İsmet Yılmaz,Q8080224,2007-05-08,2007-08-29,male,1961-12-10,,İsmet Yılmaz.jpg,İsmet Yılmaz
-Minister of Transport and Infrastructure,Binali Yıldırım,Q863496,2007-08-29,2011-03-08,male,1955-12-20,,Portrait of Binali Yıldırım (cropped).jpg,Binali Yıldırım
-Minister of Transport and Infrastructure,Habip Soluk,Q6043378,2011-03-08,2011-07-06,male,1950,,,Habip Soluk
-Minister of Transport and Infrastructure,Binali Yıldırım,Q863496,2011-07-06,2013-12-25,male,1955-12-20,,Portrait of Binali Yıldırım (cropped).jpg,Binali Yıldırım
-Minister of Transport and Infrastructure,Lütfi Elvan,Q6031129,2013-12-25,2015-03-06,male,1962-03-12,,Lütfi Elvan (cropped).png,Lütfi Elvan
-Minister of Transport and Infrastructure,Lütfi Elvan,Q6031129,2013-12-26,2015-03-07,male,1962-03-12,,Lütfi Elvan (cropped).png,Lütfi Elvan
-Minister of Transport and Infrastructure,Feridun Bilgin,Q19957768,2015-03-06,2015-11-24,male,1964,,Feridunbilgin.png,Feridun Bilgin
-Minister of Transport and Infrastructure,Binali Yıldırım,Q863496,2015-11-24,2016-05-24,male,1955-12-20,,Portrait of Binali Yıldırım (cropped).jpg,Binali Yıldırım
-Minister of Transport and Infrastructure,Ahmet Arslan,Q12808316,2016-05-24,2018-07-10,male,1962-06-02,,AhmetArslan.jpg,Ahmet Arslan (politician)
-Minister of Transport and Infrastructure,Mehmet Cahit Turhan,Q21526592,2018-07-10,2020-03-28,male,1960-04-29,,Mehmet Cahit Turhan - 2019 (cropped).jpg,Mehmet Cahit Turhan
-Minister of Transport and Infrastructure,Adil Karaismailoğlu,Q19612675,2020-03-28,,male,1969-05-19,,"Ilham Aliyev received delegation led by Turkish minister of transport and infrastructure, May 2021 02 (cropped).jpg",Adil Karaismailoğlu
-Minister of Youth and Sports,Suat Kılıç,Q7630529,2011-07-06,2013-12-25,male,1972-07-23,,,Suat Kılıç
-Minister of Youth and Sports,Akif Çağatay Kılıç,Q418025,2013-12-25,2017-07-19,male,1976-06-15,,"AkifÇağatayKılıç, Minister of Youth and Sports (May 2014).JPG",Akif Çağatay Kılıç
-Minister of Youth and Sports,Osman Aşkın Bak,Q39463440,2016-05-24,2018-07-09,male,1966,,,
-Minister of Youth and Sports,Osman Aşkın Bak,Q39463440,2016-05-24,2018-07-10,male,1966,,,
-Minister of Youth and Sports,Mehmet Kasapoğlu,Q56127416,2018-07-10,,male,1976-12-22,,"Mehmet Kasapoğlu in Ukraine, 2022.jpg",Mehmet Kasapoğlu
-Minister of State for Women and Family,Hasan Gemici,Q6030973,1999-01-11,2002-07-10,male,1953,,,
-Minister of State for Women and Family,Melda Bayer,Q6021213,2002-07-10,2002-11-18,female,1950,,,Melda Bayer
-Minister of State for Women and Family,Güldal Akşit,Q3404606,2003-03-14,2005-06-02,female,1960-01-23,2021-12-03,,Güldal Akşit
-Minister of State for Women and Family,Nimet Baş,Q466180,2005-06-02,2009-05-01,female,1965-03-02,,Nimet cropped.JPG,Nimet Baş
-Minister of State for Women and Family,Selma Aliye Kavaf,Q3394731,2009-05-01,2011-07-06,female,1962-07-01,,Selma Aliye Kavaf cropped.jpg,Selma Aliye Kavaf
-Speaker of the Grand National Assembly,Yıldırım Akbulut,Q558287,1999-05-20,2000-09-30,male,1935-09-02,2021-04-14,Yildirim Akbulut (1988).jpg,Yıldırım Akbulut
-Speaker of the Grand National Assembly,Köksal Toptan,Q725762,2007-08-09,2009-08-09,male,1943,,Köksal Toptan.jpg,Köksal Toptan
-Speaker of the Grand National Assembly,Mehmet Ali Şahin,Q1396517,2009-08-09,2011-06-28,male,1950-09-16,,Mehmet Ali Sahin.jpg,Mehmet Ali Şahin
-Speaker of the Grand National Assembly,Cemil Çiçek,Q202971,2011-07-04,2015-06-23,male,1946-11-04,,Cemil Cicek.jpg,Cemil Çiçek
-Speaker of the Grand National Assembly,İsmail Kahraman,Q6043452,2015-11-22,2018-07-07,male,1940-12-07,,İsmail Kahraman MeclisBaskani.jpg,İsmail Kahraman
-Speaker of the Grand National Assembly,Binali Yıldırım,Q863496,2018-07-12,2019-02-18,male,1955-12-20,,Portrait of Binali Yıldırım (cropped).jpg,Binali Yıldırım
-Speaker of the Grand National Assembly,Mustafa Şentop,Q21044620,2019-02-22,,male,1968-08-06,,Mustafa Şentop.jpg,Mustafa Şentop
-Chief of the General Staff,Hüseyin Kıvrıkoğlu,Q554479,1998-08-30,2002-08-28,male,1934-12-28,,,Hüseyin Kıvrıkoğlu
-Chief of the General Staff,Hilmi Özkök,Q742987,2002-08-28,2006-08-30,male,1940-08-04,,Hilmi Özkök (kesilmiş).jpg,Hilmi Özkök
-Chief of the General Staff,Yaşar Büyükanıt,Q961343,2006-08-28,2008-08-28,male,1940-09-01,2019-11-21,Yaşar Büyükanıt cropped.jpg,Yaşar Büyükanıt
-Chief of the General Staff,İlker Başbuğ,Q338148,2008-08-30,2010-08-27,male,1943-04-29,,Ilker Basbug.jpg,İlker Başbuğ
-Chief of the General Staff,Işık Koşaner,Q970840,2010-08-27,2011-07-29,male,1945-12-05,,,Işık Koşaner
-Chief of the General Staff,Necdet Özel,Q1372923,2011-07-29,2015-08-18,male,1950-10-10,,Necdet Özel 2 (cropped).jpg,Necdet Özel
-Chief of the General Staff,Hulusi Akar,Q17045790,2015-08-18,2018-07-09,male,1952-03-12,,Hulusi Akar MSC 2019 (cropped 2).jpg,Hulusi Akar
-Chief of the General Staff,Ümit Dündar,Q20476822,2016-07-16,2016-07-19,male,1955-10-02,,Ümit Dündar.png,Ümit Dündar
-Chief of the General Staff,Yaşar Güler,Q19636157,2018-07-10,,male,1954-09-18,,OrgeneralYasarGulerNATOHQ.jpg,Yaşar Güler
-Governor of the Central Bank,Gazi Erçel,Q6044483,1996-04-10,2001-03-01,male,1945-02-20,,,
-Governor of the Central Bank,Süreyya Serdengeçti,Q1386278,2001-03-14,2006-03-14,male,1952,,,Süreyya Serdengeçti
-Governor of the Central Bank,Durmuş Yılmaz,Q5316696,2006-04-18,2011-04-13,male,1947,,Durmuş Yılmaz (cropped).jpg,Durmuş Yılmaz
-Governor of the Central Bank,Erdem Başçı,Q5385265,2011-04-14,2016-04-19,male,1966,,"Erdem Basci - World Economic Forum on the Middle East, North Africa and Eurasia 2012 crop.jpg",Erdem Başçı
-Governor of the Central Bank,Murat Çetinkaya,Q23817662,2016-04-19,2019-07-06,male,1976,,Murat-cetinkaya.jpg,Murat Çetinkaya
-Governor of the Central Bank,Murat Uysal,Q97236199,2019-07-06,2020-11-07,male,,,,
-Governor of the Central Bank,Naci Ağbal,Q6032746,2020-11-07,2021-03-20,male,1968-01-01,,,Naci Ağbal
-Governor of the Central Bank,Şahap Kavcıoğlu,Q106076541,2021-03-20,,male,1967-05-23,,Sahap Kavcioglu.jpg,Şahap Kavcıoğlu
-Governor of Ankara,Yahya Gür,Q6036140,1999-10-01,2004-07-01,male,1939,,,
-Governor of Ankara,Kemal Önal,Q6034799,2004-09-16,2010-05-11,male,1946,,,
-Governor of Ankara,Alaaddin Yüksel,Q6068977,2010-05-27,2014-09-15,male,1950-04-01,,"Ömer Dinçer, Melih Gökçek, Alaaddin Yüksel and officials02.jpg",
-Governor of Ankara,Mehmet Kılıçlar,Q6054330,2014-09-22,2016-09-20,male,1965,,,
-Governor of Ankara,Ercan Topaca,Q6035178,2016-09-20,2018-11-05,male,1965,,,
-Governor of Ankara,Vasip Şahin,Q6027159,2018-11-06,,male,1964,,Vasip Şahin.jpg,Vasip Şahin
-Governor of İstanbul,Hüseyin Avni Mutlu,Q935430,2010-05-31,2014-09-25,male,1956,,Eski İstanbul Valisi Hüseyin Avni Mutlu (cropped).jpg,Hüseyin Avni Mutlu
-Governor of İstanbul,Vasip Şahin,Q6027159,2014-09-25,2018-11-01,male,1964,,Vasip Şahin.jpg,Vasip Şahin
-Governor of İstanbul,Ali Yerlikaya,Q12808436,2018-10-26,,male,1968-10-11,,Ali Yerlikaya.png,Ali Yerlikaya
-mayor of Istanbul,Ali Müfit Gürtuna,Q3207218,1998-11-12,2001-06-01,male,1952-06-01,,Ali Müfit Gürtuna (cropped).png,Ali Müfit Gürtuna
-mayor of Istanbul,Ali Müfit Gürtuna,Q3207218,2001-06-01,2004-04-01,male,1952-06-01,,Ali Müfit Gürtuna (cropped).png,Ali Müfit Gürtuna
-mayor of Istanbul,Kadir Topbaş,Q509775,2004-04-01,2017-09-22,male,1945-01-08,2021-02-13,Kadir Topbas at 38th Istanbul Vodafone Marathon (2) cropped.jpg,Kadir Topbaş
-mayor of Istanbul,Mevlüt Uysal,Q41866105,2017-09-28,2019-04-17,male,1966,,Mevlüt Uysal (cropped).jpg,Mevlüt Uysal
-mayor of Istanbul,Ekrem İmamoğlu,Q59313241,2019-04-17,2019-05-06,male,1970-06-04,,Ekrem İmamoğlu June 8 2022.jpg,Ekrem İmamoğlu
-mayor of Istanbul,Ali Yerlikaya,Q12808436,2019-05-07,2019-06-27,male,1968-10-11,,Ali Yerlikaya.png,Ali Yerlikaya
-mayor of Istanbul,Ekrem İmamoğlu,Q59313241,2019-06-27,,male,1970-06-04,,Ekrem İmamoğlu June 8 2022.jpg,Ekrem İmamoğlu
-Governor of Diyarbakır,Efkan Ala,Q6034078,2004-09-14,2007-09-10,male,1965-02-21,,EfkanAla.png,Efkan Ala
-Governor of Diyarbakır,Hüseyin Avni Mutlu,Q935430,2007-09-10,2010-05-31,male,1956,,Eski İstanbul Valisi Hüseyin Avni Mutlu (cropped).jpg,Hüseyin Avni Mutlu
-Governor of Düzce,Vasip Şahin,Q6027159,2010-06-07,2012-08-17,male,1964,,Vasip Şahin.jpg,Vasip Şahin
-Governor of Erzurum,Sebahattin Öztürk,Q6036614,2009-10-04,2013-05-08,male,1962-07-01,,SebahattinOzturk.jpg,Sebahattin Öztürk
-Governor of Gaziantep,Ali Yerlikaya,Q12808436,2015-02-19,2018-10-26,male,1968-10-11,,Ali Yerlikaya.png,Ali Yerlikaya
-Governor of Malatya,Vasip Şahin,Q6027159,2012-08-31,2014-09-24,male,1964,,Vasip Şahin.jpg,Vasip Şahin
-Governor of Niğde,Sebahattin Öztürk,Q6036614,2007-11-30,2009-10-04,male,1962-07-01,,SebahattinOzturk.jpg,Sebahattin Öztürk
-Governor of Siirt,Hüseyin Avni Mutlu,Q935430,2005-07-18,2007-09-10,male,1956,,Eski İstanbul Valisi Hüseyin Avni Mutlu (cropped).jpg,Hüseyin Avni Mutlu
-Governor of Tekirdağ,Ali Yerlikaya,Q12808436,2012-08-03,2015-02-19,male,1968-10-11,,Ali Yerlikaya.png,Ali Yerlikaya
-Governor of Şırnak,Ali Yerlikaya,Q12808436,2007-11-30,2010-05-13,male,1968-10-11,,Ali Yerlikaya.png,Ali Yerlikaya
-Deputy Speaker of the Grand National Assembly,Pervin Buldan,Q458740,2015-11-23,2018-02-11,female,1967-11-06,,"Pervin Buldan, 3 July 2022 (cropped).jpg",Pervin Buldan
-mayor of Ankara,Melih Gökçek,Q366274,1994-03-27,2017-10-28,male,1948-10-20,,Melih Gökçek.jpg,Melih Gökçek
-mayor of Ankara,Mustafa Tuna,Q19612046,2017,2019,male,1957,,Mustafa Tuna.png,Mustafa Tuna
-mayor of Ankara,Mansur Yavaş,Q6086970,2019-04-08,,male,1955-05-23,,Mansur Yavaş (cropped).jpg,Mansur Yavaş
-mayor of İzmir,Ahmet Piriştina,Q4696192,1999-04-18,2003-07-13,male,1952-04-08,2004-06-15,,Ahmet Piriştina
-mayor of İzmir,Ahmet Piriştina,Q4696192,2003-07-13,2004-06-15,male,1952-04-08,2004-06-15,,Ahmet Piriştina
-mayor of İzmir,Aziz Kocaoğlu,Q205121,2004-06-21,2019-04-08,male,1948,,Aziz Kocaoglu edited.jpg,Aziz Kocaoğlu
-mayor of İzmir,Tunç Soyer,Q61357331,2019-04-08,,male,1959,,"Tunç Soyer in Diyarbakır, March 2022 (cropped).jpg",Tunç Soyer
-mayor of Konya,Tahir Akyürek,Q6026914,2004-03-30,2018-04-26,male,1959,,,Tahir Akyurek
-mayor of Konya,Uğur İbrahim Altay,Q74237279,2019-03-31,,male,1974-01-01,,,
-ambassador to Hungary,Ender Arat,Q6036353,1998,2002,male,1947-01-21,,,
-ambassador to Hungary,Aydan Karahan,Q6066869,2003,2004,male,1942-07-01,,,
-ambassador to Hungary,Umur Apaydın,Q24304172,2004,2008,male,1947-07-26,,,
-ambassador to Hungary,Oya Tuzcuoğlu,Q6036300,2008,2010,female,1948,,,Oya Tuzcuoğlu
-ambassador to Hungary,Hasan Kemal Gür,Q6025406,2010,2013,male,1950,,,
-ambassador to Hungary,Şakir Fakılı,Q6028951,2013,2017,male,1953,,,
-ambassador to Hungary,Ahmet Akif Oktay,Q47501632,2018,,male,1961,,,
-ambassador to Lebanon,Hakan Çakıl,Q47501567,2018-07-04,,male,1964-09,,Hakan Cakil Giving a Speech.png,Hakan Çakıl
-ambassador to Nigeria,Hakan Çakıl,Q47501567,2015-08-15,2018-06-18,male,1964-09,,Hakan Cakil Giving a Speech.png,Hakan Çakıl
-ambassador to Slovakia,Nurettin Nurkan,Q40319045,1996,2000,,1946,2003-02-06,,
-ambassador to Slovakia,İnci Tümay,Q31189457,2000,2004,female,1947,,,
-ambassador to Slovakia,Erdal Tümer,Q24304167,2004,2005,male,1941,2018-11-14,,
-ambassador to Slovakia,Suna Çokgür Ilıcak,Q40319351,2005,2006,female,1957,2006-07-23,,
-ambassador to Slovakia,Tunç Üğdül,Q6027496,2007,2010,male,1957,,,
-ambassador to Slovakia,Dicle Kopuz,Q40319520,2010,2011,female,1955,,,
-ambassador to Slovakia,Lebibe Gülhan Ulutekin,Q31189968,2011,2016,female,1966,,,
-ambassador to Slovakia,Aslıgül Üğdül,Q25473353,2016,,female,1957-06-06,,,Aslıgül Üğdül
-ambassador to the United Kingdom,Akın Alptuna,Q6043220,2003,2007,male,1942-05-23,,,
-Commander of the Land Forces,İlker Başbuğ,Q338148,2006-08-25,2008-08-27,male,1943-04-29,,Ilker Basbug.jpg,İlker Başbuğ
+position,person,personID,start,end
+President,Süleyman Demirel,Q151729,1993-05-16,2000-05-16
+President,Ahmet Necdet Sezer,Q165487,2000-05-16,2007-08-28
+President,Abdullah Gül,Q42852,2007-08-28,2014-08-28
+President,Recep Tayyip Erdoğan,Q39259,2014-08-28,
+Vice President,Fuat Oktay,Q55437281,2018-07-10,
+Prime Minister,Bülent Ecevit,Q192634,1999-05-28,2002-11-18
+Prime Minister,Abdullah Gül,Q42852,2002-11-18,2003-03-14
+Prime Minister,Recep Tayyip Erdoğan,Q39259,2003-03-14,2007-08-29
+Prime Minister,Recep Tayyip Erdoğan,Q39259,2007-08-29,2011-07-06
+Prime Minister,Recep Tayyip Erdoğan,Q39259,2011-07-06,2014-08-29
+Prime Minister,Ahmet Davutoğlu,Q58198,2014-08-29,2015-08-28
+Prime Minister,Ahmet Davutoğlu,Q58198,2015-08-28,2015-11-24
+Prime Minister,Ahmet Davutoğlu,Q58198,2015-11-24,2016-05-24
+Prime Minister,Binali Yıldırım,Q863496,2016-05-24,2018-07-09
+Deputy Prime Minister,Mesut Yılmaz,Q366692,1999-05-28,2002-11-18
+Deputy Prime Minister,Mehmet Ali Şahin,Q1396517,2002-11-18,2003-03-28
+Deputy Prime Minister,Abdüllatif Şener,Q317853,2002-11-18,2007-08-29
+Deputy Prime Minister,Abdullah Gül,Q42852,2003-03-28,2007-08-28
+Deputy Prime Minister,Cemil Çiçek,Q202971,2007-08-28,2011-06-28
+Deputy Prime Minister,Lütfi Elvan,Q6031129,2015-11-24,2016-05-24
+Deputy Prime Minister,Fikri Işık,Q15431339,2016-05-24,2018-07-09
+Deputy Prime Minister,Fikri Işık,Q15431339,2016-05-24,2018-07-10
+Deputy Prime Minister,Hakan Çavuşoğlu,Q21526183,2016-05-24,2018-07-09
+Deputy Prime Minister,Hakan Çavuşoğlu,Q21526183,2016-05-24,2018-07-10
+Deputy Prime Minister,Bekir Bozdağ,Q4881622,2016-05-24,2018-07-09
+Deputy Prime Minister,Bekir Bozdağ,Q4881622,2016-05-24,2018-07-10
+Deputy Prime Minister,Veysi Kaynak,Q6040561,2016-05-24,2018-07-09
+Deputy Prime Minister,Veysi Kaynak,Q6040561,2016-05-24,2018-07-10
+Deputy Prime Minister,Nurettin Canikli,Q6046409,2016-05-24,2018-07-09
+Deputy Prime Minister,Nurettin Canikli,Q6046409,2016-05-24,2018-07-10
+Deputy Prime Minister,Yıldırım Tuğrul Türkeş,Q65498832,2016-05-24,2018-07-09
+Deputy Prime Minister,Yıldırım Tuğrul Türkeş,Q65498832,2016-05-24,2018-07-10
+Deputy Prime Minister,Recep Akdağ,Q713551,2016-05-24,2018-07-09
+Deputy Prime Minister,Recep Akdağ,Q713551,2016-05-24,2018-07-10
+Deputy Prime Minister,Numan Kurtulmuş,Q982397,2016-05-24,2018-07-09
+Deputy Prime Minister,Numan Kurtulmuş,Q982397,2016-05-24,2018-07-10
+Minister of Agriculture and Forestry,Bekir Pakdemirli,Q55439729,2018-07-10,2022-03-04
+Minister of Agriculture and Forestry,Vahit Kirişçi,Q6042101,2022-03-04,
+Minister of Culture and Tourism,Ertuğrul Günay,Q690376,2011-07-06,2013-01-24
+Minister of Culture and Tourism,Ömer Çelik,Q297516,2013-01-24,2014-08-29
+Minister of Culture and Tourism,Ömer Çelik,Q297516,2014-08-29,2015-08-28
+Minister of Culture and Tourism,Nabi Avcı,Q12811068,2016-05-24,2017-07-19
+Minister of Culture and Tourism,Numan Kurtulmuş,Q982397,2016-05-24,2018-07-09
+Minister of Culture and Tourism,Numan Kurtulmuş,Q982397,2016-05-24,2018-07-10
+Minister of Culture and Tourism,Mehmet Nuri Ersoy,Q55526162,2018-07-10,
+Minister of Development,Lütfi Elvan,Q6031129,2016-05-24,2018-07-10
+Minister of Energy and Natural Resources,Cumhur Ersümer,Q6065381,1999-05-29,2001-05-09
+Minister of Energy and Natural Resources,Zeki Çakan,Q6064101,2001-05-09,2002-11-18
+Minister of Energy and Natural Resources,Hilmi Güler,Q1917341,2002-11-18,2009-05-01
+Minister of Energy and Natural Resources,Taner Yıldız,Q7682560,2011-07-06,2013-12-25
+Minister of Energy and Natural Resources,Ali Rıza Alaboyun,Q6035094,2015-08-28,2015-11-24
+Minister of Energy and Natural Resources,Berat Albayrak,Q6052158,2015-11-24,2018-07-10
+Minister of Energy and Natural Resources,Berat Albayrak,Q6052158,2016-05-24,2018-07-09
+Minister of Energy and Natural Resources,Berat Albayrak,Q6052158,2016-05-24,2018-07-10
+Minister of Energy and Natural Resources,Fatih Dönmez,Q55456118,2018-07-10,
+Minister of European Union Affairs,Egemen Bağış,Q956051,2011-07-06,2013-12-25
+Minister of European Union Affairs,Mevlüt Çavuşoğlu,Q249206,2013-12-25,2014-08-29
+Minister of European Union Affairs,Volkan Bozkır,Q7940222,2014-08-29,2015-08-28
+Minister of European Union Affairs,Ali Haydar Konca,Q20476246,2015-08-28,2015-09-22
+Minister of European Union Affairs,Beril Dedeoğlu,Q6054320,2015-09-22,2015-11-24
+Minister of European Union Affairs,Volkan Bozkır,Q7940222,2015-11-24,2016-05-24
+Minister of European Union Affairs,Ömer Çelik,Q297516,2016-05-24,2018-07-09
+Minister of Family and Social Services,Derya Yanık,Q106577630,2021-04-21,
+Minister of the Family and Social Policies,Fatma Şahin,Q524109,2011-07-06,2013-12-25
+Minister of the Family and Social Policies,Ayşenur İslam,Q15416691,2013-12-25,2014-08-29
+Minister of the Family and Social Policies,Ayşenur İslam,Q15416691,2014-08-29,2015-08-28
+Minister of the Family and Social Policies,Ayşen Gürcan,Q20890362,2015-08-28,2015-11-24
+Minister of the Family and Social Policies,Sema Ramazanoğlu,Q21541529,2015-11-24,2016-05-24
+Minister of the Family and Social Policies,Fatma Betül Sayan Kaya,Q24230049,2016-05-24,2018-07-10
+"Minister of Family, Labour, and Social Services",Zehra Zümrüt Selçuk,Q55456168,2018-07-10,2021-04-21
+Minister of Finance,Sümer Oral,Q6085014,1999-05-28,2002-11-19
+Minister of Finance,Kemal Unakıtan,Q381712,2002-11-19,2009-05-01
+Minister of Finance,Mehmet Şimşek,Q945364,2009-05-01,2015-11-24
+Minister of Finance,Naci Ağbal,Q6032746,2015-11-24,2018-07-10
+Minister of Finance,Berat Albayrak,Q6052158,2018-07-10,2020-11-09
+Minister of Finance,Lütfi Elvan,Q6031129,2020-11-10,2021-12-02
+Minister of Finance,Nureddin Nebati,Q109627433,2021-12-02,
+Minister of Foreign Affairs,İsmail Cem İpekçi,Q344153,1999-04-18,2002-07-11
+Minister of Foreign Affairs,Şükrü Sina Gürel,Q390723,2002-07-12,2002-11-19
+Minister of Foreign Affairs,Yaşar Yakış,Q75063,2002-11-19,2003-03-14
+Minister of Foreign Affairs,Abdullah Gül,Q42852,2003-03-14,2007-08-28
+Minister of Foreign Affairs,Ali Babacan,Q714518,2007-08-29,2009-05-02
+Minister of Foreign Affairs,Ahmet Davutoğlu,Q58198,2009-05-02,2011-07-06
+Minister of Foreign Affairs,Ahmet Davutoğlu,Q58198,2011-07-06,2014-08-29
+Minister of Foreign Affairs,Mevlüt Çavuşoğlu,Q249206,2014-08-29,2015-08-30
+Minister of Foreign Affairs,Feridun Sinirlioğlu,Q6082854,2015-08-30,2015-11-24
+Minister of Foreign Affairs,Mevlüt Çavuşoğlu,Q249206,2015-11-24,
+Minister of Health,Osman Durmuş,Q6582094,1999-05-28,2002-11-19
+Minister of Health,Recep Akdağ,Q713551,2011-07-06,2013-01-24
+Minister of Health,Mehmet Müezzinoğlu,Q3739370,2013-01-24,2016-05-24
+Minister of Health,Recep Akdağ,Q713551,2016-05-24,2017-07-19
+Minister of Health,Ahmet Demircan,Q6029399,2017-07-19,2018-07-10
+Minister of Health,Fahrettin Koca,Q55439659,2018-07-10,
+Minister of Industry and Technology,Mustafa Varank,Q55455996,2018-07-10,
+Minister of the Interior,Sadettin Tantan,Q6085330,1999-05-28,2001-06-05
+Minister of the Interior,Rüştü Kazım Yücelen,Q6075296,2001-06-05,2002-08-05
+Minister of the Interior,Muzaffer Ecemiş,Q6049544,2002-08-05,2002-11-18
+Minister of the Interior,Abdülkadir Aksu,Q318055,2002-11-18,2007-05-08
+Minister of the Interior,Osman Güneş,Q7107079,2007-05-08,2007-08-29
+Minister of the Interior,Beşir Atalay,Q854641,2007-08-29,2011-03-08
+Minister of the Interior,Osman Güneş,Q7107079,2011-03-08,2011-07-06
+Minister of the Interior,İdris Naim Şahin,Q1941436,2011-07-06,2013-01-24
+Minister of the Interior,Muammer Güler,Q6930701,2013-01-24,2013-12-25
+Minister of the Interior,Efkan Ala,Q6034078,2013-12-25,2015-03-07
+Minister of the Interior,Sebahattin Öztürk,Q6036614,2015-03-07,2015-08-28
+Minister of the Interior,Selami Altınok,Q6021021,2015-08-28,2015-11-17
+Minister of the Interior,Efkan Ala,Q6034078,2015-11-24,2016-08-31
+Minister of the Interior,Süleyman Soylu,Q6098459,2016-05-24,2018-07-09
+Minister of the Interior,Süleyman Soylu,Q6098459,2016-05-24,2018-07-10
+Minister of the Interior,Süleyman Soylu,Q6098459,2018-07-10,
+Minister of Justice,Hikmet Sami Türk,Q1618055,1999-05-28,2002-08-05
+Minister of Justice,Aysel Çelikel,Q6080047,2002-08-05,2002-11-18
+Minister of Justice,Cemil Çiçek,Q202971,2002-11-20,2007-05-08
+Minister of Justice,Fahri Kasırga,Q5429626,2007-05-08,2007-08-29
+Minister of Justice,Mehmet Ali Şahin,Q1396517,2007-08-29,2009-05-01
+Minister of Justice,Sadullah Ergin,Q447762,2009-05-01,2011-03-08
+Minister of Justice,Ahmet Kahraman,Q6037973,2011-03-08,2011-07-06
+Minister of Justice,Sadullah Ergin,Q447762,2011-07-06,2013-12-25
+Minister of Justice,Bekir Bozdağ,Q4881622,2013-12-25,2014-08-29
+Minister of Justice,Bekir Bozdağ,Q4881622,2014-08-29,2015-03-07
+Minister of Justice,Kenan İpek,Q17430893,2015-03-07,2015-11-24
+Minister of Justice,Bekir Bozdağ,Q4881622,2015-11-25,2017-07-19
+Minister of Justice,Abdulhamit Gül,Q21328910,2017-07-19,2022-01-29
+Minister of Justice,Bekir Bozdağ,Q4881622,2022-01-29,
+Minister of Labour and Social Security,Ömer Dinçer,Q8078952,2009-05-01,2011-07-06
+Minister of Labour and Social Security,Mehmet Müezzinoğlu,Q3739370,2016-08-31,2017-07-19
+Minister of Labour and Social Security,Vedat Bilgin,Q6102989,2021-04-21,
+Minister of National Defence,Sabahattin Çakmakoğlu,Q6096540,1999-05-28,2002-11-18
+Minister of National Defence,Vecdi Gönül,Q1917377,2002-11-18,2011-07-06
+Minister of National Defence,İsmet Yılmaz,Q8080224,2011-07-06,2013-01-24
+Minister of National Defence,Vecdi Gönül,Q1917377,2015-07-03,2015-11-24
+Minister of National Defence,İsmet Yılmaz,Q8080224,2015-11-24,2016-05-24
+Minister of National Defence,Fikri Işık,Q15431339,2016-05-24,2017-07-19
+Minister of National Defence,Fikri Işık,Q15431339,2016-05-24,2018-07-09
+Minister of National Defence,Fikri Işık,Q15431339,2016-05-24,2018-07-10
+Minister of National Defence,Nurettin Canikli,Q6046409,2016-05-24,2018-07-09
+Minister of National Defence,Nurettin Canikli,Q6046409,2016-05-24,2018-07-10
+Minister of National Defence,Nurettin Canikli,Q6046409,2017-07-19,2018-07-10
+Minister of National Defence,Hulusi Akar,Q17045790,2018-07-10,
+Minister of National Education,Metin Bostancıoğlu,Q6042930,1999-01-11,2002-07-10
+Minister of National Education,Necdet Tekin,Q6044404,2002-07-10,2002-11-18
+Minister of National Education,Erkan Mumcu,Q581386,2002-11-18,2003-03-14
+Minister of National Education,Hüseyin Çelik,Q1534762,2003-03-14,2009-05-01
+Minister of National Education,Nimet Baş,Q466180,2009-05-01,2011-07-06
+Minister of National Education,Ömer Dinçer,Q8078952,2011-07-06,2013-01-24
+Minister of National Education,Nabi Avcı,Q12811068,2013-01-24,2016-05-24
+Minister of National Education,İsmet Yılmaz,Q8080224,2016-05-24,2018-07-10
+Minister of National Education,Ziya Selçuk,Q55456220,2018-07-10,2021-08-05
+Minister of National Education,Mahmut Özer,Q19611864,2021-08-06,
+Minister of the Environment and Urbanisation,Erdoğan Bayraktar,Q5385308,2011-07-06,2013-12-25
+Minister of the Environment and Urbanisation,İdris Güllüce,Q6059473,2013-12-25,2015-11-17
+Minister of the Environment and Urbanisation,Mehmet Özhaseki,Q1917380,2016-05-24,2018-07-09
+Minister of the Environment and Urbanisation,Mehmet Özhaseki,Q1917380,2016-05-24,2018-07-10
+Minister of the Environment and Urbanisation,Murat Kurum,Q56125668,2018-07-10,
+"Minister of Science, Industry and Technology",Nihat Ergün,Q3404635,2011-07-06,2013-12-25
+"Minister of Science, Industry and Technology",Fikri Işık,Q15431339,2013-12-25,2014-08-29
+Minister of Trade,Ruhsar Pekcan,Q55456148,2018-07-10,2021-04-21
+Minister of Trade,Mehmet Muş,Q25477012,2021-04-21,
+Minister of Transport and Infrastructure,Enis Öksüz,Q6039247,1999-05-28,2001-07-17
+Minister of Transport and Infrastructure,Oktay Vural,Q6582991,2001-07-30,2002-08-05
+Minister of Transport and Infrastructure,Naci Kınacıoğlu,Q6070178,2002-08-05,2002-11-18
+Minister of Transport and Infrastructure,Binali Yıldırım,Q863496,2002-11-18,2007-05-08
+Minister of Transport and Infrastructure,İsmet Yılmaz,Q8080224,2007-05-08,2007-08-29
+Minister of Transport and Infrastructure,Binali Yıldırım,Q863496,2007-08-29,2011-03-08
+Minister of Transport and Infrastructure,Habip Soluk,Q6043378,2011-03-08,2011-07-06
+Minister of Transport and Infrastructure,Binali Yıldırım,Q863496,2011-07-06,2013-12-25
+Minister of Transport and Infrastructure,Lütfi Elvan,Q6031129,2013-12-25,2015-03-06
+Minister of Transport and Infrastructure,Lütfi Elvan,Q6031129,2013-12-26,2015-03-07
+Minister of Transport and Infrastructure,Feridun Bilgin,Q19957768,2015-03-06,2015-11-24
+Minister of Transport and Infrastructure,Binali Yıldırım,Q863496,2015-11-24,2016-05-24
+Minister of Transport and Infrastructure,Ahmet Arslan,Q12808316,2016-05-24,2018-07-10
+Minister of Transport and Infrastructure,Mehmet Cahit Turhan,Q21526592,2018-07-10,2020-03-28
+Minister of Transport and Infrastructure,Adil Karaismailoğlu,Q19612675,2020-03-28,
+Minister of Youth and Sports,Suat Kılıç,Q7630529,2011-07-06,2013-12-25
+Minister of Youth and Sports,Akif Çağatay Kılıç,Q418025,2013-12-25,2017-07-19
+Minister of Youth and Sports,Osman Aşkın Bak,Q39463440,2016-05-24,2018-07-09
+Minister of Youth and Sports,Osman Aşkın Bak,Q39463440,2016-05-24,2018-07-10
+Minister of Youth and Sports,Mehmet Kasapoğlu,Q56127416,2018-07-10,
+Minister of State for Women and Family,Hasan Gemici,Q6030973,1999-01-11,2002-07-10
+Minister of State for Women and Family,Melda Bayer,Q6021213,2002-07-10,2002-11-18
+Minister of State for Women and Family,Güldal Akşit,Q3404606,2003-03-14,2005-06-02
+Minister of State for Women and Family,Nimet Baş,Q466180,2005-06-02,2009-05-01
+Minister of State for Women and Family,Selma Aliye Kavaf,Q3394731,2009-05-01,2011-07-06
+Speaker of the Grand National Assembly,Yıldırım Akbulut,Q558287,1999-05-20,2000-09-30
+Speaker of the Grand National Assembly,Köksal Toptan,Q725762,2007-08-09,2009-08-09
+Speaker of the Grand National Assembly,Mehmet Ali Şahin,Q1396517,2009-08-09,2011-06-28
+Speaker of the Grand National Assembly,Cemil Çiçek,Q202971,2011-07-04,2015-06-23
+Speaker of the Grand National Assembly,İsmail Kahraman,Q6043452,2015-11-22,2018-07-07
+Speaker of the Grand National Assembly,Binali Yıldırım,Q863496,2018-07-12,2019-02-18
+Speaker of the Grand National Assembly,Mustafa Şentop,Q21044620,2019-02-22,
+Chief of the General Staff,Hüseyin Kıvrıkoğlu,Q554479,1998-08-30,2002-08-28
+Chief of the General Staff,Hilmi Özkök,Q742987,2002-08-28,2006-08-30
+Chief of the General Staff,Yaşar Büyükanıt,Q961343,2006-08-28,2008-08-28
+Chief of the General Staff,İlker Başbuğ,Q338148,2008-08-30,2010-08-27
+Chief of the General Staff,Işık Koşaner,Q970840,2010-08-27,2011-07-29
+Chief of the General Staff,Necdet Özel,Q1372923,2011-07-29,2015-08-18
+Chief of the General Staff,Hulusi Akar,Q17045790,2015-08-18,2018-07-09
+Chief of the General Staff,Ümit Dündar,Q20476822,2016-07-16,2016-07-19
+Chief of the General Staff,Yaşar Güler,Q19636157,2018-07-10,
+Governor of the Central Bank,Gazi Erçel,Q6044483,1996-04-10,2001-03-01
+Governor of the Central Bank,Süreyya Serdengeçti,Q1386278,2001-03-14,2006-03-14
+Governor of the Central Bank,Durmuş Yılmaz,Q5316696,2006-04-18,2011-04-13
+Governor of the Central Bank,Erdem Başçı,Q5385265,2011-04-14,2016-04-19
+Governor of the Central Bank,Murat Çetinkaya,Q23817662,2016-04-19,2019-07-06
+Governor of the Central Bank,Murat Uysal,Q97236199,2019-07-06,2020-11-07
+Governor of the Central Bank,Naci Ağbal,Q6032746,2020-11-07,2021-03-20
+Governor of the Central Bank,Şahap Kavcıoğlu,Q106076541,2021-03-20,
+Governor of Ankara,Yahya Gür,Q6036140,1999-10-01,2004-07-01
+Governor of Ankara,Kemal Önal,Q6034799,2004-09-16,2010-05-11
+Governor of Ankara,Alaaddin Yüksel,Q6068977,2010-05-27,2014-09-15
+Governor of Ankara,Mehmet Kılıçlar,Q6054330,2014-09-22,2016-09-20
+Governor of Ankara,Ercan Topaca,Q6035178,2016-09-20,2018-11-05
+Governor of Ankara,Vasip Şahin,Q6027159,2018-11-06,
+Governor of İstanbul,Hüseyin Avni Mutlu,Q935430,2010-05-31,2014-09-25
+Governor of İstanbul,Vasip Şahin,Q6027159,2014-09-25,2018-11-01
+Governor of İstanbul,Ali Yerlikaya,Q12808436,2018-10-26,
+mayor of Istanbul,Ali Müfit Gürtuna,Q3207218,1998-11-12,2001-06-01
+mayor of Istanbul,Ali Müfit Gürtuna,Q3207218,2001-06-01,2004-04-01
+mayor of Istanbul,Kadir Topbaş,Q509775,2004-04-01,2017-09-22
+mayor of Istanbul,Mevlüt Uysal,Q41866105,2017-09-28,2019-04-17
+mayor of Istanbul,Ekrem İmamoğlu,Q59313241,2019-04-17,2019-05-06
+mayor of Istanbul,Ali Yerlikaya,Q12808436,2019-05-07,2019-06-27
+mayor of Istanbul,Ekrem İmamoğlu,Q59313241,2019-06-27,
+Governor of Diyarbakır,Efkan Ala,Q6034078,2004-09-14,2007-09-10
+Governor of Diyarbakır,Hüseyin Avni Mutlu,Q935430,2007-09-10,2010-05-31
+Governor of Düzce,Vasip Şahin,Q6027159,2010-06-07,2012-08-17
+Governor of Erzurum,Sebahattin Öztürk,Q6036614,2009-10-04,2013-05-08
+Governor of Gaziantep,Ali Yerlikaya,Q12808436,2015-02-19,2018-10-26
+Governor of Malatya,Vasip Şahin,Q6027159,2012-08-31,2014-09-24
+Governor of Niğde,Sebahattin Öztürk,Q6036614,2007-11-30,2009-10-04
+Governor of Siirt,Hüseyin Avni Mutlu,Q935430,2005-07-18,2007-09-10
+Governor of Tekirdağ,Ali Yerlikaya,Q12808436,2012-08-03,2015-02-19
+Governor of Şırnak,Ali Yerlikaya,Q12808436,2007-11-30,2010-05-13
+Deputy Speaker of the Grand National Assembly,Pervin Buldan,Q458740,2015-11-23,2018-02-11
+mayor of Ankara,Melih Gökçek,Q366274,1994-03-27,2017-10-28
+mayor of Ankara,Mustafa Tuna,Q19612046,2017,2019
+mayor of Ankara,Mansur Yavaş,Q6086970,2019-04-08,
+mayor of İzmir,Ahmet Piriştina,Q4696192,1999-04-18,2003-07-13
+mayor of İzmir,Ahmet Piriştina,Q4696192,2003-07-13,2004-06-15
+mayor of İzmir,Aziz Kocaoğlu,Q205121,2004-06-21,2019-04-08
+mayor of İzmir,Tunç Soyer,Q61357331,2019-04-08,
+mayor of Konya,Tahir Akyürek,Q6026914,2004-03-30,2018-04-26
+mayor of Konya,Uğur İbrahim Altay,Q74237279,2019-03-31,
+ambassador to Hungary,Ender Arat,Q6036353,1998,2002
+ambassador to Hungary,Aydan Karahan,Q6066869,2003,2004
+ambassador to Hungary,Umur Apaydın,Q24304172,2004,2008
+ambassador to Hungary,Oya Tuzcuoğlu,Q6036300,2008,2010
+ambassador to Hungary,Hasan Kemal Gür,Q6025406,2010,2013
+ambassador to Hungary,Şakir Fakılı,Q6028951,2013,2017
+ambassador to Hungary,Ahmet Akif Oktay,Q47501632,2018,
+ambassador to Lebanon,Hakan Çakıl,Q47501567,2018-07-04,
+ambassador to Nigeria,Hakan Çakıl,Q47501567,2015-08-15,2018-06-18
+ambassador to Slovakia,Nurettin Nurkan,Q40319045,1996,2000
+ambassador to Slovakia,İnci Tümay,Q31189457,2000,2004
+ambassador to Slovakia,Erdal Tümer,Q24304167,2004,2005
+ambassador to Slovakia,Suna Çokgür Ilıcak,Q40319351,2005,2006
+ambassador to Slovakia,Tunç Üğdül,Q6027496,2007,2010
+ambassador to Slovakia,Dicle Kopuz,Q40319520,2010,2011
+ambassador to Slovakia,Lebibe Gülhan Ulutekin,Q31189968,2011,2016
+ambassador to Slovakia,Aslıgül Üğdül,Q25473353,2016,
+ambassador to the United Kingdom,Akın Alptuna,Q6043220,2003,2007
+Commander of the Land Forces,İlker Başbuğ,Q338148,2006-08-25,2008-08-27
