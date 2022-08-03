@@ -1,0 +1,243 @@
+{
+  "title": "Hakan Çakıl",
+  "pageID": 64370590,
+  "categories": [
+    "1964 births",
+    "Living people",
+    "Ambassadors of Turkey to Lebanon"
+  ],
+  "sections": [
+    {
+      "title": "",
+      "depth": 0,
+      "paragraphs": [
+        {
+          "sentences": [
+            {
+              "text": "Hakan Çakıl (born 23 September 1964, in Ankara) is a Turkish diplomat and former ambassador of Turkey to Lebanon.",
+              "links": [
+                {
+                  "type": "internal",
+                  "page": "Ankara"
+                },
+                {
+                  "text": "diplomat",
+                  "type": "internal",
+                  "page": "diplomat"
+                },
+                {
+                  "text": "ambassador",
+                  "type": "internal",
+                  "page": "ambassador"
+                },
+                {
+                  "type": "internal",
+                  "page": "Lebanon"
+                }
+              ],
+              "formatting": {
+                "bold": [
+                  "Hakan Çakıl"
+                ]
+              }
+            }
+          ]
+        }
+      ],
+      "templates": [
+        {
+          "description": "Turkish diplomat",
+          "template": "short description"
+        },
+        {
+          "date": "June 2020",
+          "template": "single source"
+        }
+      ],
+      "infoboxes": [
+        {
+          "name": {
+            "text": "Hakan Çakıl"
+          },
+          "predecessor": {
+            "text": "Çağatay Erciyes"
+          },
+          "prior_term1": {
+            "text": "18 June 2018"
+          },
+          "termend": {
+            "text": "28 February 2021"
+          },
+          "termend1": {
+            "text": "18 June 2018"
+          },
+          "termstart": {
+            "text": "4 July 2018"
+          },
+          "succeeded1": {
+            "text": "Melih Ulueren"
+          },
+          "predecessor1": {
+            "text": "Mustafa Pulat"
+          },
+          "office1": {
+            "text": "Turkish Ambassador to Nigeria"
+          },
+          "image_size": {
+            "text": "230",
+            "number": 230
+          },
+          "office": {
+            "text": "Turkish Ambassador to Lebanon"
+          },
+          "spouse": {
+            "text": "Esin Çakıl"
+          },
+          "nationality": {
+            "text": "Turkish"
+          },
+          "birth_date": {
+            "text": "23 September 1964"
+          },
+          "birth_place": {
+            "text": "Ankara, Turkey"
+          },
+          "profession": {
+            "text": "Diplomat"
+          },
+          "children": {
+            "text": "1",
+            "number": 1
+          },
+          "alma_mater": {
+            "text": "Middle East Technical University"
+          },
+          "termstart1": {
+            "text": "15 August 2015"
+          },
+          "succeeded": {
+            "text": "Ali Barış Ulusoy"
+          }
+        }
+      ],
+      "references": [
+        {
+          "title": "Turkish Embassy in Beirut",
+          "url": "http://beyrut.be.mfa.gov.tr/Mission/MissionChiefHistory",
+          "url-status": "live",
+          "access-date": "24 September 2021",
+          "website": "Ministry of Foreign Affairs",
+          "template": "citation",
+          "type": "web"
+        }
+      ]
+    },
+    {
+      "title": "Life and career",
+      "depth": 0,
+      "paragraphs": [
+        {
+          "sentences": [
+            {
+              "text": "He attended Middle East Technical University where he received a bachelor's degree in Sociology.",
+              "links": [
+                {
+                  "type": "internal",
+                  "page": "Middle East Technical University"
+                },
+                {
+                  "type": "internal",
+                  "page": "Sociology"
+                }
+              ]
+            },
+            {
+              "text": "He started his career at Turkish Ministry of Foreign Affairs in 1990.",
+              "links": [
+                {
+                  "text": "Turkish Ministry of Foreign Affairs",
+                  "type": "internal",
+                  "page": "Ministry of Foreign Affairs (Turkey)"
+                }
+              ]
+            },
+            {
+              "text": "He was the undersecretary in Turkish Embassy to Northern Cyprus between 2009 and 2011.",
+              "links": [
+                {
+                  "text": "undersecretary",
+                  "type": "internal",
+                  "page": "undersecretary"
+                },
+                {
+                  "type": "internal",
+                  "page": "Northern Cyprus"
+                }
+              ]
+            },
+            {
+              "text": "He held the position of principal consultant for Cyprus Affairs in the Ministry of Foreign Affairs from 2011 to 2015.",
+              "links": [
+                {
+                  "text": "Cyprus",
+                  "type": "internal",
+                  "page": "Cyprus (island)"
+                },
+                {
+                  "text": "Ministry of Foreign Affairs",
+                  "type": "internal",
+                  "page": "Ministry of Foreign Affairs (Turkey)"
+                }
+              ]
+            },
+            {
+              "text": "Later, he became the ambassador of Turkey to Nigeria and stayed in Abuja, Nigeria between 2015 and 2018.",
+              "links": [
+                {
+                  "type": "internal",
+                  "page": "Nigeria"
+                },
+                {
+                  "text": "Abuja, Nigeria",
+                  "type": "internal",
+                  "page": "Abuja"
+                }
+              ]
+            },
+            {
+              "text": "He was the ambassador of Turkey to Lebanon from 4 July 2018 until 28 February 2021.",
+              "links": [
+                {
+                  "type": "internal",
+                  "page": "Lebanon"
+                }
+              ]
+            }
+          ]
+        }
+      ],
+      "references": [
+        {
+          "title": "T.C. Dışişleri Bakanlığı Beyrut Büyükelçiliği",
+          "url": "http://beyrut.be.mfa.gov.tr/Mission/Biography",
+          "access-date": "2020-06-24",
+          "website": "beyrut.be.mfa.gov.tr",
+          "template": "citation",
+          "type": "web"
+        }
+      ]
+    },
+    {
+      "title": "References",
+      "depth": 0,
+      "templates": [
+        {
+          "template": "reflist"
+        },
+        {
+          "template": "turkey-diplomat-stub"
+        }
+      ]
+    }
+  ]
+}

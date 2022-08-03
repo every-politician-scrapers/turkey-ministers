@@ -1,0 +1,254 @@
+{
+  "title": "Mehmet Ersoy",
+  "pageID": 779689,
+  "categories": [
+    "Living people",
+    "1968 births",
+    "Businesspeople from Istanbul",
+    "Deutsche Schule Istanbul alumni",
+    "Istanbul University alumni",
+    "Turkish businesspeople",
+    "Businesspeople in tourism",
+    "Ministers of Culture and Tourism of Turkey",
+    "Members of the 66th government of Turkey"
+  ],
+  "sections": [
+    {
+      "title": "",
+      "depth": 0,
+      "paragraphs": [
+        {
+          "sentences": [
+            {
+              "text": "Mehmet Nuri Ersoy (born 1968) is a Turkish businessman and current Minister of Culture and Tourism.",
+              "formatting": {
+                "bold": [
+                  "Mehmet Nuri Ersoy"
+                ]
+              }
+            }
+          ]
+        },
+        {
+          "sentences": [
+            {
+              "text": "Mehmet Nuri Ersoy was born in Istanbul, Turkey in 1968.",
+              "links": [
+                {
+                  "type": "internal",
+                  "page": "Istanbul"
+                }
+              ]
+            },
+            {
+              "text": "After completing his secondary education in the Deutsche Schule Istanbul, he studied Business Administration in English language at Istanbul University.",
+              "links": [
+                {
+                  "type": "internal",
+                  "page": "Deutsche Schule Istanbul"
+                },
+                {
+                  "type": "internal",
+                  "page": "Business Administration"
+                },
+                {
+                  "type": "internal",
+                  "page": "Istanbul University"
+                }
+              ]
+            },
+            {
+              "text": "In 1991, he founded the tourism company \"Ersoy Turistik Servisleri\" (ETS) together with his twin brother Murat."
+            },
+            {
+              "text": "More companies in the tourism branch followed with \"Voyage Hotels Group\" in 1999, \"Didim Tur\" as part of the ETS in 2001 and the airline company AtlasGlobal, known as Atlasjet, joining the group of companies in 2004.",
+              "links": [
+                {
+                  "type": "internal",
+                  "page": "AtlasGlobal"
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "sentences": [
+            {
+              "text": "On July 9, 2018, the newly elected President of Turkey Recep Tayyip Erdoğan announced his cabinet of the new Turkish political system.",
+              "links": [
+                {
+                  "type": "internal",
+                  "page": "President of Turkey"
+                },
+                {
+                  "type": "internal",
+                  "page": "Recep Tayyip Erdoğan"
+                }
+              ]
+            },
+            {
+              "text": "Mehmet Nuri Ersoy was appointed Minister of Culture and Tourism.<ref name=\"a1\"/",
+              "links": [
+                {
+                  "text": "Minister of Culture and Tourism",
+                  "type": "internal",
+                  "page": "Ministry of Culture and Tourism (Turkey)"
+                }
+              ]
+            }
+          ]
+        }
+      ],
+      "templates": [
+        {
+          "description": "Turkish businessman and politician",
+          "template": "short description"
+        },
+        {
+          "list": [
+            "Mehmet Akif Ersoy"
+          ],
+          "template": "distinguish"
+        },
+        {
+          "birth_year": "1968",
+          "template": "birth year and age"
+        }
+      ],
+      "infoboxes": [
+        {
+          "name": {
+            "text": "Mehmet Nuri Ersoy"
+          },
+          "image": {
+            "text": "File:Mehmetersoy.jpg"
+          },
+          "birth_date": {
+            "text": "1968 (age 54)"
+          },
+          "birth_place": {
+            "text": "Istanbul, Turkey",
+            "links": [
+              {
+                "type": "internal",
+                "page": "Istanbul"
+              }
+            ]
+          },
+          "education": {
+            "text": "Business administration",
+            "links": [
+              {
+                "type": "internal",
+                "page": "Business administration"
+              }
+            ]
+          },
+          "alma_mater": {
+            "text": "Istanbul University",
+            "links": [
+              {
+                "type": "internal",
+                "page": "Istanbul University"
+              }
+            ]
+          },
+          "occupation": {
+            "text": "Businessperson"
+          },
+          "office": {
+            "text": "Ministry of Culture and Tourism",
+            "links": [
+              {
+                "text": "Ministry of Culture and Tourism",
+                "type": "internal",
+                "page": "Ministry of Culture and Tourism (Turkey)"
+              }
+            ]
+          },
+          "term_start": {
+            "text": "July 10, 2018"
+          },
+          "president": {
+            "text": "Recep Tayyip Erdoğan",
+            "links": [
+              {
+                "type": "internal",
+                "page": "Recep Tayyip Erdoğan"
+              }
+            ]
+          },
+          "predecessor": {
+            "text": "Numan Kurtulmuş",
+            "links": [
+              {
+                "type": "internal",
+                "page": "Numan Kurtulmuş"
+              }
+            ]
+          }
+        }
+      ],
+      "references": [
+        {
+          "url": "https://www.tccb.gov.tr/en/cabinet/minister-of-culture-and-tourism",
+          "title": "Presidency Of The Republic Of Turkey : Mehmet Nuri ERSOY",
+          "publisher": "Presidency of Republic of Türkiye",
+          "access-date": "3 February 2022",
+          "template": "citation",
+          "type": "web"
+        }
+      ]
+    },
+    {
+      "title": "References",
+      "depth": 0,
+      "templates": [
+        {
+          "template": "reflist"
+        },
+        {
+          "template": "s-start"
+        },
+        {
+          "template": "s-off"
+        },
+        {
+          "before": "Numan Kurtulmuş",
+          "title": "Minister of Culture and Tourism",
+          "years": "July 10, 2018&ndash;present",
+          "after": "incumbent",
+          "template": "succession box"
+        },
+        {
+          "template": "66th government of turkey"
+        },
+        {
+          "template": "turkey-bio-stub"
+        }
+      ],
+      "references": [
+        {
+          "url": "http://www.cumhuriyet.com.tr/haber/siyaset/1021888/iste_Erdogan_in_acikladigi_kabine_listesi.html#",
+          "newspaper": "Cumhuriyet",
+          "title": "İşte Erdoğan'ın açıkladığı kabine listesi",
+          "date": "2018-07-10",
+          "language": "tr",
+          "access-date": "2018-07-10",
+          "template": "citation",
+          "type": "news"
+        },
+        {
+          "url": "https://www.aksam.com.tr/guncel/mehmet-ersoy-kimdir-kultur-ve-turizm-bakani-ersoy-kac-yasinda-aslen-nereli/haber-752918",
+          "newspaper": "Akşam",
+          "title": "Yeni bakan Mehmet Ersoy kaç yaşında, nereli? Kültür ve Turizm Bakanı Mehmet Ersoy kimdir?",
+          "date": "2018-07-10",
+          "language": "tr",
+          "access-date": "2018-07-10",
+          "template": "citation",
+          "type": "news"
+        }
+      ]
+    }
+  ]
+}
